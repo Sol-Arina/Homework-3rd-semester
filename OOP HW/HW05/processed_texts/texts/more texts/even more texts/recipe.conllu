@@ -1,0 +1,2350 @@
+1	Классическая	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	лазанья	лазанья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	мясом	мясо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	nmod	_	_
+5	
+
+	
+
+	SPACE	_	_	4	dep	_	_
+6	Изысканная	изысканный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	классическая	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	лазанья	лазанья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	мясом	мясо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	_
+11	считается	считаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+12	одним	одним	NUM	_	Case=Ins|Gender=Masc|Number=Sing	11	xcomp	_	_
+13	из	из	ADP	_	_	16	case	_	_
+14	самых	самых	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	популярных	популярный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+17	итальянской	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+19	.	.	PUNCT	_	_	11	punct	_	_
+20	
+	
+	SPACE	_	_	19	dep	_	_
+
+
+21	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	22	nsubj	_	_
+22	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+23	достаточно	достаточно	ADV	_	Degree=Pos	24	advmod	_	_
+24	просто	просто	ADV	_	Degree=Pos	22	advmod	_	_
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	но	но	CCONJ	_	_	27	cc	_	_
+27	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	22	conj	_	_
+28	сочной	сочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	27	xcomp	_	_
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	невероятно	невероятно	ADV	_	Degree=Pos	31	advmod	_	_
+31	нежной	нежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	28	conj	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	питательной	питательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	28	conj	_	_
+34	.	.	PUNCT	_	_	22	punct	_	_
+
+
+35	Для	Для	ADP	_	_	36	case	_	_
+36	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	obl	_	_
+37	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	нам	нам	PRON	_	Case=Dat|Number=Plur|Person=First	39	iobj	_	_
+39	потребуются	потребоваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+40	специальные	специальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	42	amod	_	_
+41	плоские	плоский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	42	amod	_	_
+42	листы	лист	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	39	nsubj	_	_
+43	пасты	паста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	_
+44	.	.	PUNCT	_	_	39	punct	_	_
+45	
+	
+	SPACE	_	_	44	dep	_	_
+
+
+46	Приобрести	приобрести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	48	csubj	_	_
+47	их	их	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=Third	46	obj	_	_
+48	можно	можно	ADV	_	Degree=Pos	0	ROOT	_	_
+49	в	в	ADP	_	_	51	case	_	_
+50	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing	51	det	_	_
+51	супермаркете	супермаркет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	48	obl	_	_
+52	.	.	PUNCT	_	_	48	punct	_	_
+
+
+53	Существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+54	2	2	NUM	_	_	55	nummod:gov	_	_
+55	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	53	nsubj	_	_
+56	листов	лист	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	55	nmod	_	_
+57	для	для	ADP	_	_	58	case	_	_
+58	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	56	nmod	_	_
+59	.	.	PUNCT	_	_	53	punct	_	_
+
+
+60	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	61	amod	_	_
+61	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	62	nsubj	_	_
+62	отваривается	отваривается	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+63	до	до	ADP	_	_	64	case	_	_
+64	полуготовности	полуготовность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	62	obl	_	_
+65	,	,	PUNCT	_	_	68	punct	_	_
+66	а	а	CCONJ	_	_	68	cc	_	_
+67	затем	затем	ADV	_	Degree=Pos	68	advmod	_	_
+68	выкладывается	выкладываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	62	conj	_	_
+69	в	в	ADP	_	_	70	case	_	_
+70	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	68	obl	_	_
+71	для	для	ADP	_	_	72	case	_	_
+72	запекания	запекание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	70	nmod	_	_
+73	.	.	PUNCT	_	_	62	punct	_	_
+74	
+	
+	SPACE	_	_	73	dep	_	_
+
+
+75	Второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	76	amod	_	_
+76	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	78	nsubj	_	_
+77	не	не	PART	_	Polarity=Neg	78	advmod	_	_
+78	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+79	предварительного	предварительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	80	amod	_	_
+80	отваривания	отваривание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	78	obj	_	_
+81	.	.	PUNCT	_	_	78	punct	_	_
+
+
+82	Классическая	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	83	amod	_	_
+83	лазанья	лазанья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	84	nsubj	_	_
+84	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+85	с	с	ADP	_	_	87	case	_	_
+86	двумя	два	NUM	_	Case=Ins	87	nummod	_	_
+87	видами	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	84	obl	_	_
+88	соусов	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	87	nmod	_	_
+89	:	:	PUNCT	_	_	90	punct	_	_
+90	бешамель	бешамель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	88	parataxis	_	_
+91	и	и	CCONJ	_	_	92	cc	_	_
+92	болоньезе	болоньезе	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	90	conj	_	_
+93	.	.	PUNCT	_	_	84	punct	_	_
+94	
+	
+	SPACE	_	_	93	dep	_	_
+
+
+95	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	96	amod	_	_
+96	соус	соус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	97	nsubj	_	_
+97	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+98	собой	себя	PRON	_	Case=Ins	97	fixed	_	_
+99	легкую	лёгкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	101	amod	_	_
+100	сливочную	сливочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	101	amod	_	_
+101	заправку	заправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	97	obj	_	_
+102	.	.	PUNCT	_	_	97	punct	_	_
+
+
+103	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	104	nsubj	_	_
+104	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+105	на	на	ADP	_	_	106	case	_	_
+106	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	104	obl	_	_
+107	молока	молоко	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	106	nmod	_	_
+108	,	,	PUNCT	_	_	109	punct	_	_
+109	сливок	сливка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	107	conj	_	_
+110	и	и	CCONJ	_	_	111	cc	_	_
+111	специй	специя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	107	conj	_	_
+112	.	.	PUNCT	_	_	104	punct	_	_
+
+
+113	Для	Для	ADP	_	_	114	case	_	_
+114	загущения	загущение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	115	obl	_	_
+115	используется	использоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+116	обычная	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	117	amod	_	_
+117	мука	мука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	115	nsubj:pass	_	_
+118	.	.	PUNCT	_	_	115	punct	_	_
+119	
+	
+	SPACE	_	_	118	dep	_	_
+
+
+120	Второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	121	amod	_	_
+121	соус	соус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	122	nsubj	_	_
+122	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+123	на	на	ADP	_	_	124	case	_	_
+124	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	122	obl	_	_
+125	мяса	мясо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	124	nmod	_	_
+126	,	,	PUNCT	_	_	129	punct	_	_
+127	точнее	точнее	ADV	_	Degree=Cmp	129	advmod	_	_
+128	смешанного	смешанный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	129	amod	_	_
+129	фарша	фарш	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	125	conj	_	_
+130	с	с	ADP	_	_	131	case	_	_
+131	добавлением	добавление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	129	nmod	_	_
+132	томатной	томатный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	133	amod	_	_
+133	пасты	паста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	131	nmod	_	_
+134	.	.	PUNCT	_	_	122	punct	_	_
+
+
+135	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	136	nsubj	_	_
+136	выступает	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+137	в	в	ADP	_	_	138	case	_	_
+138	роли	роль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	136	obl	_	_
+139	начинки	начинка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	138	nmod	_	_
+140	и	и	CCONJ	_	_	141	cc	_	_
+141	заправки	заправка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	139	conj	_	_
+142	одновременно	одновременно	ADV	_	Degree=Pos	141	advmod	_	_
+143	!	!	PUNCT	_	_	136	punct	_	_
+144	
+
+	
+
+	SPACE	_	_	143	dep	_	_
+
+
+145	Секреты	секрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	155	nsubj	_	_
+146	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	145	nmod	_	_
+147	классической	классический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	148	amod	_	_
+148	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	146	nmod	_	_
+149	с	с	ADP	_	_	150	case	_	_
+150	мясом	мясо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	148	nmod	_	_
+151	
+	
+	SPACE	_	_	150	dep	_	_
+152	Опытные	опытный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	154	amod	_	_
+153	итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	154	amod	_	_
+154	повара	повар	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	155	nsubj	_	_
+155	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+156	,	,	PUNCT	_	_	160	punct	_	_
+157	что	что	SCONJ	_	_	160	mark	_	_
+158	вкус	вкус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	160	nsubj	_	_
+159	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	158	nmod	_	_
+160	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	155	ccomp	_	_
+161	от	от	ADP	_	_	163	case	_	_
+162	используемых	использовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	163	amod	_	_
+163	компонентов	компонент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	160	obl	_	_
+164	.	.	PUNCT	_	_	155	punct	_	_
+
+
+165	Конечно	Конечно	ADV	_	Degree=Pos	169	parataxis	_	_
+166	,	,	PUNCT	_	_	165	punct	_	_
+167	все	весь	DET	_	Case=Nom|Number=Plur	168	det	_	_
+168	ингредиенты	ингредиент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	169	nsubj	_	_
+169	должны	должный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	0	ROOT	_	_
+170	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	171	cop	_	_
+171	качественными	качественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	169	xcomp	_	_
+172	и	и	CCONJ	_	_	173	cc	_	_
+173	свежими	свежий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	171	conj	_	_
+174	.	.	PUNCT	_	_	169	punct	_	_
+175	
+	
+	SPACE	_	_	174	dep	_	_
+
+
+176	Фарш	фарш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	178	nsubj	_	_
+177	лучше	хороший	ADJ	_	Degree=Cmp	178	advmod	_	_
+178	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	ROOT	_	_
+179	смешанный	смешанный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	178	obj	_	_
+180	.	.	PUNCT	_	_	178	punct	_	_
+
+
+181	В	в	ADP	_	_	183	case	_	_
+182	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	183	det	_	_
+183	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	185	obl	_	_
+184	лазанья	лазание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	185	nsubj	_	_
+185	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+186	в	в	ADP	_	_	187	case	_	_
+187	меру	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	185	obl	_	_
+188	жирной	жирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	187	nmod	_	_
+189	,	,	PUNCT	_	_	190	punct	_	_
+190	нежной	нежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	188	conj	_	_
+191	и	и	CCONJ	_	_	192	cc	_	_
+192	сочной	сочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	188	conj	_	_
+193	.	.	PUNCT	_	_	185	punct	_	_
+194	
+	
+	SPACE	_	_	193	dep	_	_
+
+
+195	Желательно	желательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+196	фарш	фарш	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	197	obj	_	_
+197	перекручивать	перекручивать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	195	csubj	_	_
+198	самостоятельно	самостоятельно	ADV	_	Degree=Pos	197	advmod	_	_
+199	из	из	ADP	_	_	201	case	_	_
+200	жирной	жирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	201	amod	_	_
+201	свинины	свинина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	197	obl	_	_
+202	и	и	CCONJ	_	_	204	cc	_	_
+203	постной	постный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	204	amod	_	_
+204	говядины	говядина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	201	conj	_	_
+205	.	.	PUNCT	_	_	195	punct	_	_
+
+
+206	Для	Для	ADP	_	_	207	case	_	_
+207	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	210	obl	_	_
+208	соуса	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	207	nmod	_	_
+209	нам	нам	PRON	_	Case=Dat|Number=Plur|Person=First	210	iobj	_	_
+210	потребуются	потребоваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+211	спелые	спелый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	213	amod	_	_
+212	мясистые	мясистый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	213	amod	_	_
+213	помидоры	помидор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	210	nsubj	_	_
+214	,	,	PUNCT	_	_	216	punct	_	_
+215	которые	которые	PRON	_	Case=Nom|Number=Plur	216	nsubj	_	_
+216	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	213	acl:relcl	_	_
+217	очистить	очистить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	216	csubj	_	_
+218	от	от	ADP	_	_	219	case	_	_
+219	кожицы	кожица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	217	obl	_	_
+220	.	.	PUNCT	_	_	210	punct	_	_
+221	
+	
+	SPACE	_	_	220	dep	_	_
+
+
+222	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	223	nsubj	_	_
+223	сделает	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+224	текстуру	текстура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	223	obj	_	_
+225	соуса	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	224	nmod	_	_
+226	более	более	ADV	_	Degree=Cmp	227	advmod	_	_
+227	нежной	нежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	223	obl	_	_
+228	.	.	PUNCT	_	_	223	punct	_	_
+
+
+229	Каких	какой	DET	_	Case=Gen|Number=Plur	233	det	_	_
+230	-	-	DET	_	Case=Gen|Number=Plur	233	det	_	_
+231	либо	либо	DET	_	Case=Gen|Number=Plur	233	det	_	_
+232	особых	особый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	233	amod	_	_
+233	специй	специя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	234	obj	_	_
+234	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	236	csubj	_	_
+235	не	не	PART	_	Polarity=Neg	236	advmod	_	_
+236	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+237	.	.	PUNCT	_	_	236	punct	_	_
+
+
+238	Для	Для	ADP	_	_	239	case	_	_
+239	аромата	аромат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	240	obl	_	_
+240	можно	можно	ADV	_	Degree=Pos	0	ROOT	_	_
+241	включить	включить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	240	csubj	_	_
+242	в	в	ADP	_	_	243	case	_	_
+243	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	241	obl	_	_
+244	соуса	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	243	nmod	_	_
+245	свежий	свежий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	246	amod	_	_
+246	базилик	базилик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	241	obj	_	_
+247	.	.	PUNCT	_	_	240	punct	_	_
+248	
+
+	
+
+	SPACE	_	_	247	dep	_	_
+
+
+249	Пожалуй	Пожалуй	ADV	_	Degree=Pos	255	parataxis	_	_
+250	,	,	PUNCT	_	_	249	punct	_	_
+251	ни	ни	PART	_	Polarity=Neg	252	advmod	_	_
+252	одно	одно	NUM	_	Case=Nom|Gender=Neut|Number=Sing	254	nummod	_	_
+253	итальянское	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	254	amod	_	_
+254	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	255	nsubj	_	_
+255	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+256	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	255	csubj	_	_
+257	без	без	ADP	_	_	258	case	_	_
+258	сыра	сыр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	256	obl	_	_
+259	.	.	PUNCT	_	_	255	punct	_	_
+
+
+260	Лазанья	лазанья	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	263	nsubj	_	_
+261	–	–	PUNCT	_	_	260	punct	_	_
+262	не	не	PART	_	Polarity=Neg	263	advmod	_	_
+263	исключение	исключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+264	.	.	PUNCT	_	_	263	punct	_	_
+265	
+	
+	SPACE	_	_	264	dep	_	_
+
+
+266	Для	Для	ADP	_	_	268	case	_	_
+267	ее	ее	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=Third	268	nmod	_	_
+268	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	269	obl	_	_
+269	необходим	необходимый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+270	твердый	твёрдый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	271	amod	_	_
+271	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	269	nsubj	_	_
+272	и	и	CCONJ	_	_	273	cc	_	_
+273	пармезан	пармезан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	271	conj	_	_
+274	.	.	PUNCT	_	_	269	punct	_	_
+
+
+275	Твердый	твёрдый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	276	amod	_	_
+276	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	278	nsubj:pass	_	_
+277	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	278	aux:pass	_	_
+278	использоваться	использоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	0	ROOT	_	_
+279	для	для	ADP	_	_	280	case	_	_
+280	прослойки	прослойка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	278	obl	_	_
+281	листов	лист	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	280	nmod	_	_
+282	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	281	nmod	_	_
+283	.	.	PUNCT	_	_	278	punct	_	_
+
+
+284	Пармезаном	пармезан	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	285	iobj	_	_
+285	можно	можно	ADV	_	Degree=Pos	0	ROOT	_	_
+286	посыпать	посыпать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	285	csubj	_	_
+287	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	286	obj	_	_
+288	при	при	ADP	_	_	289	case	_	_
+289	подаче	подача	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	286	obl	_	_
+290	к	к	ADP	_	_	291	case	_	_
+291	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	289	nmod	_	_
+292	.	.	PUNCT	_	_	285	punct	_	_
+293	
+
+	
+
+	SPACE	_	_	292	dep	_	_
+
+
+294	Ингредиенты	ингредиент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	301	nsubj	_	_
+295	:	:	PUNCT	_	_	297	punct	_	_
+296	
+	
+	SPACE	_	_	295	dep	_	_
+297	Листы	лист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	301	nsubj	_	_
+298	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	297	nmod	_	_
+299	–	–	PUNCT	_	_	297	punct	_	_
+300	10	10	NUM	_	_	301	nummod	_	_
+301	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	ROOT	_	_
+302	.	.	PUNCT	_	_	301	punct	_	_
+
+
+303	;	;	PUNCT	_	_	309	punct	_	_
+304	
+	
+	SPACE	_	_	303	dep	_	_
+305	Смешанный	смешанный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	306	amod	_	_
+306	фарш	фарш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	309	nsubj	_	_
+307	–	–	PUNCT	_	_	306	punct	_	_
+308	600	600	NUM	_	_	309	nummod	_	_
+309	г	г	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+310	;	;	PUNCT	_	_	309	punct	_	_
+311	
+	
+	SPACE	_	_	310	dep	_	_
+312	Спелые	спелый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	313	amod	_	_
+313	помидоры	помидор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	316	nsubj	_	_
+314	–	–	PUNCT	_	_	316	punct	_	_
+315	2	2	NUM	_	_	316	nummod:gov	_	_
+316	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	309	conj	_	_
+317	.	.	PUNCT	_	_	309	punct	_	_
+
+
+318	среднего	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	319	amod	_	_
+319	размера	размер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	333	obj	_	_
+320	;	;	PUNCT	_	_	319	punct	_	_
+321	
+	
+	SPACE	_	_	320	dep	_	_
+322	Репчатый	репчатый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	323	amod	_	_
+323	лук	лук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	326	nsubj	_	_
+324	–	–	PUNCT	_	_	323	punct	_	_
+325	2	2	NUM	_	_	326	nummod:gov	_	_
+326	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	319	conj	_	_
+327	.	.	PUNCT	_	_	326	punct	_	_
+328	;	;	PUNCT	_	_	319	punct	_	_
+329	
+	
+	SPACE	_	_	328	dep	_	_
+330	Чеснок	чеснок	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	333	nsubj	_	_
+331	–	–	PUNCT	_	_	333	punct	_	_
+332	2	2	NUM	_	_	333	nummod:gov	_	_
+333	зубчика	зубчик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	ROOT	_	_
+334	;	;	PUNCT	_	_	337	punct	_	_
+335	
+	
+	SPACE	_	_	334	dep	_	_
+336	Томатная	томатный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	337	amod	_	_
+337	паста	паста	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	340	nsubj	_	_
+338	–	–	PUNCT	_	_	337	punct	_	_
+339	2	2	NUM	_	_	340	nummod:gov	_	_
+340	ст.л	ст.л	PROPN	_	_	333	conj	_	_
+341	.	.	PUNCT	_	_	340	punct	_	_
+342	;	;	PUNCT	_	_	333	punct	_	_
+343	
+	
+	SPACE	_	_	342	dep	_	_
+
+
+344	Твердый	твёрдый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	345	amod	_	_
+345	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	348	nsubj	_	_
+346	–	–	PUNCT	_	_	348	punct	_	_
+347	120	120	NUM	_	_	348	nummod	_	_
+348	г	г	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	ROOT	_	_
+349	;	;	PUNCT	_	_	348	punct	_	_
+350	
+	
+	SPACE	_	_	349	dep	_	_
+351	Сливочное	сливочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	352	amod	_	_
+352	масло	масло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	348	conj	_	_
+353	–	–	PUNCT	_	_	355	punct	_	_
+354	50	50	NUM	_	_	355	nummod	_	_
+355	г	г	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	352	parataxis	_	_
+356	;	;	PUNCT	_	_	358	punct	_	_
+357	
+	
+	SPACE	_	_	356	dep	_	_
+358	Молоко	молоко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	352	conj	_	_
+359	–	–	PUNCT	_	_	361	punct	_	_
+360	300	300	NUM	_	_	361	nummod	_	_
+361	мл	мл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	358	orphan	_	_
+362	;	;	PUNCT	_	_	364	punct	_	_
+363	
+	
+	SPACE	_	_	362	dep	_	_
+364	Сливки	сливка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	348	conj	_	_
+365	10	10	NUM	_	_	364	appos	_	_
+366	%	%	SYM	_	_	364	nmod	_	_
+367	-	-	PUNCT	_	_	364	appos	_	_
+368	200	200	NUM	_	_	369	nummod	_	_
+369	мл	мл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	364	nmod	_	_
+370	;	;	PUNCT	_	_	348	punct	_	_
+371	
+	
+	SPACE	_	_	370	dep	_	_
+
+
+372	Пшеничная	пшеничная	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	373	amod	_	_
+373	мука	мука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	376	nsubj	_	_
+374	–	–	PUNCT	_	_	376	punct	_	_
+375	5	5	NUM	_	_	376	nummod	_	_
+376	ст.л	ст.л	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	ROOT	_	_
+377	.	.	PUNCT	_	_	376	punct	_	_
+
+
+378	;	;	PUNCT	_	_	384	punct	_	_
+379	
+	
+	SPACE	_	_	378	dep	_	_
+380	Растительное	растительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	381	amod	_	_
+381	масло	масло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	384	nsubj	_	_
+382	–	–	PUNCT	_	_	381	punct	_	_
+383	2	2	NUM	_	_	384	nummod:gov	_	_
+384	ст.л	ст.л	PROPN	_	_	0	ROOT	_	_
+385	.	.	PUNCT	_	_	384	punct	_	_
+
+
+386	;	;	PUNCT	_	_	395	punct	_	_
+387	
+	
+	SPACE	_	_	386	dep	_	_
+388	Соль	соль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	395	nsubj	_	_
+389	,	,	PUNCT	_	_	392	punct	_	_
+390	черный	чёрный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	392	amod	_	_
+391	молотый	молотый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	392	amod	_	_
+392	перец	перец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	388	appos	_	_
+393	–	–	PUNCT	_	_	395	punct	_	_
+394	по	по	ADP	_	_	395	case	_	_
+395	вкусу	вкус	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	ROOT	_	_
+396	.	.	PUNCT	_	_	395	punct	_	_
+397	
+	
+	SPACE	_	_	396	dep	_	_
+
+
+398	Способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+399	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	398	nmod	_	_
+400	:	:	PUNCT	_	_	402	punct	_	_
+401	
+	
+	SPACE	_	_	400	dep	_	_
+402	Обжариваем	обжаривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	398	parataxis	_	_
+403	нарезанный	нарезать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	406	acl	_	_
+404	кубиками	кубик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	403	obl:agent	_	_
+405	репчатый	репчатый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	406	amod	_	_
+406	лук	лук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	402	obj	_	_
+407	до	до	ADP	_	_	408	case	_	_
+408	мягкости	мягкость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	402	obl	_	_
+409	и	и	CCONJ	_	_	410	cc	_	_
+410	прозрачности	прозрачность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	408	conj	_	_
+411	в	в	ADP	_	_	414	case	_	_
+412	разогретом	разогреть	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	414	amod	_	_
+413	растительном	растительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	414	amod	_	_
+414	масле	масло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	410	nmod	_	_
+415	.	.	PUNCT	_	_	398	punct	_	_
+
+
+416	Добавляем	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+417	к	к	ADP	_	_	418	case	_	_
+418	нему	нему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=Third	416	obl	_	_
+419	фарш	фарш	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	416	obj	_	_
+420	,	,	PUNCT	_	_	422	punct	_	_
+421	аккуратно	аккуратно	ADV	_	Degree=Pos	422	advmod	_	_
+422	разбивая	разбивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	416	advcl	_	_
+423	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	422	obj	_	_
+424	лопаткой	лопатка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	422	iobj	_	_
+425	.	.	PUNCT	_	_	416	punct	_	_
+
+
+426	Обжариваем	обжаривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+427	компоненты	компонент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	426	obj	_	_
+428	около	около	ADP	_	_	430	case	_	_
+429	5	5	NUM	_	_	430	nummod	_	_
+430	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	426	obl	_	_
+431	;	;	PUNCT	_	_	433	punct	_	_
+432	
+	
+	SPACE	_	_	431	dep	_	_
+433	Отправляем	отправлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	426	parataxis	_	_
+434	к	к	ADP	_	_	435	case	_	_
+435	фаршу	фарш	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	433	obl	_	_
+436	измельченный	измельченный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	437	amod	_	_
+437	чеснок	чеснок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	433	obj	_	_
+438	и	и	CCONJ	_	_	441	cc	_	_
+439	нарезанные	нарезать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	441	acl	_	_
+440	кубиками	кубик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	439	obl:agent	_	_
+441	помидоры	помидор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	437	conj	_	_
+442	.	.	PUNCT	_	_	426	punct	_	_
+
+
+443	Сковороду	сковорода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	444	obj	_	_
+444	накрываем	накрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+445	крышкой	крышка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	444	obl	_	_
+446	.	.	PUNCT	_	_	444	punct	_	_
+
+
+447	Томим	томить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+448	содержимое	содержимое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	447	obj	_	_
+449	около	около	ADP	_	_	451	case	_	_
+450	10	10	NUM	_	_	451	nummod	_	_
+451	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	447	obl	_	_
+452	;	;	PUNCT	_	_	454	punct	_	_
+453	
+	
+	SPACE	_	_	452	dep	_	_
+454	Выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	447	conj	_	_
+455	в	в	ADP	_	_	456	case	_	_
+456	заправку	заправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	454	obl	_	_
+457	томатную	томатный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	458	amod	_	_
+458	пасту	паста	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	454	obj	_	_
+459	,	,	PUNCT	_	_	460	punct	_	_
+460	солим	солим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	447	conj	_	_
+461	.	.	PUNCT	_	_	447	punct	_	_
+
+
+462	Через	через	ADP	_	_	463	case	_	_
+463	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	465	obl	_	_
+464	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	463	nmod	_	_
+465	выключаем	выключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+466	огонь	огонь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	465	obj	_	_
+467	,	,	PUNCT	_	_	468	punct	_	_
+468	даем	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	465	conj	_	_
+469	массе	масса	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	468	iobj	_	_
+470	остыть	остыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	468	xcomp	_	_
+471	;	;	PUNCT	_	_	465	punct	_	_
+472	
+	
+	SPACE	_	_	471	dep	_	_
+
+
+473	В	в	ADP	_	_	474	case	_	_
+474	сотейнике	сотейник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	475	obl	_	_
+475	разогреваем	разогревать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+476	сливочное	сливочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	477	amod	_	_
+477	масло	масло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	475	obj	_	_
+478	,	,	PUNCT	_	_	479	punct	_	_
+479	обжариваем	обжаривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	475	conj	_	_
+480	в	в	ADP	_	_	481	case	_	_
+481	нем	нем	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=Third	479	obl	_	_
+482	муку	мука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	479	obj	_	_
+483	,	,	PUNCT	_	_	485	punct	_	_
+484	которую	которую	PRON	_	Case=Acc|Gender=Fem|Number=Sing	485	iobj	_	_
+485	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	482	acl:relcl	_	_
+486	разбить	разбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	485	csubj	_	_
+487	венчиком	венчик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	486	iobj	_	_
+488	,	,	PUNCT	_	_	492	punct	_	_
+489	чтобы	чтобы	SCONJ	_	Mood=Cnd	492	mark	_	_
+490	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	492	nsubj	_	_
+491	не	не	PART	_	Polarity=Neg	492	advmod	_	_
+492	образовывала	образовывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	486	advcl	_	_
+493	комочки	комочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	492	obj	_	_
+494	.	.	PUNCT	_	_	475	punct	_	_
+
+
+495	Как	как	SCONJ	_	_	498	mark	_	_
+496	только	только	PART	_	_	495	fixed	_	_
+497	масса	масса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	498	nsubj	_	_
+498	подрумянится	подрумяниться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	500	advcl	_	_
+499	,	,	PUNCT	_	_	500	punct	_	_
+500	выльем	вылить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+501	к	к	ADP	_	_	502	case	_	_
+502	ней	ней	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=Third	500	obl	_	_
+503	молоко	молоко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	500	obj	_	_
+504	и	и	CCONJ	_	_	505	cc	_	_
+505	сливки	сливка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	503	conj	_	_
+506	.	.	PUNCT	_	_	500	punct	_	_
+
+
+507	Не	не	PART	_	Polarity=Neg	508	advmod	_	_
+508	забываем	забывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+509	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	508	xcomp	_	_
+510	венчиком	венчик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	509	iobj	_	_
+511	,	,	PUNCT	_	_	514	punct	_	_
+512	чтобы	чтобы	SCONJ	_	Mood=Cnd	514	mark	_	_
+513	не	не	PART	_	Polarity=Neg	514	advmod	_	_
+514	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	509	advcl	_	_
+515	комочков	комочек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	514	nsubj	_	_
+516	.	.	PUNCT	_	_	508	punct	_	_
+
+
+517	Когда	когда	SCONJ	_	_	520	mark	_	_
+518	консистенция	консистенция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	520	nsubj	_	_
+519	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	520	aux	_	_
+520	напоминать	напоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	524	advcl	_	_
+521	густые	густой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	522	amod	_	_
+522	сливки	сливка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	520	obj	_	_
+523	,	,	PUNCT	_	_	524	punct	_	_
+524	снимаем	снимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+525	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	524	obj	_	_
+526	с	с	ADP	_	_	527	case	_	_
+527	огня	огонь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	524	obl	_	_
+528	и	и	CCONJ	_	_	529	cc	_	_
+529	остужаем	остужать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	524	conj	_	_
+530	до	до	ADP	_	_	532	case	_	_
+531	комнатной	комнатный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	532	amod	_	_
+532	температуры	температура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	529	obl	_	_
+533	;	;	PUNCT	_	_	524	punct	_	_
+534	
+	
+	SPACE	_	_	533	dep	_	_
+535	В	в	ADP	_	_	536	case	_	_
+536	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	539	obl	_	_
+537	для	для	ADP	_	_	538	case	_	_
+538	запекания	запекание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	536	nmod	_	_
+539	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	524	conj	_	_
+540	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	542	nummod:gov	_	_
+541	столовых	столовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	542	amod	_	_
+542	ложек	ложка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	539	obj	_	_
+543	сливочного	сливочный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	544	amod	_	_
+544	соуса	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	542	nmod	_	_
+545	,	,	PUNCT	_	_	548	punct	_	_
+546	затем	затем	ADV	_	Degree=Pos	548	advmod	_	_
+547	2	2	NUM	_	_	548	nummod:gov	_	_
+548	листа	лист	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	539	conj	_	_
+549	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	548	nmod	_	_
+550	,	,	PUNCT	_	_	552	punct	_	_
+551	опять	опять	ADV	_	Degree=Pos	552	advmod	_	_
+552	бешамель	бешамель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	539	conj	_	_
+553	,	,	PUNCT	_	_	556	punct	_	_
+554	на	на	ADP	_	_	555	case	_	_
+555	который	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	556	obl	_	_
+556	выкладываем	выкладываем	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act	552	acl:relcl	_	_
+557	фарш	фарш	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	556	obj	_	_
+558	,	,	PUNCT	_	_	559	punct	_	_
+559	присыпаем	присыпать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	539	conj	_	_
+560	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	559	obj	_	_
+561	тертым	тёртый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	562	amod	_	_
+562	сыром	сыр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	559	iobj	_	_
+563	.	.	PUNCT	_	_	524	punct	_	_
+
+
+564	Сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	565	nsubj	_	_
+565	накрываем	накрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+566	листами	листами	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	565	iobj	_	_
+567	лазаньи	лазаньи	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	566	nmod	_	_
+568	.	.	PUNCT	_	_	565	punct	_	_
+
+
+569	Слои	слой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	570	obj	_	_
+570	чередуем	чередовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+571	пока	пока	ADV	_	Degree=Pos	574	advmod	_	_
+572	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	574	nsubj	_	_
+573	не	не	PART	_	Polarity=Neg	574	advmod	_	_
+574	закончатся	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	570	ccomp	_	_
+575	.	.	PUNCT	_	_	570	punct	_	_
+
+
+576	В	в	ADP	_	_	578	case	_	_
+577	самом	самом	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	578	amod	_	_
+578	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	579	obl	_	_
+579	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+580	остатки	остаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	579	obj	_	_
+581	соуса	соус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	580	nmod	_	_
+582	бешамель	бешамель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	579	obj	_	_
+583	и	и	CCONJ	_	_	585	cc	_	_
+584	тертый	тёртый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	585	amod	_	_
+585	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	582	conj	_	_
+586	;	;	PUNCT	_	_	588	punct	_	_
+587	
+	
+	SPACE	_	_	586	dep	_	_
+588	Отправляем	отправлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	579	conj	_	_
+589	наше	наш	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	590	det	_	_
+590	блюдо	блюдо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	588	obj	_	_
+591	в	в	ADP	_	_	596	case	_	_
+592	разогретую	разогреть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	596	acl	_	_
+593	до	до	ADP	_	_	595	case	_	_
+594	190	190	NUM	_	_	595	nummod	_	_
+595	градусов	градус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	592	obl	_	_
+596	духовку	духовка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	588	obl	_	_
+597	на	на	ADP	_	_	599	case	_	_
+598	35	35	NUM	_	_	599	nummod	_	_
+599	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	596	nmod	_	_
+600	;	;	PUNCT	_	_	588	punct	_	_
+601	
+	
+	SPACE	_	_	600	dep	_	_
+
+
+602	Готовой	готовой	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	603	amod	_	_
+603	лазанье	лазание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	604	nsubj	_	_
+604	даем	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+605	настояться	настояться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	604	xcomp	_	_
+606	около	около	ADP	_	_	608	case	_	_
+607	10	10	NUM	_	_	608	nummod	_	_
+608	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	605	obl	_	_
+609	.	.	PUNCT	_	_	604	punct	_	_
+
+
+610	Затем	затем	ADV	_	Degree=Pos	611	advmod	_	_
+611	разрезаем	разрезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+612	ее	ее	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=Third	611	obj	_	_
+613	на	на	ADP	_	_	615	case	_	_
+614	порционные	порционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	615	amod	_	_
+615	куски	кусок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	611	obl	_	_
+616	и	и	CCONJ	_	_	617	cc	_	_
+617	подаем	подавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	611	conj	_	_
+618	к	к	ADP	_	_	619	case	_	_
+619	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	617	obl	_	_
+620	.	.	PUNCT	_	_	611	punct	_	_
+621	
+
+	
+
+	SPACE	_	_	620	dep	_	_
+
+
+622	Предлагаю	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+623	вам	вам	PRON	_	Case=Dat|Number=Plur|Person=Second	622	iobj	_	_
+624	сегодня	сегодня	ADV	_	Degree=Pos	625	advmod	_	_
+625	приготовить	приготовить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	622	xcomp	_	_
+626	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	625	obj	_	_
+627	(	(	PUNCT	_	_	628	punct	_	_
+628	Tiramisu	tiramisu	PROPN	_	Foreign=Yes	626	appos	_	_
+629	)	)	PUNCT	_	_	628	punct	_	_
+630	—	—	PUNCT	_	_	636	punct	_	_
+631	очень	очень	ADV	_	Degree=Pos	632	advmod	_	_
+632	воздушный	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	636	amod	_	_
+633	,	,	PUNCT	_	_	634	punct	_	_
+634	нежный	нежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	632	conj	_	_
+635	итальянский	итальянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	636	amod	_	_
+636	десерт	десерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	626	appos	_	_
+637	,	,	PUNCT	_	_	640	punct	_	_
+638	с	с	ADP	_	_	640	case	_	_
+639	изумительным	изумительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	640	amod	_	_
+640	контрастом	контраст	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	625	obl	_	_
+641	сладкого	сладкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	643	amod	_	_
+642	сливочного	сливочный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	643	amod	_	_
+643	крема	крем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	640	nmod	_	_
+644	и	и	CCONJ	_	_	646	cc	_	_
+645	горьковатого	горьковатый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	646	amod	_	_
+646	вкуса	вкус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	643	conj	_	_
+647	крепкого	крепкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	648	amod	_	_
+648	кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	646	nmod	_	_
+649	.	.	PUNCT	_	_	622	punct	_	_
+
+
+650	Однако	однако	ADV	_	Degree=Pos	652	parataxis	_	_
+651	,	,	PUNCT	_	_	650	punct	_	_
+652	бесполезно	бесполезный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+653	объяснять	объяснять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	652	csubj	_	_
+654	каков	каков	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	653	obj	_	_
+655	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	653	iobj	_	_
+656	на	на	ADP	_	_	657	case	_	_
+657	вкус	вкус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	653	obl	_	_
+658	,	,	PUNCT	_	_	661	punct	_	_
+659	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	661	nsubj	_	_
+660	просто	просто	PART	_	_	661	advmod	_	_
+661	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	652	conj	_	_
+662	попробовать	попробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	661	csubj	_	_
+663	.	.	PUNCT	_	_	652	punct	_	_
+
+
+664	В	в	ADP	_	_	665	case	_	_
+665	рецепт	рецепт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	669	obl	_	_
+666	классического	классический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	667	amod	_	_
+667	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	665	nmod	_	_
+668	обязательно	обязательно	ADV	_	Degree=Pos	669	advmod	_	_
+669	входят	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+670	:	:	PUNCT	_	_	672	punct	_	_
+671	сливочный	сливочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	672	amod	_	_
+672	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	669	parataxis	_	_
+673	Маскарпоне	маскарпоне	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	672	appos	_	_
+674	(	(	PUNCT	_	_	675	punct	_	_
+675	Mascarpone	mascarpone	PROPN	_	Foreign=Yes	673	appos	_	_
+676	)	)	PUNCT	_	_	675	punct	_	_
+677	,	,	PUNCT	_	_	679	punct	_	_
+678	куриные	куриный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	679	amod	_	_
+679	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	672	conj	_	_
+680	,	,	PUNCT	_	_	681	punct	_	_
+681	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	672	conj	_	_
+682	эспрессо	эспрессо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	681	nmod	_	_
+683	,	,	PUNCT	_	_	684	punct	_	_
+684	сахар	сахар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	672	conj	_	_
+685	и	и	CCONJ	_	_	687	cc	_	_
+686	бисквитное	бисквитный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	687	amod	_	_
+687	печенье	печение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	672	conj	_	_
+688	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	687	appos	_	_
+689	(	(	PUNCT	_	_	690	punct	_	_
+690	Savoiardi	savoiardi	PROPN	_	Foreign=Yes	688	appos	_	_
+691	)	)	PUNCT	_	_	690	punct	_	_
+692	,	,	PUNCT	_	_	699	punct	_	_
+693	сверху	сверху	ADV	_	Degree=Pos	699	advmod	_	_
+694	десерт	десерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	699	nsubj	_	_
+695	,	,	PUNCT	_	_	697	punct	_	_
+696	как	как	SCONJ	_	_	697	case	_	_
+697	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	699	parataxis	_	_
+698	,	,	PUNCT	_	_	697	punct	_	_
+699	посыпают	посыпать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	672	conj	_	_
+700	какао	какао	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	699	obj	_	_
+701	-	-	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	699	obj	_	_
+702	порошком	порошок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	699	obj	_	_
+703	.	.	PUNCT	_	_	669	punct	_	_
+704	
+
+	
+
+	SPACE	_	_	703	dep	_	_
+
+
+705	Сейчас	сейчас	ADV	_	Degree=Pos	708	advmod	_	_
+706	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	708	nsubj	_	_
+707	очень	очень	ADV	_	Degree=Pos	708	advmod	_	_
+708	популярен	популярный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+709	во	в	ADP	_	_	711	case	_	_
+710	всём	весь	DET	_	Case=Loc|Gender=Masc|Number=Sing	711	det	_	_
+711	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	708	obl	_	_
+712	,	,	PUNCT	_	_	716	punct	_	_
+713	но	но	CCONJ	_	_	716	cc	_	_
+714	родиной	родина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	716	xcomp	_	_
+715	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	714	nmod	_	_
+716	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	708	conj	_	_
+717	Италия	италия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	716	nsubj	_	_
+718	.	.	PUNCT	_	_	708	punct	_	_
+
+
+719	В	в	ADP	_	_	720	case	_	_
+720	переводе	перевод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	724	obl	_	_
+721	с	с	ADP	_	_	722	case	_	_
+722	итальянского	итальянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	723	amod	_	_
+723	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	724	iobj	_	_
+724	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+725	«	"	PUNCT	_	_	726	punct	_	_
+726	Подними	подними	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	724	xcomp	_	_
+727	меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	726	obj	_	_
+728	вверх	вверх	ADV	_	Degree=Pos	726	advmod	_	_
+729	»	"	PUNCT	_	_	726	punct	_	_
+730	или	или	CCONJ	_	_	732	cc	_	_
+731	«	"	PUNCT	_	_	732	punct	_	_
+732	Вознеси	вознеси	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	726	conj	_	_
+733	меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	732	nmod	_	_
+734	»	"	PUNCT	_	_	732	punct	_	_
+735	(	(	PUNCT	_	_	736	punct	_	_
+736	tira	tira	PROPN	_	Foreign=Yes	732	appos	_	_
+737	—	—	PUNCT	_	_	738	punct	_	_
+738	тяни	тяни	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	736	appos	_	_
+739	,	,	PUNCT	_	_	740	punct	_	_
+740	mi	mi	PROPN	_	Foreign=Yes	736	conj	_	_
+741	—	—	PUNCT	_	_	742	punct	_	_
+742	меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	736	parataxis	_	_
+743	,	,	PUNCT	_	_	744	punct	_	_
+744	su	su	PROPN	_	Foreign=Yes	736	conj	_	_
+745	—	—	PUNCT	_	_	746	punct	_	_
+746	вверх	вверх	ADV	_	Degree=Pos	736	advmod	_	_
+747	)	)	PUNCT	_	_	736	punct	_	_
+748	.	.	PUNCT	_	_	724	punct	_	_
+
+
+749	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	751	det	_	_
+750	странное	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	751	amod	_	_
+751	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	752	nsubj:pass	_	_
+752	трактуется	трактоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+753	по	по	ADP	_	_	754	case	_	_
+754	разному	разный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	752	obl	_	_
+755	,	,	PUNCT	_	_	756	punct	_	_
+756	например	например	ADV	_	Degree=Pos	761	parataxis	_	_
+757	,	,	PUNCT	_	_	761	punct	_	_
+758	что	что	SCONJ	_	_	761	mark	_	_
+759	десерт	десерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	761	nsubj	_	_
+760	настолько	настолько	ADV	_	Degree=Pos	761	advmod	_	_
+761	нежный	нежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	754	parataxis	_	_
+762	и	и	CCONJ	_	_	763	cc	_	_
+763	воздушный	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	761	conj	_	_
+764	,	,	PUNCT	_	_	766	punct	_	_
+765	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	766	nsubj	_	_
+766	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	752	parataxis	_	_
+767	лишь	лишь	PART	_	_	768	advmod	_	_
+768	попробовать	попробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	766	csubj	_	_
+769	—	—	PUNCT	_	_	770	punct	_	_
+770	оказываешься	оказываешься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	768	parataxis	_	_
+771	в	в	ADP	_	_	772	case	_	_
+772	облаках	облако	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	770	obl	_	_
+773	.	.	PUNCT	_	_	752	punct	_	_
+
+
+774	Ещё	ещё	ADV	_	Degree=Pos	775	advmod	_	_
+775	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+776	версия	версия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	775	nsubj	_	_
+777	,	,	PUNCT	_	_	780	punct	_	_
+778	что	что	SCONJ	_	_	780	mark	_	_
+779	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	780	nsubj	_	_
+780	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	776	acl	_	_
+781	«	"	PUNCT	_	_	782	punct	_	_
+782	подними	подними	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	780	xcomp	_	_
+783	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	782	iobj	_	_
+784	настроение	настроение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	782	obj	_	_
+785	»	"	PUNCT	_	_	782	punct	_	_
+786	,	,	PUNCT	_	_	796	punct	_	_
+787	но	но	CCONJ	_	_	796	cc	_	_
+788	чаще	чаще	ADV	_	Degree=Cmp	796	advmod	_	_
+789	всего	всего	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	788	obl	_	_
+790	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	796	obj	_	_
+791	«	"	PUNCT	_	_	792	punct	_	_
+792	Подними	подними	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	790	appos	_	_
+793	меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	792	obj	_	_
+794	вверх	вверх	ADV	_	Degree=Pos	792	advmod	_	_
+795	»	"	PUNCT	_	_	792	punct	_	_
+796	связывают	связывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	775	conj	_	_
+797	с	с	ADP	_	_	798	case	_	_
+798	версией	версия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	796	obl	_	_
+799	,	,	PUNCT	_	_	802	punct	_	_
+800	что	что	SCONJ	_	_	802	mark	_	_
+801	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	802	nsubj	_	_
+802	обладает	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	796	ccomp	_	_
+803	неким	некий	DET	_	Case=Ins|Gender=Masc|Number=Sing	804	det	_	_
+804	бодрящим	бодрящим	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	807	amod	_	_
+805	,	,	PUNCT	_	_	806	punct	_	_
+806	возбуждающим	возбуждать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	804	acl	_	_
+807	эффектом	эффект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	802	obj	_	_
+808	и	и	CCONJ	_	_	812	cc	_	_
+809	что	что	SCONJ	_	_	812	mark	_	_
+810	итальянские	итальянский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	811	amod	_	_
+811	вельможи	вельможа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	812	nsubj	_	_
+812	ели	есть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	802	conj	_	_
+813	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	814	det	_	_
+814	десерт	десерт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	812	obj	_	_
+815	перед	перед	ADP	_	_	817	case	_	_
+816	любовными	любовный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	817	amod	_	_
+817	свиданиями	свиданиями	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	812	obl	_	_
+818	.	.	PUNCT	_	_	775	punct	_	_
+819	
+
+	
+
+	SPACE	_	_	818	dep	_	_
+
+
+820	Ингредиенты	ингредиент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	825	nsubj	_	_
+821	
+	
+	SPACE	_	_	820	dep	_	_
+822	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	820	nmod	_	_
+823	куриные	куриный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	825	amod	_	_
+824	6	6	NUM	_	_	825	nummod	_	_
+825	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	ROOT	_	_
+826	.	.	PUNCT	_	_	825	punct	_	_
+827	
+	
+	SPACE	_	_	826	dep	_	_
+
+
+828	сливочный	сливочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	829	amod	_	_
+829	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	834	nsubj	_	_
+830	Маскарпоне	маскарпоне	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	829	appos	_	_
+831	500	500	NUM	_	_	834	nummod	_	_
+832	г	г	ADP	_	_	831	fixed	_	_
+833	
+	
+	SPACE	_	_	832	dep	_	_
+834	сахар	сахар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	854	nsubj	_	_
+835	150	150	NUM	_	_	838	nummod	_	_
+836	г	г	ADP	_	_	835	fixed	_	_
+837	
+	
+	SPACE	_	_	836	dep	_	_
+838	печенье	печение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	834	nmod	_	_
+839	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	838	appos	_	_
+840	250	250	NUM	_	_	839	appos	_	_
+841	г	г	ADP	_	_	840	flat	_	_
+842	
+	
+	SPACE	_	_	841	dep	_	_
+843	кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	834	nmod	_	_
+844	эспрессо	эспрессо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	843	nmod	_	_
+845	300	300	NUM	_	_	846	nummod	_	_
+846	мл	мл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	844	nmod	_	_
+847	
+	
+	SPACE	_	_	846	dep	_	_
+848	какао	какао	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	846	nmod	_	_
+849	-	-	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	846	conj	_	_
+850	порошок	порошок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	846	conj	_	_
+851	1	1	NUM	_	_	854	nummod	_	_
+852	-	-	NUM	_	_	854	nummod	_	_
+853	2	2	NUM	_	_	854	nummod	_	_
+854	ст.	ст.	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	ROOT	_	_
+855	ложки	ложка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	854	nmod	_	_
+856	
+	
+	SPACE	_	_	855	dep	_	_
+857	коньяк	коньяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	875	nsubj	_	_
+858	(	(	PUNCT	_	_	860	punct	_	_
+859	по	по	ADP	_	_	860	case	_	_
+860	желанию	желание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	857	parataxis	_	_
+861	)	)	PUNCT	_	_	860	punct	_	_
+862	30	30	NUM	_	_	865	nummod	_	_
+863	-	-	NUM	_	_	865	nummod	_	_
+864	50	50	NUM	_	_	865	nummod	_	_
+865	г	г	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	857	discourse	_	_
+866	
+	
+	SPACE	_	_	865	dep	_	_
+867	Ключ	ключ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	865	appos	_	_
+868	к	к	ADP	_	_	869	case	_	_
+869	успеху	успех	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	857	nmod	_	_
+870	в	в	ADP	_	_	871	case	_	_
+871	приготовлении	приготовление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	869	nmod	_	_
+872	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	871	appos	_	_
+873	—	—	PUNCT	_	_	875	punct	_	_
+874	качественные	качественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	875	amod	_	_
+875	ингредиеты	ингредиеты	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	854	nsubj	_	_
+876	,	,	PUNCT	_	_	880	punct	_	_
+877	поэтому	поэтому	ADV	_	Degree=Pos	880	advmod	_	_
+878	для	для	ADP	_	_	879	case	_	_
+879	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	880	obl	_	_
+880	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	854	conj	_	_
+881	разберёмся	разберёмся	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid	880	xcomp	_	_
+882	с	с	ADP	_	_	883	case	_	_
+883	ними	ними	PRON	_	Case=Ins|Number=Plur|Person=Third	881	obl	_	_
+884	.	.	PUNCT	_	_	854	punct	_	_
+
+
+885	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	886	nsubj	_	_
+886	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+887	,	,	PUNCT	_	_	890	punct	_	_
+888	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	889	amod	_	_
+889	главный	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	890	amod	_	_
+890	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	886	obj	_	_
+891	,	,	PUNCT	_	_	893	punct	_	_
+892	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing	893	nsubj	_	_
+893	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	890	acl:relcl	_	_
+894	возникнуть	возникнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	893	xcomp	_	_
+895	—	—	PUNCT	_	_	897	punct	_	_
+896	чем	чем	SCONJ	_	_	897	mark	_	_
+897	заменить	заменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	894	parataxis	_	_
+898	сыр	сыр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	897	obj	_	_
+899	Маскарпоне	маскарпоне	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	898	appos	_	_
+900	?	?	PUNCT	_	_	886	punct	_	_
+
+
+901	Ответ	ответ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	903	nsubj	_	_
+902	—	—	PUNCT	_	_	903	punct	_	_
+903	ничем	ничто	PRON	_	Case=Ins	0	ROOT	_	_
+904	!	!	PUNCT	_	_	903	punct	_	_
+
+
+905	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	909	nsubj	_	_
+906	,	,	PUNCT	_	_	907	punct	_	_
+907	конечно	конечно	ADV	_	Degree=Pos	909	parataxis	_	_
+908	,	,	PUNCT	_	_	907	punct	_	_
+909	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+910	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	909	xcomp	_	_
+911	творожные	творожный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	912	amod	_	_
+912	сыры	сыр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	910	obj	_	_
+913	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	912	nmod	_	_
+914	Филадельфии	филадельфия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	913	nmod	_	_
+915	,	,	PUNCT	_	_	920	punct	_	_
+916	но	но	CCONJ	_	_	920	cc	_	_
+917	у	у	ADP	_	_	918	case	_	_
+918	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	920	obl	_	_
+919	тогда	тогда	ADV	_	Degree=Pos	920	advmod	_	_
+920	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	909	conj	_	_
+921	не	не	PART	_	Polarity=Neg	922	advmod	_	_
+922	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	920	iobj	_	_
+923	,	,	PUNCT	_	_	929	punct	_	_
+924	а	а	CCONJ	_	_	929	cc	_	_
+925	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	929	det	_	_
+926	-	-	DET	_	Case=Nom|Gender=Masc|Number=Sing	929	det	_	_
+927	то	то	DET	_	Case=Nom|Gender=Masc|Number=Sing	929	det	_	_
+928	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	929	amod	_	_
+929	десерт	десерт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	922	conj	_	_
+930	с	с	ADP	_	_	932	case	_	_
+931	творожным	творожный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	932	amod	_	_
+932	кремом	крем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	929	nmod	_	_
+933	.	.	PUNCT	_	_	909	punct	_	_
+
+
+934	Разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	936	nsubj	_	_
+935	в	в	ADP	_	_	936	case	_	_
+936	том	том	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	ROOT	_	_
+937	,	,	PUNCT	_	_	948	punct	_	_
+938	что	что	SCONJ	_	_	948	mark	_	_
+939	основным	основный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	946	amod	_	_
+940	(	(	PUNCT	_	_	944	punct	_	_
+941	и	и	CCONJ	_	_	944	cc	_	_
+942	как	как	SCONJ	_	_	943	case	_	_
+943	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	944	parataxis	_	_
+944	единственным	единственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	939	parataxis	_	_
+945	)	)	PUNCT	_	_	944	punct	_	_
+946	ингредиентом	ингредиент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	948	xcomp	_	_
+947	Маскарпоне	маскарпоне	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	946	nmod	_	_
+948	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	936	acl	_	_
+949	сливки	сливка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	948	nsubj	_	_
+950	и	и	CCONJ	_	_	951	cc	_	_
+951	вкус	вкус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	949	conj	_	_
+952	у	у	ADP	_	_	953	case	_	_
+953	него	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=Third	951	nmod	_	_
+954	сливочный	сливочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	949	amod	_	_
+955	,	,	PUNCT	_	_	958	punct	_	_
+956	а	а	CCONJ	_	_	958	cc	_	_
+957	не	не	PART	_	Polarity=Neg	958	advmod	_	_
+958	творожный	творожный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	954	conj	_	_
+959	.	.	PUNCT	_	_	936	punct	_	_
+
+
+960	А	а	CCONJ	_	_	978	cc	_	_
+961	последнее	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	962	amod	_	_
+962	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	978	nsubj	_	_
+963	,	,	PUNCT	_	_	967	punct	_	_
+964	в	в	ADP	_	_	967	case	_	_
+965	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	964	fixed	_	_
+966	с	с	ADP	_	_	964	fixed	_	_
+967	появлением	появление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	978	obl	_	_
+968	на	на	ADP	_	_	969	case	_	_
+969	рынке	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	967	nmod	_	_
+970	огромного	огромный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	971	amod	_	_
+971	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	969	nmod	_	_
+972	некачественной	некачественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	976	amod	_	_
+973	и	и	CCONJ	_	_	974	cc	_	_
+974	фальсифицированной	фальсифицировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	972	conj	_	_
+975	молочной	молочный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	976	amod	_	_
+976	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	971	nmod	_	_
+977	,	,	PUNCT	_	_	967	punct	_	_
+978	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+979	также	также	ADV	_	Degree=Pos	981	advmod	_	_
+980	очень	очень	ADV	_	Degree=Pos	981	advmod	_	_
+981	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	978	xcomp	_	_
+982	,	,	PUNCT	_	_	983	punct	_	_
+983	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	978	csubj	_	_
+984	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	983	iobj	_	_
+985	действительно	действительно	ADV	_	Degree=Pos	986	advmod	_	_
+986	хорошего	хороший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	987	amod	_	_
+987	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	984	nmod	_	_
+988	.	.	PUNCT	_	_	978	punct	_	_
+
+
+989	Обращайте	обращать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+990	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	989	obj	_	_
+991	,	,	PUNCT	_	_	996	punct	_	_
+992	чтобы	чтобы	SCONJ	_	Mood=Cnd	996	mark	_	_
+993	в	в	ADP	_	_	994	case	_	_
+994	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	996	obl	_	_
+995	не	не	PART	_	Polarity=Neg	996	advmod	_	_
+996	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	989	advcl	_	_
+997	никаких	никакой	DET	_	Case=Gen|Number=Plur	998	det	_	_
+998	загустителей	загуститель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	996	nsubj	_	_
+999	и	и	CCONJ	_	_	1000	cc	_	_
+1000	стабилизаторов	стабилизатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	998	conj	_	_
+1001	,	,	PUNCT	_	_	1003	punct	_	_
+1002	жирность	жирность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1003	nsubj:pass	_	_
+1003	должна	должный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short	996	conj	_	_
+1004	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1007	cop	_	_
+1005	около	около	ADP	_	_	1007	case	_	_
+1006	80	80	NUM	_	_	1007	nummod	_	_
+1007	%	%	SYM	_	_	1003	obl	_	_
+1008	.	.	PUNCT	_	_	989	punct	_	_
+
+
+1009	Очень	очень	ADV	_	Degree=Pos	1010	advmod	_	_
+1010	часто	часто	ADV	_	Degree=Pos	1013	advmod	_	_
+1011	также	также	ADV	_	Degree=Pos	1013	advmod	_	_
+1012	производители	производитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1013	nsubj	_	_
+1013	заменяют	заменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1014	молочный	молочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1015	amod	_	_
+1015	жир	жир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1013	obj	_	_
+1016	растительным	растительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1013	obl	_	_
+1017	(	(	PUNCT	_	_	1024	punct	_	_
+1018	к	к	ADP	_	_	1019	case	_	_
+1019	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1024	obl	_	_
+1020	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	1021	det	_	_
+1021	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1024	nsubj:pass	_	_
+1022	не	не	PART	_	Polarity=Neg	1023	advmod	_	_
+1023	всегда	всегда	ADV	_	Degree=Pos	1024	advmod	_	_
+1024	указана	указать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1016	parataxis	_	_
+1025	на	на	ADP	_	_	1026	case	_	_
+1026	упаковке	упаковка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1024	obl	_	_
+1027	)	)	PUNCT	_	_	1024	punct	_	_
+1028	,	,	PUNCT	_	_	1035	punct	_	_
+1029	из	из	ADP	_	_	1031	case	_	_
+1030	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	1031	det	_	_
+1031	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1035	obl	_	_
+1032	у	у	ADP	_	_	1033	case	_	_
+1033	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	1035	obl	_	_
+1034	не	не	PART	_	Polarity=Neg	1035	advmod	_	_
+1035	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	1013	conj	_	_
+1036	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1037	amod	_	_
+1037	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1035	nsubj	_	_
+1038	для	для	ADP	_	_	1039	case	_	_
+1039	тирамису	тирамису	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	1037	nmod	_	_
+1040	,	,	PUNCT	_	_	1043	punct	_	_
+1041	если	если	SCONJ	_	_	1043	mark	_	_
+1042	сыр	сыр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1043	nsubj	_	_
+1043	некачественный	некачественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1035	advcl	_	_
+1044	,	,	PUNCT	_	_	1043	punct	_	_
+1045	то	то	SCONJ	_	_	1047	mark	_	_
+1046	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1047	nsubj	_	_
+1047	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1013	conj	_	_
+1048	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	1047	xcomp	_	_
+1049	жидкий	жидкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1047	nsubj	_	_
+1050	.	.	PUNCT	_	_	1013	punct	_	_
+
+
+1051	Так	так	ADV	_	Degree=Pos	1056	mark	_	_
+1052	что	что	SCONJ	_	_	1051	fixed	_	_
+1053	на	на	ADP	_	_	1054	case	_	_
+1054	нём	нём	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1056	obl	_	_
+1055	не	не	PART	_	Polarity=Neg	1056	advmod	_	_
+1056	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1057	экономить	экономить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1056	csubj	_	_
+1058	,	,	PUNCT	_	_	1060	punct	_	_
+1059	не	не	PART	_	Polarity=Neg	1060	advmod	_	_
+1060	берите	брать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1056	conj	_	_
+1061	слишком	слишком	ADV	_	Degree=Pos	1062	advmod	_	_
+1062	дешёвый	дешёвый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1063	amod	_	_
+1063	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1060	obj	_	_
+1064	непонятных	непонятный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1065	amod	_	_
+1065	производителей	производитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1063	nmod	_	_
+1066	.	.	PUNCT	_	_	1056	punct	_	_
+1067	
+
+	
+
+	SPACE	_	_	1066	dep	_	_
+
+
+1068	Следующий	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1069	amod	_	_
+1069	ингредиент	ингредиент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1078	nsubj	_	_
+1070	,	,	PUNCT	_	_	1073	punct	_	_
+1071	с	с	ADP	_	_	1072	case	_	_
+1072	которым	которым	PRON	_	Case=Ins|Gender=Masc|Number=Sing	1073	obl	_	_
+1073	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1069	acl:relcl	_	_
+1074	возникнуть	возникнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1073	xcomp	_	_
+1075	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1073	nsubj	_	_
+1076	—	—	PUNCT	_	_	1069	punct	_	_
+1077	это	это	PART	_	_	1078	expl	_	_
+1078	печенье	печение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1085	nsubj	_	_
+1079	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1078	appos	_	_
+1080	(	(	PUNCT	_	_	1081	punct	_	_
+1081	Savoiardi	savoiardi	PROPN	_	Foreign=Yes	1079	appos	_	_
+1082	)	)	PUNCT	_	_	1081	punct	_	_
+1083	—	—	PUNCT	_	_	1085	punct	_	_
+1084	бисквитное	бисквитный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1085	amod	_	_
+1085	печенье	печение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1095	nsubj	_	_
+1086	вытянутой	вытянуть	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1088	amod	_	_
+1087	плоской	плоский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1088	amod	_	_
+1088	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1085	nmod	_	_
+1089	,	,	PUNCT	_	_	1090	punct	_	_
+1090	покрытое	покрыть	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1085	acl	_	_
+1091	сверху	сверху	ADV	_	Degree=Pos	1090	advmod	_	_
+1092	сахаром	сахар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1090	obl	_	_
+1093	,	,	PUNCT	_	_	1090	punct	_	_
+1094	также	также	ADV	_	Degree=Pos	1095	advmod	_	_
+1095	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1096	продаваться	продаваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1095	xcomp	_	_
+1097	под	под	ADP	_	_	1098	case	_	_
+1098	названием	название	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1096	obl	_	_
+1099	Палочки	палочка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1098	nmod	_	_
+1100	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1099	flat:name	_	_
+1101	или	или	CCONJ	_	_	1103	cc	_	_
+1102	Дамские	дамский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1103	amod	_	_
+1103	пальчики	пальчик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1099	conj	_	_
+1104	(	(	PUNCT	_	_	1105	punct	_	_
+1105	Lady	lady	PROPN	_	Foreign=Yes	1103	appos	_	_
+1106	Fingers	fingers	PROPN	_	Foreign=Yes	1105	flat:foreign	_	_
+1107	)	)	PUNCT	_	_	1105	punct	_	_
+1108	.	.	PUNCT	_	_	1095	punct	_	_
+
+
+1109	Если	если	SCONJ	_	_	1112	mark	_	_
+1110	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1112	nsubj	_	_
+1111	не	не	PART	_	Polarity=Neg	1112	advmod	_	_
+1112	смогли	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1118	advcl	_	_
+1113	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1112	xcomp	_	_
+1114	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1113	obj	_	_
+1115	в	в	ADP	_	_	1116	case	_	_
+1116	магазинах	магазин	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1113	obl	_	_
+1117	,	,	PUNCT	_	_	1112	punct	_	_
+1118	можно	можно	ADV	_	Degree=Pos	0	ROOT	_	_
+1119	приготовить	приготовить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1118	csubj	_	_
+1120	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	1119	obj	_	_
+1121	самим	самим	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1119	xcomp	_	_
+1122	,	,	PUNCT	_	_	1125	punct	_	_
+1123	позже	поздний	ADV	_	Degree=Cmp	1125	advmod	_	_
+1124	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	1125	nsubj	_	_
+1125	постараюсь	постараться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Mid	1118	conj	_	_
+1126	выложить	выложить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1125	xcomp	_	_
+1127	рецепт	рецепт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1126	obj	_	_
+1128	.	.	PUNCT	_	_	1118	punct	_	_
+1129	
+
+	
+
+	SPACE	_	_	1128	dep	_	_
+
+
+1130	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	1131	nsubj	_	_
+1131	использую	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1132	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1131	obj	_	_
+1133	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1132	nmod	_	_
+1134	С0	с0	PROPN	_	_	1133	appos	_	_
+1135	(	(	PUNCT	_	_	1136	punct	_	_
+1136	отборные	отборный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1133	parataxis	_	_
+1137	)	)	PUNCT	_	_	1136	punct	_	_
+1138	,	,	PUNCT	_	_	1144	punct	_	_
+1139	и	и	CCONJ	_	_	1144	cc	_	_
+1140	с	с	ADP	_	_	1142	case	_	_
+1141	таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing	1142	det	_	_
+1142	количеством	количество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1144	obl	_	_
+1143	яиц	яйцо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1142	nmod	_	_
+1144	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1131	conj	_	_
+1145	отличный	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1147	amod	_	_
+1146	густой	густой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1147	amod	_	_
+1147	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1144	nsubj	_	_
+1148	,	,	PUNCT	_	_	1151	punct	_	_
+1149	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1151	nsubj	_	_
+1150	хорошо	хорошо	ADV	_	Degree=Pos	1151	advmod	_	_
+1151	стабилизируется	стабилизируется	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1147	acl:relcl	_	_
+1152	в	в	ADP	_	_	1153	case	_	_
+1153	холодильнике	холодильник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1151	obl	_	_
+1154	и	и	CCONJ	_	_	1159	cc	_	_
+1155	,	,	PUNCT	_	_	1159	punct	_	_
+1156	если	если	SCONJ	_	_	1159	mark	_	_
+1157	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1159	obj	_	_
+1158	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1159	nsubj	_	_
+1159	используете	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1151	conj	_	_
+1160	качественные	качественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1159	obj	_	_
+1161	и	и	CCONJ	_	_	1162	cc	_	_
+1162	свежие	свежий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1160	conj	_	_
+1163	,	,	PUNCT	_	_	1159	punct	_	_
+1164	то	то	SCONJ	_	_	1171	mark	_	_
+1165	никакого	никакой	DET	_	Case=Gen|Gender=Masc|Number=Sing	1167	det	_	_
+1166	яичного	яичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1167	amod	_	_
+1167	вкуса	вкус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1171	nsubj	_	_
+1168	в	в	ADP	_	_	1169	case	_	_
+1169	креме	крем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1171	obl	_	_
+1170	не	не	PART	_	Polarity=Neg	1171	advmod	_	_
+1171	будет	будет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1144	advcl	_	_
+1172	.	.	PUNCT	_	_	1131	punct	_	_
+
+
+1173	Но	но	CCONJ	_	_	1179	cc	_	_
+1174	если	если	SCONJ	_	_	1177	mark	_	_
+1175	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1177	nsubj	_	_
+1176	очень	очень	ADV	_	Degree=Pos	1177	advmod	_	_
+1177	сомневаетесь	сомневаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Mid	1179	advcl	_	_
+1178	,	,	PUNCT	_	_	1177	punct	_	_
+1179	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1199	advcl	_	_
+1180	уменьшить	уменьшить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1179	xcomp	_	_
+1181	количество	количество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1180	obj	_	_
+1182	до	до	ADP	_	_	1183	case	_	_
+1183	5	5	NUM	_	_	1187	nummod	_	_
+1184	или	или	CCONJ	_	_	1186	cc	_	_
+1185	даже	даже	PART	_	_	1186	advmod	_	_
+1186	4	4	NUM	_	_	1183	conj	_	_
+1187	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1179	nsubj	_	_
+1188	,	,	PUNCT	_	_	1196	punct	_	_
+1189	но	но	CCONJ	_	_	1196	cc	_	_
+1190	вкус	вкус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1196	nsubj	_	_
+1191	и	и	CCONJ	_	_	1192	cc	_	_
+1192	консистенция	консистенция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1190	conj	_	_
+1193	крема	крем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1192	nmod	_	_
+1194	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1196	cop	_	_
+1195	уже	уже	ADV	_	Degree=Pos	1196	advmod	_	_
+1196	другие	другие	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1179	conj	_	_
+1197	,	,	PUNCT	_	_	1199	punct	_	_
+1198	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1199	nsubj	_	_
+1199	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1200	менее	менее	ADV	_	Degree=Cmp	1201	advmod	_	_
+1201	воздушным	воздушный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1199	obl	_	_
+1202	.	.	PUNCT	_	_	1199	punct	_	_
+
+
+1203	Ещё	ещё	ADV	_	Degree=Pos	1205	nsubj	_	_
+1204	важный	важный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1205	amod	_	_
+1205	момент	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+1206	,	,	PUNCT	_	_	1210	punct	_	_
+1207	т.к.	т.к.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1210	iobj	_	_
+1208	десерт	десерт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1210	nsubj:pass	_	_
+1209	не	не	PART	_	Polarity=Neg	1210	advmod	_	_
+1210	поддаётся	поддаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	1205	conj	_	_
+1211	термической	термический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1212	amod	_	_
+1212	обработке	обработка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1210	iobj	_	_
+1213	,	,	PUNCT	_	_	1205	punct	_	_
+1214	не	не	PART	_	Polarity=Neg	1215	advmod	_	_
+1215	забудьте	забыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1205	conj	_	_
+1216	тщательно	тщательно	ADV	_	Degree=Pos	1217	advmod	_	_
+1217	вымыть	вымыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1215	xcomp	_	_
+1218	куриные	куриный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1219	amod	_	_
+1219	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1217	obj	_	_
+1220	в	в	ADP	_	_	1222	case	_	_
+1221	тёплой	тёплый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1222	amod	_	_
+1222	воде	вода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1217	obl	_	_
+1223	с	с	ADP	_	_	1224	case	_	_
+1224	мылом	мыло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1222	nmod	_	_
+1225	.	.	PUNCT	_	_	1215	punct	_	_
+1226	
+
+	
+
+	SPACE	_	_	1225	dep	_	_
+
+
+1227	Как	как	SCONJ	_	_	1229	mark	_	_
+1228	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1229	nsubj	_	_
+1229	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1234	advcl	_	_
+1230	заметить	заметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1229	xcomp	_	_
+1231	,	,	PUNCT	_	_	1229	punct	_	_
+1232	коньяк	коньяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1234	nsubj	_	_
+1233	не	не	PART	_	Polarity=Neg	1234	advmod	_	_
+1234	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1235	в	в	ADP	_	_	1237	case	_	_
+1236	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing	1237	det	_	_
+1237	рецепте	рецепт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1234	obl	_	_
+1238	обязательным	обязательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1239	amod	_	_
+1239	ингредиентом	ингредиент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1234	xcomp	_	_
+1240	.	.	PUNCT	_	_	1234	punct	_	_
+
+
+1241	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	1242	nsubj	_	_
+1242	готовила	готовить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1243	без	без	ADP	_	_	1244	case	_	_
+1244	коньяка	коньяк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1242	obl	_	_
+1245	и	и	CCONJ	_	_	1250	cc	_	_
+1246	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	1250	iobj	_	_
+1247	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	1248	det	_	_
+1248	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1250	iobj	_	_
+1249	очень	очень	ADV	_	Degree=Pos	1250	advmod	_	_
+1250	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1242	conj	_	_
+1251	,	,	PUNCT	_	_	1256	punct	_	_
+1252	но	но	CCONJ	_	_	1256	cc	_	_
+1253	и	и	CCONJ	_	_	1252	fixed	_	_
+1254	с	с	ADP	_	_	1255	case	_	_
+1255	коньяком	коньяк	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1256	obl	_	_
+1256	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1242	conj	_	_
+1257	здорово	здорово	ADV	_	Degree=Pos	1256	advmod	_	_
+1258	,	,	PUNCT	_	_	1261	punct	_	_
+1259	коньяк	коньяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1261	nsubj	_	_
+1260	прекрасно	прекрасно	ADV	_	Degree=Pos	1261	advmod	_	_
+1261	гармонирует	гармонировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1242	conj	_	_
+1262	с	с	ADP	_	_	1263	case	_	_
+1263	кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1261	obl	_	_
+1264	,	,	PUNCT	_	_	1267	punct	_	_
+1265	поэтому	поэтому	ADV	_	Degree=Pos	1267	advmod	_	_
+1266	тут	тут	ADV	_	Degree=Pos	1267	advmod	_	_
+1267	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1242	conj	_	_
+1268	вам	вам	PRON	_	Case=Dat|Number=Plur|Person=Second	1267	iobj	_	_
+1269	.	.	PUNCT	_	_	1242	punct	_	_
+1270	
+
+	
+
+	SPACE	_	_	1269	dep	_	_
+
+
+1271	Из	Из	ADP	_	_	1273	case	_	_
+1272	указанного	указать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1273	amod	_	_
+1273	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1275	obl	_	_
+1274	ингредиентов	ингредиент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1273	nmod	_	_
+1275	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1276	немного	немного	ADV	_	Degree=Pos	1277	advmod	_	_
+1277	больше	больше	ADV	_	Degree=Cmp	1275	advmod	_	_
+1278	,	,	PUNCT	_	_	1281	punct	_	_
+1279	чем	чем	SCONJ	_	_	1281	mark	_	_
+1280	1,5	1,5	NUM	_	_	1281	nummod	_	_
+1281	кг	кг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1282	case	_	_
+1282	тирамису	тирамису	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1277	obl	_	_
+1283	,	,	PUNCT	_	_	1289	punct	_	_
+1284	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1289	nsubj	_	_
+1285	примерно	примерно	ADV	_	Degree=Pos	1286	advmod	_	_
+1286	8	8	NUM	_	_	1289	nummod	_	_
+1287	-	-	NUM	_	_	1289	nummod	_	_
+1288	10	10	NUM	_	_	1289	nummod	_	_
+1289	порций	порция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1275	parataxis	_	_
+1290	.	.	PUNCT	_	_	1275	punct	_	_
+1291	
+	
+	SPACE	_	_	1290	dep	_	_
+
+
+1292	Подготавливаем	подготавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1293	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur	1294	det	_	_
+1294	ингредиенты	ингредиент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1292	obj	_	_
+1295	.	.	PUNCT	_	_	1292	punct	_	_
+
+
+1296	Варим	варить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1297	крепкий	крепкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1298	amod	_	_
+1298	эспрессо	эспрессо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1296	obj	_	_
+1299	(	(	PUNCT	_	_	1301	punct	_	_
+1300	300	300	NUM	_	_	1301	nummod	_	_
+1301	мл	мл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1298	parataxis	_	_
+1302	)	)	PUNCT	_	_	1301	punct	_	_
+1303	и	и	CCONJ	_	_	1304	cc	_	_
+1304	оставляем	оставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1296	conj	_	_
+1305	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	1304	obj	_	_
+1306	остужаться	остужаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1304	xcomp	_	_
+1307	.	.	PUNCT	_	_	1296	punct	_	_
+1308	
+	
+	SPACE	_	_	1307	dep	_	_
+
+
+1309	Яйца	яйца	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+1310	(	(	PUNCT	_	_	1312	punct	_	_
+1311	6	6	NUM	_	_	1312	nummod	_	_
+1312	шт	шт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1309	parataxis	_	_
+1313	.	.	PUNCT	_	_	1312	punct	_	_
+1314	)	)	PUNCT	_	_	1312	punct	_	_
+1315	тщательно	тщательно	ADV	_	Degree=Pos	1309	advmod	_	_
+1316	моем	мой	DET	_	Case=Loc|Gender=Neut|Number=Sing	1315	discourse	_	_
+1317	в	в	ADP	_	_	1319	case	_	_
+1318	тёплой	тёплый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1319	amod	_	_
+1319	воде	вода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1315	obl	_	_
+1320	с	с	ADP	_	_	1321	case	_	_
+1321	мылом	мыло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1319	nmod	_	_
+1322	.	.	PUNCT	_	_	1309	punct	_	_
+
+
+1323	Аккуратно	Аккуратно	ADV	_	Degree=Pos	1324	advmod	_	_
+1324	отделяем	отделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1325	белки	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1324	obj	_	_
+1326	от	от	ADP	_	_	1327	case	_	_
+1327	желтков	желток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1324	obl	_	_
+1328	.	.	PUNCT	_	_	1324	punct	_	_
+
+
+1329	Важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+1330	,	,	PUNCT	_	_	1336	punct	_	_
+1331	чтобы	чтобы	SCONJ	_	Mood=Cnd	1336	mark	_	_
+1332	ни	ни	PART	_	Polarity=Neg	1333	advmod	_	_
+1333	капли	капля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1336	nsubj	_	_
+1334	желтка	желток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1333	nmod	_	_
+1335	не	не	PART	_	Polarity=Neg	1336	advmod	_	_
+1336	попало	попасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1329	ccomp	_	_
+1337	в	в	ADP	_	_	1338	case	_	_
+1338	белок	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1336	obl	_	_
+1339	иначе	иначе	CCONJ	_	_	1342	advmod	_	_
+1340	белки	белок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1342	nsubj	_	_
+1341	не	не	PART	_	Polarity=Neg	1342	advmod	_	_
+1342	взобьются	взобьются	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1336	conj	_	_
+1343	.	.	PUNCT	_	_	1329	punct	_	_
+
+
+1344	Белки	белок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1345	nsubj	_	_
+1345	убираем	убирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1346	пока	пока	ADV	_	Degree=Pos	1348	advmod	_	_
+1347	в	в	ADP	_	_	1348	case	_	_
+1348	холодильник	холодильник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1345	obl	_	_
+1349	,	,	PUNCT	_	_	1351	punct	_	_
+1350	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	1351	nsubj	_	_
+1351	понадобятся	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	1345	conj	_	_
+1352	нам	нам	PRON	_	Case=Dat|Number=Plur|Person=First	1351	iobj	_	_
+1353	позже	поздний	ADV	_	Degree=Cmp	1351	advmod	_	_
+1354	.	.	PUNCT	_	_	1345	punct	_	_
+1355	
+	
+	SPACE	_	_	1354	dep	_	_
+
+
+1356	К	К	ADP	_	_	1357	case	_	_
+1357	желткам	желток	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	1358	obl	_	_
+1358	добавляем	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1359	сахар	сахар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1358	obj	_	_
+1360	(	(	PUNCT	_	_	1361	punct	_	_
+1361	150	150	NUM	_	_	1362	nummod	_	_
+1362	г	г	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1359	parataxis	_	_
+1363	)	)	PUNCT	_	_	1362	punct	_	_
+1364	.	.	PUNCT	_	_	1358	punct	_	_
+1365	
+	
+	SPACE	_	_	1364	dep	_	_
+
+
+1366	Взбиваем	взбивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1367	желтки	желток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1366	obj	_	_
+1368	с	с	ADP	_	_	1369	case	_	_
+1369	сахаром	сахар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1367	nmod	_	_
+1370	пока	пока	ADV	_	Degree=Pos	1373	advmod	_	_
+1371	масса	масса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1373	nsubj	_	_
+1372	не	не	PART	_	Polarity=Neg	1373	advmod	_	_
+1373	побелеет	побелеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	1366	advcl	_	_
+1374	,	,	PUNCT	_	_	1377	punct	_	_
+1375	на	на	ADP	_	_	1376	case	_	_
+1376	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1377	obl	_	_
+1377	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1366	conj	_	_
+1378	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1377	xcomp	_	_
+1379	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	1380	nummod:gov	_	_
+1380	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1378	obl	_	_
+1381	.	.	PUNCT	_	_	1366	punct	_	_
+
+
+1382	Возможно	Возможно	ADV	_	Degree=Pos	1386	parataxis	_	_
+1383	,	,	PUNCT	_	_	1382	punct	_	_
+1384	у	у	ADP	_	_	1385	case	_	_
+1385	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	1386	obl	_	_
+1386	останется	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1387	немного	немного	ADV	_	Degree=Pos	1388	advmod	_	_
+1388	нерастворившегося	нерастворившегося	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1389	amod	_	_
+1389	сахара	сахар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1386	nsubj	_	_
+1390	,	,	PUNCT	_	_	1395	punct	_	_
+1391	если	если	SCONJ	_	_	1395	mark	_	_
+1392	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	1395	nsubj	_	_
+1393	не	не	PART	_	Polarity=Neg	1394	advmod	_	_
+1394	слишком	слишком	ADV	_	Degree=Pos	1395	advmod	_	_
+1395	много	много	ADV	_	Degree=Pos	1399	advcl	_	_
+1396	,	,	PUNCT	_	_	1395	punct	_	_
+1397	то	то	SCONJ	_	_	1399	mark	_	_
+1398	не	не	PART	_	Polarity=Neg	1399	advmod	_	_
+1399	переживайте	переживать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1386	conj	_	_
+1400	,	,	PUNCT	_	_	1402	punct	_	_
+1401	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1402	nsubj	_	_
+1402	растворится	растворится	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1386	conj	_	_
+1403	потом	потом	ADV	_	Degree=Pos	1402	advmod	_	_
+1404	.	.	PUNCT	_	_	1386	punct	_	_
+
+
+1405	Если	если	SCONJ	_	_	1407	mark	_	_
+1406	сахара	сахар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1407	nsubj	_	_
+1407	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1410	advcl	_	_
+1408	много	много	ADV	_	Degree=Pos	1407	advmod	_	_
+1409	,	,	PUNCT	_	_	1407	punct	_	_
+1410	взбивайте	взбивать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1411	массу	масса	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1410	obj	_	_
+1412	ещё	ещё	ADV	_	Degree=Pos	1410	advmod	_	_
+1413	.	.	PUNCT	_	_	1410	punct	_	_
+1414	
+	
+	SPACE	_	_	1413	dep	_	_
+
+
+1415	Выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1416	взбитые	взбить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1417	amod	_	_
+1417	желтки	желток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1415	obj	_	_
+1418	с	с	ADP	_	_	1419	case	_	_
+1419	сахаром	сахар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1417	nmod	_	_
+1420	в	в	ADP	_	_	1422	case	_	_
+1421	большую	больший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1422	amod	_	_
+1422	ёмкость	ёмкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1415	obl	_	_
+1423	,	,	PUNCT	_	_	1424	punct	_	_
+1424	добавляем	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1415	conj	_	_
+1425	туда	туда	ADV	_	Degree=Pos	1424	advmod	_	_
+1426	же	же	PART	_	_	1425	advmod	_	_
+1427	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1424	iobj	_	_
+1428	(	(	PUNCT	_	_	1430	punct	_	_
+1429	500	500	NUM	_	_	1430	nummod	_	_
+1430	г	г	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1427	parataxis	_	_
+1431	)	)	PUNCT	_	_	1430	punct	_	_
+1432	.	.	PUNCT	_	_	1415	punct	_	_
+1433	
+	
+	SPACE	_	_	1432	dep	_	_
+
+
+1434	Аккуратно	Аккуратно	ADV	_	Degree=Pos	1435	advmod	_	_
+1435	перемешиваем	перемешивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1436	желтки	желток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1435	obj	_	_
+1437	с	с	ADP	_	_	1438	case	_	_
+1438	сахаром	сахар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1436	nmod	_	_
+1439	и	и	CCONJ	_	_	1440	cc	_	_
+1440	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1438	conj	_	_
+1441	лопаткой	лопатка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1440	nmod	_	_
+1442	до	до	ADP	_	_	1444	case	_	_
+1443	однородного	однородный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1444	amod	_	_
+1444	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1435	obl	_	_
+1445	.	.	PUNCT	_	_	1435	punct	_	_
+
+
+1446	Посмотрите	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1447	,	,	PUNCT	_	_	1451	punct	_	_
+1448	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	1450	det	_	_
+1449	густая	густой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1450	amod	_	_
+1450	масса	масса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1451	nsubj	_	_
+1451	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1446	ccomp	_	_
+1452	,	,	PUNCT	_	_	1457	punct	_	_
+1453	если	если	SCONJ	_	_	1457	mark	_	_
+1454	у	у	ADP	_	_	1455	case	_	_
+1455	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	1457	obl	_	_
+1456	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	1457	nsubj	_	_
+1457	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1451	advcl	_	_
+1458	жидкая	жидкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1463	amod	_	_
+1459	,	,	PUNCT	_	_	1460	punct	_	_
+1460	скорее	скорее	ADV	_	Degree=Pos	1458	parataxis	_	_
+1461	всего	всего	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1460	obl	_	_
+1462	,	,	PUNCT	_	_	1460	punct	_	_
+1463	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1457	nsubj	_	_
+1464	в	в	ADP	_	_	1465	case	_	_
+1465	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1463	nmod	_	_
+1466	.	.	PUNCT	_	_	1446	punct	_	_
+1467	
+	
+	SPACE	_	_	1466	dep	_	_
+
+
+1468	Белки	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1469	obj	_	_
+1469	взбиваем	взбивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1470	с	с	ADP	_	_	1472	case	_	_
+1471	щепоткой	щепоткой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1472	amod	_	_
+1472	соли	соль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1469	obl	_	_
+1473	до	до	ADP	_	_	1475	case	_	_
+1474	устойчивых	устойчивый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1475	amod	_	_
+1475	пиков	пик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1469	obl	_	_
+1476	,	,	PUNCT	_	_	1479	punct	_	_
+1477	на	на	ADP	_	_	1478	case	_	_
+1478	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1479	obl	_	_
+1479	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1469	conj	_	_
+1480	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1479	xcomp	_	_
+1481	примерно	примерно	ADV	_	Degree=Pos	1482	advmod	_	_
+1482	3	3	NUM	_	_	1485	nummod:gov	_	_
+1483	-	-	NUM	_	_	1485	nummod:gov	_	_
+1484	7	7	NUM	_	_	1485	nummod	_	_
+1485	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1480	obl	_	_
+1486	,	,	PUNCT	_	_	1488	punct	_	_
+1487	в	в	ADP	_	_	1488	case	_	_
+1488	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1480	obl	_	_
+1489	от	от	ADP	_	_	1490	case	_	_
+1490	мощности	мощность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1488	nmod	_	_
+1491	миксера	миксер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1490	nmod	_	_
+1492	.	.	PUNCT	_	_	1469	punct	_	_
+
+
+1493	Обязательно	Обязательно	ADV	_	Degree=Pos	1494	advmod	_	_
+1494	используйте	использовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1495	для	для	ADP	_	_	1496	case	_	_
+1496	взбивания	взбивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1494	obl	_	_
+1497	белков	белок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1496	nmod	_	_
+1498	чистые	чистый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1499	amod	_	_
+1499	ёмкость	ёмкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1494	obj	_	_
+1500	для	для	ADP	_	_	1501	case	_	_
+1501	взбивания	взбивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1499	nmod	_	_
+1502	и	и	CCONJ	_	_	1503	cc	_	_
+1503	венчики	венчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1499	conj	_	_
+1504	,	,	PUNCT	_	_	1512	punct	_	_
+1505	если	если	SCONJ	_	_	1512	mark	_	_
+1506	хоть	хоть	ADV	_	Degree=Pos	1507	advmod	_	_
+1507	немного	немного	ADV	_	Degree=Pos	1512	advmod	_	_
+1508	желтка	желток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1512	nsubj	_	_
+1509	или	или	CCONJ	_	_	1511	cc	_	_
+1510	другого	другого	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1511	amod	_	_
+1511	жира	жир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1508	conj	_	_
+1512	попадёт	попасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	1517	advcl	_	_
+1513	в	в	ADP	_	_	1514	case	_	_
+1514	белки	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1512	obl	_	_
+1515	,	,	PUNCT	_	_	1517	punct	_	_
+1516	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	1517	nsubj	_	_
+1517	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1494	conj	_	_
+1518	не	не	PART	_	Polarity=Neg	1519	advmod	_	_
+1519	взбиться	взбиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1517	xcomp	_	_
+1520	.	.	PUNCT	_	_	1494	punct	_	_
+1521	
+	
+	SPACE	_	_	1520	dep	_	_
+
+
+1522	Если	если	SCONJ	_	_	1525	mark	_	_
+1523	у	у	ADP	_	_	1524	case	_	_
+1524	вас	вас	PRON	_	Case=Gen|Number=Plur|Person=Second	1525	obl	_	_
+1525	возникли	возникнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1528	advcl	_	_
+1526	сомнения	сомнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1525	nsubj	_	_
+1527	,	,	PUNCT	_	_	1528	punct	_	_
+1528	взбились	взбиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1529	белки	белок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1528	nsubj	_	_
+1530	до	до	ADP	_	_	1532	case	_	_
+1531	нужного	нужный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1532	amod	_	_
+1532	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1528	obl	_	_
+1533	или	или	CCONJ	_	_	1534	cc	_	_
+1534	нет	нет	PART	_	_	1528	conj	_	_
+1535	,	,	PUNCT	_	_	1538	punct	_	_
+1536	просто	просто	PART	_	_	1537	advmod	_	_
+1537	аккуратно	аккуратно	ADV	_	Degree=Pos	1538	advmod	_	_
+1538	попробуйте	попробуйте	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1528	conj	_	_
+1539	перевернуть	перевернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1538	xcomp	_	_
+1540	ёмкость	ёмкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1539	obj	_	_
+1541	с	с	ADP	_	_	1542	case	_	_
+1542	белками	белок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1540	nmod	_	_
+1543	.	.	PUNCT	_	_	1528	punct	_	_
+
+
+1544	Если	если	SCONJ	_	_	1546	mark	_	_
+1545	белки	белок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1546	nsubj:pass	_	_
+1546	взбиты	взбить	VERB	_	Aspect=Perf|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1559	advcl	_	_
+1547	,	,	PUNCT	_	_	1546	punct	_	_
+1548	то	то	SCONJ	_	_	1559	mark	_	_
+1549	даже	даже	PART	_	_	1552	advmod	_	_
+1550	если	если	SCONJ	_	_	1552	mark	_	_
+1551	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1552	nsubj	_	_
+1552	перевернёте	перевернёте	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act	1559	advcl	_	_
+1553	ёмкость	ёмкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1552	obj	_	_
+1554	вверх	вверх	ADV	_	Degree=Pos	1555	advmod	_	_
+1555	дном	дно	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1552	obl	_	_
+1556	,	,	PUNCT	_	_	1552	punct	_	_
+1557	взбитые	взбить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1558	amod	_	_
+1558	белки	белок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1559	nsubj	_	_
+1559	останутся	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1560	в	в	ADP	_	_	1561	case	_	_
+1561	посуде	посуда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1559	obl	_	_
+1562	.	.	PUNCT	_	_	1559	punct	_	_
+1563	
+	
+	SPACE	_	_	1562	dep	_	_
+
+
+1564	Выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1565	взбитые	взбить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1566	amod	_	_
+1566	белки	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1564	obj	_	_
+1567	в	в	ADP	_	_	1568	case	_	_
+1568	массу	масса	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1564	obl	_	_
+1569	с	с	ADP	_	_	1570	case	_	_
+1570	желтками	желток	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1568	nmod	_	_
+1571	и	и	CCONJ	_	_	1572	cc	_	_
+1572	маскарпоне	маскарпоне	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1570	conj	_	_
+1573	.	.	PUNCT	_	_	1564	punct	_	_
+
+
+1574	Теперь	теперь	ADV	_	Degree=Pos	1577	advmod	_	_
+1575	миксер	миксер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1576	obj	_	_
+1576	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1577	csubj	_	_
+1577	нельзя	нельзя	ADV	_	Degree=Pos	0	ROOT	_	_
+1578	,	,	PUNCT	_	_	1579	punct	_	_
+1579	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	1577	conj	_	_
+1580	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1579	csubj	_	_
+1581	аккуратно	аккуратно	ADV	_	Degree=Pos	1580	advmod	_	_
+1582	,	,	PUNCT	_	_	1585	punct	_	_
+1583	иначе	иначе	CCONJ	_	_	1585	cc	_	_
+1584	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1585	nsubj	_	_
+1585	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1577	conj	_	_
+1586	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1585	xcomp	_	_
+1587	воздушность	воздушность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1586	obj	_	_
+1588	.	.	PUNCT	_	_	1577	punct	_	_
+
+
+1589	При	При	ADP	_	_	1591	case	_	_
+1590	помощи	помощь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1589	fixed	_	_
+1591	лопатки	лопатка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1592	obl	_	_
+1592	перемешиваем	перемешивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1593	крем	крем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1592	obj	_	_
+1594	круговыми	круговой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1595	amod	_	_
+1595	движениями	движение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1592	obl	_	_
+1596	снизу	снизу	ADV	_	Degree=Pos	1592	advmod	_	_
+1597	вверх	вверх	ADV	_	Degree=Pos	1596	advmod	_	_
+1598	,	,	PUNCT	_	_	1600	punct	_	_
+1599	т.е.	т.е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1600	advmod	_	_
+1600	поднимаем	поднимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1592	conj	_	_
+1601	крем	крем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1600	obj	_	_
+1602	со	со	ADP	_	_	1603	case	_	_
+1603	дна	дно	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1600	obl	_	_
+1604	посуды	посуда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1603	nmod	_	_
+1605	наверх	наверх	ADV	_	Degree=Pos	1600	advmod	_	_
+1606	.	.	PUNCT	_	_	1592	punct	_	_
+
+
+1607	Не	не	PART	_	Polarity=Neg	1608	advmod	_	_
+1608	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+1609	спешить	спешить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1608	csubj	_	_
+1610	,	,	PUNCT	_	_	1611	punct	_	_
+1611	делайте	делать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1608	conj	_	_
+1612	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1611	obj	_	_
+1613	очень	очень	ADV	_	Degree=Pos	1614	advmod	_	_
+1614	аккуратно	аккуратно	ADV	_	Degree=Pos	1611	advmod	_	_
+1615	,	,	PUNCT	_	_	1617	punct	_	_
+1616	нам	нам	PRON	_	Case=Dat|Number=Plur|Person=First	1617	iobj	_	_
+1617	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	1608	conj	_	_
+1618	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1617	csubj	_	_
+1619	весть	весть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1618	obj	_	_
+1620	воздух	воздух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1619	nmod	_	_
+1621	,	,	PUNCT	_	_	1622	punct	_	_
+1622	находящийся	находиться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1620	acl	_	_
+1623	во	в	ADP	_	_	1625	case	_	_
+1624	взбитых	взбитых	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	1625	amod	_	_
+1625	белках	белок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1622	obl	_	_
+1626	.	.	PUNCT	_	_	1608	punct	_	_
+1627	
+	
+	SPACE	_	_	1626	dep	_	_
+
+
+1628	У	у	ADP	_	_	1629	case	_	_
+1629	нас	нас	PRON	_	Case=Gen|Number=Plur|Person=First	1630	obl	_	_
+1630	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1631	очень	очень	ADV	_	Degree=Pos	1632	advmod	_	_
+1632	воздушный	воздушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1635	amod	_	_
+1633	и	и	CCONJ	_	_	1634	cc	_	_
+1634	нежный	нежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1632	conj	_	_
+1635	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1630	nsubj	_	_
+1636	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1635	appos	_	_
+1637	.	.	PUNCT	_	_	1630	punct	_	_
+1638	
+	
+	SPACE	_	_	1637	dep	_	_
+
+
+1639	Остывший	остыть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1641	nsubj	_	_
+1640	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1641	obj	_	_
+1641	наливаем	наливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1642	в	в	ADP	_	_	1643	case	_	_
+1643	посуду	посуда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1641	obl	_	_
+1644	с	с	ADP	_	_	1646	case	_	_
+1645	плоским	плоский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1646	amod	_	_
+1646	дном	дно	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1643	nmod	_	_
+1647	,	,	PUNCT	_	_	1650	punct	_	_
+1648	в	в	ADP	_	_	1649	case	_	_
+1649	которую	которую	PRON	_	Case=Acc|Gender=Fem|Number=Sing	1650	obl	_	_
+1650	помещается	помещаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	1646	acl:relcl	_	_
+1651	палочка	палочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1650	nsubj	_	_
+1652	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1651	nmod	_	_
+1653	.	.	PUNCT	_	_	1641	punct	_	_
+
+
+1654	Небольшой	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1656	amod	_	_
+1655	пластиковый	пластиковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1656	amod	_	_
+1656	контейнер	контейнер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1660	nsubj	_	_
+1657	очень	очень	ADV	_	Degree=Pos	1658	advmod	_	_
+1658	хорошо	хорошо	ADV	_	Degree=Pos	1660	advmod	_	_
+1659	здесь	здесь	ADV	_	Degree=Pos	1660	advmod	_	_
+1660	подойдёт	подойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1661	.	.	PUNCT	_	_	1660	punct	_	_
+
+
+1662	Если	если	SCONJ	_	_	1664	mark	_	_
+1663	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1664	nsubj	_	_
+1664	делаете	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1670	advcl	_	_
+1665	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1664	obj	_	_
+1666	с	с	ADP	_	_	1667	case	_	_
+1667	коньяком	коньяк	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1664	obl	_	_
+1668	,	,	PUNCT	_	_	1664	punct	_	_
+1669	то	то	SCONJ	_	_	1670	mark	_	_
+1670	добавляем	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1671	коньяк	коньяк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1670	obj	_	_
+1672	(	(	PUNCT	_	_	1673	punct	_	_
+1673	30	30	NUM	_	_	1676	nummod	_	_
+1674	-	-	NUM	_	_	1676	nummod	_	_
+1675	50	50	NUM	_	_	1676	nummod	_	_
+1676	г	г	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1671	parataxis	_	_
+1677	)	)	PUNCT	_	_	1676	punct	_	_
+1678	в	в	ADP	_	_	1679	case	_	_
+1679	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1670	obl	_	_
+1680	.	.	PUNCT	_	_	1670	punct	_	_
+1681	
+	
+	SPACE	_	_	1680	dep	_	_
+
+
+1682	Каждую	каждый	DET	_	Case=Acc|Gender=Fem|Number=Sing	1683	det	_	_
+1683	палочку	палочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1685	obj	_	_
+1684	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1685	nsubj	_	_
+1685	погружаем	погружать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1686	в	в	ADP	_	_	1687	case	_	_
+1687	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1685	obl	_	_
+1688	и	и	CCONJ	_	_	1690	cc	_	_
+1689	сразу	сразу	ADV	_	Degree=Pos	1690	advmod	_	_
+1690	вытаскиваем	вытаскивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1685	conj	_	_
+1691	.	.	PUNCT	_	_	1685	punct	_	_
+
+
+1692	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	1693	nsubj	_	_
+1693	держала	держать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1694	примерно	примерно	ADV	_	Degree=Pos	1697	advmod	_	_
+1695	по	по	ADP	_	_	1697	case	_	_
+1696	2	2	NUM	_	_	1697	nummod:gov	_	_
+1697	секунды	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1693	obl	_	_
+1698	,	,	PUNCT	_	_	1702	punct	_	_
+1699	даже	даже	PART	_	_	1702	advmod	_	_
+1700	если	если	SCONJ	_	_	1702	mark	_	_
+1701	вначале	вначале	ADV	_	Degree=Pos	1702	advmod	_	_
+1702	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1693	advcl	_	_
+1703	,	,	PUNCT	_	_	1706	punct	_	_
+1704	что	что	SCONJ	_	_	1706	mark	_	_
+1705	печенье	печение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1706	nsubj	_	_
+1706	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1702	ccomp	_	_
+1707	сухое	сухой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1706	nsubj	_	_
+1708	,	,	PUNCT	_	_	1711	punct	_	_
+1709	потом	потом	ADV	_	Degree=Pos	1711	advmod	_	_
+1710	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=Third	1711	nsubj	_	_
+1711	пропитается	пропитаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	1706	conj	_	_
+1712	полностью	полностью	ADV	_	Degree=Pos	1711	advmod	_	_
+1713	и	и	CCONJ	_	_	1714	cc	_	_
+1714	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	1706	conj	_	_
+1715	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1714	xcomp	_	_
+1716	.	.	PUNCT	_	_	1693	punct	_	_
+
+
+1717	Если	если	SCONJ	_	_	1718	mark	_	_
+1718	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1730	advcl	_	_
+1719	печенье	печение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1718	obj	_	_
+1720	в	в	ADP	_	_	1721	case	_	_
+1721	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1718	obl	_	_
+1722	дольше	долгий	ADV	_	Degree=Cmp	1718	advmod	_	_
+1723	,	,	PUNCT	_	_	1718	punct	_	_
+1724	то	то	SCONJ	_	_	1730	mark	_	_
+1725	в	в	ADP	_	_	1726	case	_	_
+1726	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1730	obl	_	_
+1727	в	в	ADP	_	_	1728	case	_	_
+1728	десерте	десерт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1730	obl	_	_
+1729	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=Third	1730	nsubj	_	_
+1730	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1731	довольно	довольно	ADV	_	Degree=Pos	1732	advmod	_	_
+1732	мокрое	мокрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1730	advmod	_	_
+1733	.	.	PUNCT	_	_	1730	punct	_	_
+1734	
+	
+	SPACE	_	_	1733	dep	_	_
+
+
+1735	Пропитанные	пропитать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1736	amod	_	_
+1736	кофе	кофе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1738	obj	_	_
+1737	палочки	палочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1738	obj	_	_
+1738	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1739	на	на	ADP	_	_	1740	case	_	_
+1740	дно	дно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1738	obl	_	_
+1741	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1740	nmod	_	_
+1742	.	.	PUNCT	_	_	1738	punct	_	_
+
+
+1743	Здесь	здесь	ADV	_	Degree=Pos	1745	advmod	_	_
+1744	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1745	nsubj	_	_
+1745	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1746	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1745	xcomp	_	_
+1747	большую	больший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1748	amod	_	_
+1748	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1746	obj	_	_
+1749	,	,	PUNCT	_	_	1752	punct	_	_
+1750	как	как	SCONJ	_	_	1752	case	_	_
+1751	у	у	ADP	_	_	1752	case	_	_
+1752	меня	меня	PRON	_	Case=Gen|Number=Sing|Person=First	1746	obl	_	_
+1753	,	,	PUNCT	_	_	1755	punct	_	_
+1754	а	а	CCONJ	_	_	1755	cc	_	_
+1755	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1752	conj	_	_
+1756	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1755	xcomp	_	_
+1757	маленькие	маленький	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1758	amod	_	_
+1758	формочки	формочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1756	obj	_	_
+1759	или	или	CCONJ	_	_	1760	cc	_	_
+1760	стаканы	стакан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1758	conj	_	_
+1761	и	и	CCONJ	_	_	1762	cc	_	_
+1762	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1756	conj	_	_
+1763	в	в	ADP	_	_	1764	case	_	_
+1764	них	них	PRON	_	Case=Loc|Number=Plur|Person=Third	1762	obl	_	_
+1765	десерты	десерт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1762	obj	_	_
+1766	сразу	сразу	ADV	_	Degree=Pos	1769	advmod	_	_
+1767	на	на	ADP	_	_	1769	case	_	_
+1768	одну	одну	NUM	_	Case=Acc|Gender=Fem|Number=Sing	1769	nummod	_	_
+1769	порцию	порция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1762	obl	_	_
+1770	.	.	PUNCT	_	_	1745	punct	_	_
+
+
+1771	Мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	1774	iobj	_	_
+1772	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1773	amod	_	_
+1773	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1774	nsubj	_	_
+1774	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1775	меньше	маленький	ADV	_	Degree=Cmp	1774	advmod	_	_
+1776	,	,	PUNCT	_	_	1783	punct	_	_
+1777	потому	потому	ADV	_	Degree=Pos	1783	mark	_	_
+1778	что	что	SCONJ	_	_	1777	fixed	_	_
+1779	тогда	тогда	ADV	_	Degree=Pos	1783	advmod	_	_
+1780	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	1781	det	_	_
+1781	холодильник	холодильник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1783	nsubj:pass	_	_
+1782	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1783	aux:pass	_	_
+1783	заставлен	заставить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1774	advcl	_	_
+1784	кучей	куча	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1783	obl	_	_
+1785	формочек	формочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1784	nmod	_	_
+1786	,	,	PUNCT	_	_	1788	punct	_	_
+1787	зато	зато	CCONJ	_	_	1788	cc	_	_
+1788	подавать	подавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1793	csubj	_	_
+1789	их	их	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=Third	1788	obj	_	_
+1790	,	,	PUNCT	_	_	1791	punct	_	_
+1791	конечно	конечно	ADV	_	Degree=Pos	1793	parataxis	_	_
+1792	,	,	PUNCT	_	_	1791	punct	_	_
+1793	проще	простой	ADJ	_	Degree=Cmp	1783	conj	_	_
+1794	.	.	PUNCT	_	_	1774	punct	_	_
+
+
+1795	Кстати	кстати	ADV	_	Degree=Pos	1811	parataxis	_	_
+1796	,	,	PUNCT	_	_	1795	punct	_	_
+1797	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	1798	det	_	_
+1798	форма	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1811	nsubj	_	_
+1799	размером	размер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1798	nmod	_	_
+1800	17х26	17х26	NUM	_	_	1801	amod	_	_
+1801	см	см	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1799	nmod	_	_
+1802	,	,	PUNCT	_	_	1803	punct	_	_
+1803	высота	высота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1811	obj	_	_
+1804	5,5	5,5	NUM	_	_	1803	appos	_	_
+1805	см.	см.	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	1803	nmod	_	_
+1806	
+	
+	SPACE	_	_	1805	dep	_	_
+1807	Сверху	сверху	ADV	_	Degree=Pos	1803	advmod	_	_
+1808	на	на	ADP	_	_	1809	case	_	_
+1809	слой	слой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1803	nmod	_	_
+1810	Савоярди	савоярди	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1809	nmod	_	_
+1811	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1812	примерно	примерно	ADV	_	Degree=Pos	1813	advmod	_	_
+1813	половину	половина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1811	obj	_	_
+1814	крема	крем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1813	nmod	_	_
+1815	,	,	PUNCT	_	_	1816	punct	_	_
+1816	разравниваем	разравнивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1811	conj	_	_
+1817	.	.	PUNCT	_	_	1811	punct	_	_
+1818	
+	
+	SPACE	_	_	1817	dep	_	_
+
+
+1819	Поверх	поверх	ADP	_	_	1820	det	_	_
+1820	крема	крем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1821	obl	_	_
+1821	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1822	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1823	amod	_	_
+1823	слой	слой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1821	obj	_	_
+1824	пропитанного	пропитанного	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1825	amod	_	_
+1825	кофе	кофе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1823	nmod	_	_
+1826	печенья	печение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1825	nmod	_	_
+1827	.	.	PUNCT	_	_	1821	punct	_	_
+1828	
+	
+	SPACE	_	_	1827	dep	_	_
+
+
+1829	Сверху	сверху	ADV	_	Degree=Pos	1830	advmod	_	_
+1830	выкладываем	выкладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1831	оставшийся	остаться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1832	amod	_	_
+1832	крем	крем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1830	obj	_	_
+1833	,	,	PUNCT	_	_	1834	punct	_	_
+1834	выравниваем	выравнивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1830	conj	_	_
+1835	и	и	CCONJ	_	_	1836	cc	_	_
+1836	убираем	убирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1830	conj	_	_
+1837	в	в	ADP	_	_	1838	case	_	_
+1838	холодильник	холодильник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1836	obl	_	_
+1839	на	на	ADP	_	_	1841	case	_	_
+1840	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	1841	nummod:gov	_	_
+1841	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1836	obl	_	_
+1842	,	,	PUNCT	_	_	1844	punct	_	_
+1843	а	а	CCONJ	_	_	1844	cc	_	_
+1844	лучше	хороший	ADJ	_	Degree=Cmp	1830	conj	_	_
+1845	на	на	ADP	_	_	1846	case	_	_
+1846	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1844	obl	_	_
+1847	.	.	PUNCT	_	_	1830	punct	_	_
+
+
+1848	Чем	Чем	SCONJ	_	_	1851	mark	_	_
+1849	дольше	долгий	ADV	_	Degree=Cmp	1851	advmod	_	_
+1850	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1851	nsubj	_	_
+1851	держите	держать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1852	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1851	iobj	_	_
+1853	в	в	ADP	_	_	1854	case	_	_
+1854	холодильнике	холодильник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1851	obl	_	_
+1855	,	,	PUNCT	_	_	1857	punct	_	_
+1856	тем	тем	SCONJ	_	_	1857	mark	_	_
+1857	лучше	хороший	ADJ	_	Degree=Cmp	1851	advcl	_	_
+1858	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1857	cop	_	_
+1859	крем	крем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1857	nsubj	_	_
+1860	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1859	nmod	_	_
+1861	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1860	obj	_	_
+1862	.	.	PUNCT	_	_	1851	punct	_	_
+
+
+1863	Через	через	ADP	_	_	1865	case	_	_
+1864	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	1865	nummod:gov	_	_
+1865	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1869	obl	_	_
+1866	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1869	nsubj	_	_
+1867	ещё	ещё	ADV	_	Degree=Pos	1869	advmod	_	_
+1868	не	не	PART	_	Polarity=Neg	1869	advmod	_	_
+1869	сможете	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Second|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1870	достать	достать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1869	xcomp	_	_
+1871	из	из	ADP	_	_	1872	case	_	_
+1872	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1870	obl	_	_
+1873	аккуратный	аккуратный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1874	amod	_	_
+1874	кусочек	кусочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1870	obj	_	_
+1875	десерта	десерт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1874	nmod	_	_
+1876	,	,	PUNCT	_	_	1877	punct	_	_
+1877	сможете	сможете	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1869	conj	_	_
+1878	лишь	лишь	PART	_	_	1879	advmod	_	_
+1879	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1877	xcomp	_	_
+1880	его	он	DET	_	_	1881	det	_	_
+1881	ложкой	ложка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1877	nsubj	_	_
+1882	,	,	PUNCT	_	_	1889	punct	_	_
+1883	хотя	хотя	SCONJ	_	_	1889	mark	_	_
+1884	на	на	ADP	_	_	1885	case	_	_
+1885	вкусе	вкус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1889	obl	_	_
+1886	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1889	nsubj	_	_
+1887	никак	никак	ADV	_	Degree=Pos	1888	advmod	_	_
+1888	не	не	PART	_	Polarity=Neg	1889	advmod	_	_
+1889	отразится	отразиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	1877	advcl	_	_
+1890	.	.	PUNCT	_	_	1869	punct	_	_
+
+
+1891	Уже	Уже	ADV	_	Degree=Pos	1896	advmod	_	_
+1892	через	через	ADP	_	_	1896	case	_	_
+1893	8	8	NUM	_	_	1896	nummod	_	_
+1894	-	-	NUM	_	_	1896	nummod	_	_
+1895	10	10	NUM	_	_	1896	nummod	_	_
+1896	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1900	obl	_	_
+1897	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1900	iobj	_	_
+1898	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1900	cop	_	_
+1899	гораздо	гораздо	ADV	_	Degree=Pos	1900	advmod	_	_
+1900	лучше	хороший	ADJ	_	Degree=Cmp	0	ROOT	_	_
+1901	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1900	csubj	_	_
+1902	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1901	obj	_	_
+1903	и	и	CCONJ	_	_	1906	cc	_	_
+1904	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=Second	1906	nsubj	_	_
+1905	уже	уже	ADV	_	Degree=Pos	1906	advmod	_	_
+1906	сможете	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Second|Tense=Fut|VerbForm=Fin|Voice=Act	1900	conj	_	_
+1907	вырезать	вырезать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1906	xcomp	_	_
+1908	красивый	красивый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1909	amod	_	_
+1909	кусочек	кусочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1907	obj	_	_
+1910	.	.	PUNCT	_	_	1900	punct	_	_
+
+
+1911	Мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	1912	det	_	_
+1912	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1913	nsubj	_	_
+1913	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1914	в	в	ADP	_	_	1915	case	_	_
+1915	холодильнике	холодильник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1913	obl	_	_
+1916	больше	больше	ADV	_	Degree=Cmp	1918	advmod	_	_
+1917	12	12	NUM	_	_	1918	nummod	_	_
+1918	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1913	obl	_	_
+1919	.	.	PUNCT	_	_	1913	punct	_	_
+1920	
+	
+	SPACE	_	_	1919	dep	_	_
+
+
+1921	Перед	Перед	ADP	_	_	1922	case	_	_
+1922	подачей	подача	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1923	obl	_	_
+1923	посыпьте	посыпьте	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1924	десерт	десерт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1923	obj	_	_
+1925	какао	какао	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1924	nmod	_	_
+1926	.	.	PUNCT	_	_	1923	punct	_	_
+
+
+1927	Можно	можно	ADV	_	Degree=Pos	0	ROOT	_	_
+1928	заменить	заменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1927	csubj	_	_
+1929	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	1928	obj	_	_
+1930	на	на	ADP	_	_	1932	case	_	_
+1931	тёртый	тёртый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1932	amod	_	_
+1932	шоколад	шоколад	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1928	obl	_	_
+1933	,	,	PUNCT	_	_	1937	punct	_	_
+1934	но	но	CCONJ	_	_	1937	cc	_	_
+1935	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	1937	iobj	_	_
+1936	больше	больше	ADV	_	Degree=Cmp	1937	advmod	_	_
+1937	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1927	conj	_	_
+1938	с	с	ADP	_	_	1939	case	_	_
+1939	какао	какао	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1937	obl	_	_
+1940	.	.	PUNCT	_	_	1927	punct	_	_
+1941	
+	
+	SPACE	_	_	1940	dep	_	_
+
+
+1942	И	и	CCONJ	_	_	1949	cc	_	_
+1943	,	,	PUNCT	_	_	1942	punct	_	_
+1944	вот	вот	PART	_	_	1945	advmod	_	_
+1945	наконец	наконец	ADV	_	Degree=Pos	1949	parataxis	_	_
+1946	,	,	PUNCT	_	_	1945	punct	_	_
+1947	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	1948	det	_	_
+1948	Тирамису	тирамису	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1949	nsubj	_	_
+1949	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+1950	.	.	PUNCT	_	_	1949	punct	_	_
+
+
+1951	Попробуйте	попробовать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1952	,	,	PUNCT	_	_	1954	punct	_	_
+1953	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1954	nsubj	_	_
+1954	великолепен	великолепный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	1951	conj	_	_
+1955	!	!	PUNCT	_	_	1951	punct	_	_
+
+
+1956	Приятного	приятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1957	amod	_	_
+1957	аппетита	аппетит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	ROOT	_	_
+1958	!	!	PUNCT	_	_	1957	punct	_	_
+
+

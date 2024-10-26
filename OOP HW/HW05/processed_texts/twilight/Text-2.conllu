@@ -1,0 +1,1017 @@
+1	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+2	woke	woke	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	with	with	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	start	start	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	-	-	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	my	my	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	eyelids	eyelids	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	popping	popping	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	open	open	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	wide	wide	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	-	-	X	_	Foreign=Yes	1	flat:foreign	_	_
+13	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+14	gasped	gasped	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+
+16	Dull	dull	X	_	Foreign=Yes	0	ROOT	_	_
+17	gray	gray	X	_	Foreign=Yes	16	flat:foreign	_	_
+18	light	light	X	_	Foreign=Yes	16	flat:foreign	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	the	the	X	_	Foreign=Yes	16	conj	_	_
+21	familiar	familiar	X	_	Foreign=Yes	20	flat:foreign	_	_
+22	light	light	X	_	Foreign=Yes	20	flat:foreign	_	_
+23	of	of	X	_	Foreign=Yes	20	flat:foreign	_	_
+24	an	an	X	_	Foreign=Yes	20	flat:foreign	_	_
+25	overcast	overcast	X	_	Foreign=Yes	20	flat:foreign	_	_
+26	morning	morning	X	_	Foreign=Yes	20	flat:foreign	_	_
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	took	took	X	_	Foreign=Yes	16	conj	_	_
+29	the	the	X	_	Foreign=Yes	28	flat:foreign	_	_
+30	place	place	X	_	Foreign=Yes	28	flat:foreign	_	_
+31	of	of	X	_	Foreign=Yes	28	flat:foreign	_	_
+32	the	the	X	_	Foreign=Yes	28	flat:foreign	_	_
+33	blinding	blinding	X	_	Foreign=Yes	28	flat:foreign	_	_
+34	sun	sun	X	_	Foreign=Yes	28	flat:foreign	_	_
+35	in	in	X	_	Foreign=Yes	28	flat:foreign	_	_
+36	my	my	X	_	Foreign=Yes	28	flat:foreign	_	_
+37	dream	dream	X	_	Foreign=Yes	28	flat:foreign	_	_
+38	.	.	PUNCT	_	_	16	punct	_	_
+39	
+
+	
+
+	SPACE	_	_	38	dep	_	_
+
+
+40	Just	just	X	_	Foreign=Yes	0	ROOT	_	_
+41	a	a	X	_	Foreign=Yes	40	flat:foreign	_	_
+42	dream	dream	X	_	Foreign=Yes	40	flat:foreign	_	_
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	I	i	PROPN	_	Foreign=Yes	40	appos	_	_
+45	told	told	X	_	Foreign=Yes	44	flat:foreign	_	_
+46	myself	myself	X	_	Foreign=Yes	44	flat:foreign	_	_
+47	.	.	PUNCT	_	_	40	punct	_	_
+
+
+48	It	it	PROPN	_	Foreign=Yes	0	ROOT	_	_
+49	was	was	X	_	Foreign=Yes	48	flat:foreign	_	_
+50	only	only	X	_	Foreign=Yes	48	flat:foreign	_	_
+51	a	a	X	_	Foreign=Yes	48	flat:foreign	_	_
+52	dream	dream	X	_	Foreign=Yes	48	flat:foreign	_	_
+53	.	.	PUNCT	_	_	48	punct	_	_
+
+
+54	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+55	took	took	X	_	Foreign=Yes	54	flat:foreign	_	_
+56	a	a	X	_	Foreign=Yes	54	flat:foreign	_	_
+57	deep	deep	X	_	Foreign=Yes	54	flat:foreign	_	_
+58	breath	breath	X	_	Foreign=Yes	54	flat:foreign	_	_
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	and	and	X	_	Foreign=Yes	54	appos	_	_
+61	then	then	X	_	Foreign=Yes	60	flat:foreign	_	_
+62	jumped	jumped	X	_	Foreign=Yes	60	flat:foreign	_	_
+63	again	again	X	_	Foreign=Yes	60	flat:foreign	_	_
+64	when	when	X	_	Foreign=Yes	60	flat:foreign	_	_
+65	my	my	X	_	Foreign=Yes	60	flat:foreign	_	_
+66	alarm	alarm	X	_	Foreign=Yes	60	flat:foreign	_	_
+67	went	went	X	_	Foreign=Yes	60	flat:foreign	_	_
+68	off	off	X	_	Foreign=Yes	60	flat:foreign	_	_
+69	.	.	PUNCT	_	_	54	punct	_	_
+
+
+70	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+71	little	little	X	_	Foreign=Yes	70	flat:foreign	_	_
+72	calendar	calendar	X	_	Foreign=Yes	70	flat:foreign	_	_
+73	in	in	X	_	Foreign=Yes	70	flat:foreign	_	_
+74	the	the	X	_	Foreign=Yes	70	flat:foreign	_	_
+75	corner	corner	X	_	Foreign=Yes	70	flat:foreign	_	_
+76	of	of	X	_	Foreign=Yes	70	flat:foreign	_	_
+77	the	the	X	_	Foreign=Yes	70	flat:foreign	_	_
+78	clock	clock	X	_	Foreign=Yes	70	flat:foreign	_	_
+79	's	's	X	_	Foreign=Yes	70	flat:foreign	_	_
+80	display	display	X	_	Foreign=Yes	70	flat:foreign	_	_
+81	informed	informed	X	_	Foreign=Yes	70	flat:foreign	_	_
+82	me	me	X	_	Foreign=Yes	70	flat:foreign	_	_
+83	that	that	X	_	Foreign=Yes	70	flat:foreign	_	_
+84	today	today	X	_	Foreign=Yes	70	flat:foreign	_	_
+85	was	was	X	_	Foreign=Yes	70	flat:foreign	_	_
+86	September	september	X	_	Foreign=Yes	70	flat:foreign	_	_
+87	thirteenth	thirteenth	X	_	Foreign=Yes	70	flat:foreign	_	_
+88	.	.	PUNCT	_	_	90	punct	_	_
+89	
+
+	
+
+	SPACE	_	_	88	dep	_	_
+90	Only	only	X	_	Foreign=Yes	70	appos	_	_
+91	a	a	X	_	Foreign=Yes	90	flat:foreign	_	_
+92	dream	dream	X	_	Foreign=Yes	90	flat:foreign	_	_
+93	,	,	PUNCT	_	_	94	punct	_	_
+94	but	but	X	_	Foreign=Yes	70	conj	_	_
+95	prophetic	prophetic	X	_	Foreign=Yes	94	flat:foreign	_	_
+96	enough	enough	X	_	Foreign=Yes	94	flat:foreign	_	_
+97	in	in	X	_	Foreign=Yes	94	flat:foreign	_	_
+98	one	one	X	_	Foreign=Yes	94	flat:foreign	_	_
+99	way	way	X	_	Foreign=Yes	94	flat:foreign	_	_
+100	,	,	PUNCT	_	_	101	punct	_	_
+101	at	at	X	_	Foreign=Yes	70	conj	_	_
+102	least	least	X	_	Foreign=Yes	101	flat:foreign	_	_
+103	.	.	PUNCT	_	_	70	punct	_	_
+
+
+104	Today	today	X	_	Foreign=Yes	0	ROOT	_	_
+105	was	was	X	_	Foreign=Yes	104	flat:foreign	_	_
+106	my	my	X	_	Foreign=Yes	104	flat:foreign	_	_
+107	birthday	birthday	X	_	Foreign=Yes	104	flat:foreign	_	_
+108	.	.	PUNCT	_	_	104	punct	_	_
+
+
+109	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+110	was	was	PRON	_	Foreign=Yes	109	flat:foreign	_	_
+111	officially	officially	X	_	Foreign=Yes	109	flat:foreign	_	_
+112	eighteen	eighteen	X	_	Foreign=Yes	109	flat:foreign	_	_
+113	years	years	X	_	Foreign=Yes	109	flat:foreign	_	_
+114	old	old	X	_	Foreign=Yes	109	flat:foreign	_	_
+115	.	.	PUNCT	_	_	117	punct	_	_
+116	
+
+	
+
+	SPACE	_	_	115	dep	_	_
+117	I'd	i'd	X	_	Foreign=Yes	109	appos	_	_
+118	been	been	X	_	Foreign=Yes	117	flat:foreign	_	_
+119	dreading	dreading	X	_	Foreign=Yes	117	flat:foreign	_	_
+120	this	this	X	_	Foreign=Yes	117	flat:foreign	_	_
+121	day	day	X	_	Foreign=Yes	117	flat:foreign	_	_
+122	for	for	X	_	Foreign=Yes	117	flat:foreign	_	_
+123	months	months	X	_	Foreign=Yes	117	flat:foreign	_	_
+124	.	.	PUNCT	_	_	109	punct	_	_
+125	
+
+	
+
+	SPACE	_	_	124	dep	_	_
+
+
+126	All	all	X	_	Foreign=Yes	0	ROOT	_	_
+127	through	through	X	_	Foreign=Yes	126	flat:foreign	_	_
+128	the	the	X	_	Foreign=Yes	126	flat:foreign	_	_
+129	perfect	perfect	X	_	Foreign=Yes	126	flat:foreign	_	_
+130	summer	summer	X	_	Foreign=Yes	126	flat:foreign	_	_
+131	-	-	X	_	Foreign=Yes	126	flat:foreign	_	_
+132	the	the	X	_	Foreign=Yes	126	flat:foreign	_	_
+133	happiest	happiest	X	_	Foreign=Yes	126	flat:foreign	_	_
+134	summer	summer	X	_	Foreign=Yes	126	flat:foreign	_	_
+135	I	i	X	_	Foreign=Yes	126	flat:foreign	_	_
+136	had	had	X	_	Foreign=Yes	126	flat:foreign	_	_
+137	ever	ever	X	_	Foreign=Yes	126	flat:foreign	_	_
+138	had	had	X	_	Foreign=Yes	126	flat:foreign	_	_
+139	,	,	PUNCT	_	_	140	punct	_	_
+140	the	the	X	_	Foreign=Yes	126	appos	_	_
+141	happiest	happiest	X	_	Foreign=Yes	140	flat:foreign	_	_
+142	summer	summer	X	_	Foreign=Yes	140	flat:foreign	_	_
+143	anyone	anyone	X	_	Foreign=Yes	140	flat:foreign	_	_
+144	anywhere	anywhere	X	_	Foreign=Yes	140	flat:foreign	_	_
+145	had	had	X	_	Foreign=Yes	140	flat:foreign	_	_
+146	ever	ever	X	_	Foreign=Yes	140	flat:foreign	_	_
+147	had	had	X	_	Foreign=Yes	140	flat:foreign	_	_
+148	,	,	PUNCT	_	_	149	punct	_	_
+149	and	and	X	_	Foreign=Yes	126	conj	_	_
+150	the	the	X	_	Foreign=Yes	149	flat:foreign	_	_
+151	rainiest	rainiest	X	_	Foreign=Yes	149	flat:foreign	_	_
+152	summer	summer	X	_	Foreign=Yes	149	flat:foreign	_	_
+153	in	in	X	_	Foreign=Yes	149	flat:foreign	_	_
+154	the	the	X	_	Foreign=Yes	149	flat:foreign	_	_
+155	history	history	X	_	Foreign=Yes	149	flat:foreign	_	_
+156	of	of	X	_	Foreign=Yes	149	flat:foreign	_	_
+157	the	the	X	_	Foreign=Yes	149	flat:foreign	_	_
+158	Olympic	olympic	X	_	Foreign=Yes	149	flat:foreign	_	_
+159	Peninsula	peninsula	X	_	Foreign=Yes	149	flat:foreign	_	_
+160	-	-	X	_	Foreign=Yes	149	flat:foreign	_	_
+161	this	this	X	_	Foreign=Yes	149	flat:foreign	_	_
+162	bleak	bleak	X	_	Foreign=Yes	149	flat:foreign	_	_
+163	date	date	X	_	Foreign=Yes	149	flat:foreign	_	_
+164	had	had	X	_	Foreign=Yes	149	flat:foreign	_	_
+165	lurked	lurked	X	_	Foreign=Yes	149	flat:foreign	_	_
+166	in	in	X	_	Foreign=Yes	149	flat:foreign	_	_
+167	ambush	ambush	X	_	Foreign=Yes	149	flat:foreign	_	_
+168	,	,	PUNCT	_	_	169	punct	_	_
+169	waiting	waiting	X	_	Foreign=Yes	126	conj	_	_
+170	to	to	X	_	Foreign=Yes	169	flat:foreign	_	_
+171	spring	spring	X	_	Foreign=Yes	169	flat:foreign	_	_
+172	.	.	PUNCT	_	_	126	punct	_	_
+173	
+
+	
+
+	SPACE	_	_	172	dep	_	_
+
+
+174	And	and	X	_	Foreign=Yes	0	ROOT	_	_
+175	now	now	X	_	Foreign=Yes	174	flat:foreign	_	_
+176	that	that	X	_	Foreign=Yes	174	flat:foreign	_	_
+177	it	it	X	_	Foreign=Yes	174	flat:foreign	_	_
+178	had	had	X	_	Foreign=Yes	174	flat:foreign	_	_
+179	hit	hit	X	_	Foreign=Yes	174	flat:foreign	_	_
+180	,	,	PUNCT	_	_	181	punct	_	_
+181	it	it	X	_	Foreign=Yes	174	conj	_	_
+182	was	was	X	_	Foreign=Yes	181	flat:foreign	_	_
+183	even	even	X	_	Foreign=Yes	181	flat:foreign	_	_
+184	worse	worse	X	_	Foreign=Yes	181	flat:foreign	_	_
+185	than	than	X	_	Foreign=Yes	181	flat:foreign	_	_
+186	I'd	i'd	X	_	Foreign=Yes	181	flat:foreign	_	_
+187	feared	feared	X	_	Foreign=Yes	181	flat:foreign	_	_
+188	it	it	X	_	Foreign=Yes	181	flat:foreign	_	_
+189	would	would	X	_	Foreign=Yes	181	flat:foreign	_	_
+190	be	be	X	_	Foreign=Yes	181	flat:foreign	_	_
+191	.	.	PUNCT	_	_	174	punct	_	_
+
+
+192	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+193	could	could	X	_	Foreign=Yes	192	flat:foreign	_	_
+194	feel	feel	X	_	Foreign=Yes	192	flat:foreign	_	_
+195	it	it	X	_	Foreign=Yes	192	flat:foreign	_	_
+196	-	-	X	_	Foreign=Yes	192	flat:foreign	_	_
+197	I	i	X	_	Foreign=Yes	192	appos	_	_
+198	was	was	X	_	Foreign=Yes	192	flat:foreign	_	_
+199	older	older	X	_	Foreign=Yes	192	flat:foreign	_	_
+200	.	.	PUNCT	_	_	192	punct	_	_
+
+
+201	Every	every	X	_	Foreign=Yes	0	ROOT	_	_
+202	day	day	X	_	Foreign=Yes	201	flat:foreign	_	_
+203	I	i	X	_	Foreign=Yes	201	flat:foreign	_	_
+204	got	got	X	_	Foreign=Yes	201	flat:foreign	_	_
+205	older	older	X	_	Foreign=Yes	201	flat:foreign	_	_
+206	,	,	PUNCT	_	_	207	punct	_	_
+207	but	but	X	_	Foreign=Yes	201	conj	_	_
+208	this	this	X	_	Foreign=Yes	207	flat:foreign	_	_
+209	was	was	X	_	Foreign=Yes	207	flat:foreign	_	_
+210	different	different	X	_	Foreign=Yes	207	flat:foreign	_	_
+211	,	,	PUNCT	_	_	212	punct	_	_
+212	worse	worse	PROPN	_	Foreign=Yes	201	conj	_	_
+213	,	,	PUNCT	_	_	214	punct	_	_
+214	quantifiable	quantifiable	PROPN	_	Foreign=Yes	201	conj	_	_
+215	.	.	PUNCT	_	_	201	punct	_	_
+
+
+216	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+217	was	was	PRON	_	Foreign=Yes	216	xcomp	_	_
+218	eighteen	eighteen	X	_	Foreign=Yes	216	flat:foreign	_	_
+219	.	.	PUNCT	_	_	216	punct	_	_
+220	
+
+	
+
+	SPACE	_	_	219	dep	_	_
+
+
+221	And	and	X	_	Foreign=Yes	0	ROOT	_	_
+222	Edward	edward	X	_	Foreign=Yes	221	flat:foreign	_	_
+223	never	never	X	_	Foreign=Yes	221	flat:foreign	_	_
+224	would	would	X	_	Foreign=Yes	221	flat:foreign	_	_
+225	be	be	X	_	Foreign=Yes	221	flat:foreign	_	_
+226	.	.	PUNCT	_	_	221	punct	_	_
+227	
+
+	
+
+	SPACE	_	_	226	dep	_	_
+
+
+228	When	when	X	_	Foreign=Yes	0	ROOT	_	_
+229	I	i	X	_	Foreign=Yes	228	flat:foreign	_	_
+230	went	went	X	_	Foreign=Yes	228	flat:foreign	_	_
+231	to	to	X	_	Foreign=Yes	228	flat:foreign	_	_
+232	brush	brush	X	_	Foreign=Yes	228	flat:foreign	_	_
+233	my	my	X	_	Foreign=Yes	228	flat:foreign	_	_
+234	teeth	teeth	X	_	Foreign=Yes	228	flat:foreign	_	_
+235	,	,	PUNCT	_	_	236	punct	_	_
+236	I	i	PROPN	_	Foreign=Yes	228	conj	_	_
+237	was	was	X	_	Foreign=Yes	236	flat:foreign	_	_
+238	almost	almost	X	_	Foreign=Yes	236	flat:foreign	_	_
+239	surprised	surprised	X	_	Foreign=Yes	236	flat:foreign	_	_
+240	that	that	X	_	Foreign=Yes	236	flat:foreign	_	_
+241	the	the	X	_	Foreign=Yes	236	flat:foreign	_	_
+242	face	face	X	_	Foreign=Yes	236	flat:foreign	_	_
+243	in	in	X	_	Foreign=Yes	236	flat:foreign	_	_
+244	the	the	X	_	Foreign=Yes	236	flat:foreign	_	_
+245	mirror	mirror	X	_	Foreign=Yes	236	flat:foreign	_	_
+246	hadn't	hadn't	X	_	Foreign=Yes	236	flat:foreign	_	_
+247	changed	changed	X	_	Foreign=Yes	236	flat:foreign	_	_
+248	.	.	PUNCT	_	_	228	punct	_	_
+
+
+249	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+250	stared	stared	X	_	Foreign=Yes	249	flat:foreign	_	_
+251	at	at	X	_	Foreign=Yes	249	flat:foreign	_	_
+252	myself	myself	X	_	Foreign=Yes	249	flat:foreign	_	_
+253	,	,	PUNCT	_	_	254	punct	_	_
+254	looking	looking	X	_	Foreign=Yes	249	appos	_	_
+255	for	for	X	_	Foreign=Yes	254	flat:foreign	_	_
+256	some	some	X	_	Foreign=Yes	254	flat:foreign	_	_
+257	sign	sign	X	_	Foreign=Yes	254	flat:foreign	_	_
+258	of	of	X	_	Foreign=Yes	254	flat:foreign	_	_
+259	impending	impending	X	_	Foreign=Yes	254	flat:foreign	_	_
+260	wrinkles	wrinkles	X	_	Foreign=Yes	254	flat:foreign	_	_
+261	in	in	X	_	Foreign=Yes	254	flat:foreign	_	_
+262	my	my	X	_	Foreign=Yes	254	flat:foreign	_	_
+263	ivory	ivory	X	_	Foreign=Yes	254	flat:foreign	_	_
+264	skin	skin	X	_	Foreign=Yes	254	flat:foreign	_	_
+265	.	.	PUNCT	_	_	249	punct	_	_
+
+
+266	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+267	only	only	X	_	Foreign=Yes	266	flat:foreign	_	_
+268	creases	creases	X	_	Foreign=Yes	266	flat:foreign	_	_
+269	were	were	X	_	Foreign=Yes	266	flat:foreign	_	_
+270	the	the	X	_	Foreign=Yes	266	flat:foreign	_	_
+271	ones	ones	X	_	Foreign=Yes	266	flat:foreign	_	_
+272	on	on	X	_	Foreign=Yes	266	flat:foreign	_	_
+273	my	my	X	_	Foreign=Yes	266	flat:foreign	_	_
+274	forehead	forehead	X	_	Foreign=Yes	266	flat:foreign	_	_
+275	,	,	PUNCT	_	_	276	punct	_	_
+276	though	though	X	_	Foreign=Yes	266	conj	_	_
+277	,	,	PUNCT	_	_	278	punct	_	_
+278	and	and	X	_	Foreign=Yes	266	conj	_	_
+279	I	i	X	_	Foreign=Yes	278	flat:foreign	_	_
+280	knew	knew	X	_	Foreign=Yes	278	flat:foreign	_	_
+281	that	that	X	_	Foreign=Yes	278	flat:foreign	_	_
+282	if	if	X	_	Foreign=Yes	278	flat:foreign	_	_
+283	I	i	X	_	Foreign=Yes	278	flat:foreign	_	_
+284	could	could	X	_	Foreign=Yes	278	flat:foreign	_	_
+285	manage	manage	X	_	Foreign=Yes	278	flat:foreign	_	_
+286	to	to	X	_	Foreign=Yes	278	flat:foreign	_	_
+287	relax	relax	X	_	Foreign=Yes	278	flat:foreign	_	_
+288	,	,	PUNCT	_	_	289	punct	_	_
+289	they	they	X	_	Foreign=Yes	266	conj	_	_
+290	would	would	X	_	Foreign=Yes	289	flat:foreign	_	_
+291	disappear	disappear	X	_	Foreign=Yes	289	flat:foreign	_	_
+292	.	.	PUNCT	_	_	266	punct	_	_
+
+
+293	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+294	couldn't	couldn't	X	_	Foreign=Yes	293	flat:foreign	_	_
+295	.	.	PUNCT	_	_	293	punct	_	_
+
+
+296	My	my	X	_	Foreign=Yes	0	ROOT	_	_
+297	eyebrows	eyebrows	X	_	Foreign=Yes	296	flat:foreign	_	_
+298	stayed	stayed	X	_	Foreign=Yes	296	flat:foreign	_	_
+299	lodged	lodged	X	_	Foreign=Yes	296	flat:foreign	_	_
+300	in	in	X	_	Foreign=Yes	296	flat:foreign	_	_
+301	a	a	X	_	Foreign=Yes	296	flat:foreign	_	_
+302	worried	worried	X	_	Foreign=Yes	296	flat:foreign	_	_
+303	line	line	X	_	Foreign=Yes	296	flat:foreign	_	_
+304	over	over	X	_	Foreign=Yes	296	flat:foreign	_	_
+305	my	my	X	_	Foreign=Yes	296	flat:foreign	_	_
+306	anxious	anxious	X	_	Foreign=Yes	296	flat:foreign	_	_
+307	brown	brown	X	_	Foreign=Yes	296	flat:foreign	_	_
+308	eyes	eyes	X	_	Foreign=Yes	296	flat:foreign	_	_
+309	.	.	PUNCT	_	_	296	punct	_	_
+310	
+
+	
+
+	SPACE	_	_	309	dep	_	_
+
+
+311	It	it	X	_	Foreign=Yes	0	ROOT	_	_
+312	was	was	X	_	Foreign=Yes	311	flat:foreign	_	_
+313	just	just	X	_	Foreign=Yes	311	flat:foreign	_	_
+314	a	a	X	_	Foreign=Yes	311	flat:foreign	_	_
+315	dream	dream	X	_	Foreign=Yes	311	flat:foreign	_	_
+316	,	,	PUNCT	_	_	317	punct	_	_
+317	I	i	PROPN	_	Foreign=Yes	311	appos	_	_
+318	reminded	reminded	X	_	Foreign=Yes	317	flat:foreign	_	_
+319	myself	myself	X	_	Foreign=Yes	317	flat:foreign	_	_
+320	again	again	X	_	Foreign=Yes	317	flat:foreign	_	_
+321	.	.	PUNCT	_	_	311	punct	_	_
+
+
+322	Just	just	X	_	Foreign=Yes	0	ROOT	_	_
+323	a	a	X	_	Foreign=Yes	322	flat:foreign	_	_
+324	dream	dream	X	_	Foreign=Yes	322	flat:foreign	_	_
+325	...	...	PUNCT	_	_	322	punct	_	_
+326	but	but	X	_	Foreign=Yes	322	flat:foreign	_	_
+327	also	also	X	_	Foreign=Yes	326	flat:foreign	_	_
+328	my	my	X	_	Foreign=Yes	326	flat:foreign	_	_
+329	worst	worst	X	_	Foreign=Yes	326	flat:foreign	_	_
+330	nightmare	nightmare	X	_	Foreign=Yes	326	flat:foreign	_	_
+331	.	.	PUNCT	_	_	326	punct	_	_
+332	
+
+	
+
+	SPACE	_	_	331	dep	_	_
+333	I	i	PROPN	_	Foreign=Yes	322	appos	_	_
+334	skipped	skipped	X	_	Foreign=Yes	333	flat:foreign	_	_
+335	breakfast	breakfast	X	_	Foreign=Yes	333	flat:foreign	_	_
+336	,	,	PUNCT	_	_	337	punct	_	_
+337	in	in	X	_	Foreign=Yes	333	conj	_	_
+338	a	a	X	_	Foreign=Yes	337	flat:foreign	_	_
+339	hurry	hurry	X	_	Foreign=Yes	337	flat:foreign	_	_
+340	to	to	X	_	Foreign=Yes	337	flat:foreign	_	_
+341	get	get	X	_	Foreign=Yes	337	flat:foreign	_	_
+342	out	out	X	_	Foreign=Yes	337	flat:foreign	_	_
+343	of	of	X	_	Foreign=Yes	337	flat:foreign	_	_
+344	the	the	X	_	Foreign=Yes	337	flat:foreign	_	_
+345	house	house	X	_	Foreign=Yes	337	flat:foreign	_	_
+346	as	as	X	_	Foreign=Yes	337	flat:foreign	_	_
+347	quickly	quickly	X	_	Foreign=Yes	337	flat:foreign	_	_
+348	as	as	X	_	Foreign=Yes	337	flat:foreign	_	_
+349	possible	possible	X	_	Foreign=Yes	337	flat:foreign	_	_
+350	.	.	PUNCT	_	_	322	punct	_	_
+
+
+351	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+352	wasn't	wasn't	X	_	Foreign=Yes	351	flat:foreign	_	_
+353	entirely	entirely	X	_	Foreign=Yes	351	flat:foreign	_	_
+354	able	able	X	_	Foreign=Yes	351	flat:foreign	_	_
+355	to	to	X	_	Foreign=Yes	351	flat:foreign	_	_
+356	avoid	avoid	X	_	Foreign=Yes	351	flat:foreign	_	_
+357	my	my	X	_	Foreign=Yes	351	flat:foreign	_	_
+358	dad	dad	X	_	Foreign=Yes	351	flat:foreign	_	_
+359	,	,	PUNCT	_	_	360	punct	_	_
+360	and	and	X	_	Foreign=Yes	351	appos	_	_
+361	so	so	X	_	Foreign=Yes	360	flat:foreign	_	_
+362	I	i	X	_	Foreign=Yes	360	flat:foreign	_	_
+363	had	had	X	_	Foreign=Yes	360	flat:foreign	_	_
+364	to	to	X	_	Foreign=Yes	360	flat:foreign	_	_
+365	spend	spend	X	_	Foreign=Yes	360	flat:foreign	_	_
+366	a	a	X	_	Foreign=Yes	360	flat:foreign	_	_
+367	few	few	X	_	Foreign=Yes	360	flat:foreign	_	_
+368	minutes	minutes	X	_	Foreign=Yes	360	flat:foreign	_	_
+369	acting	acting	X	_	Foreign=Yes	360	flat:foreign	_	_
+370	cheerful	cheerful	X	_	Foreign=Yes	360	flat:foreign	_	_
+371	.	.	PUNCT	_	_	351	punct	_	_
+
+
+372	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+373	honestly	honestly	X	_	Foreign=Yes	372	flat:foreign	_	_
+374	tried	tried	X	_	Foreign=Yes	372	flat:foreign	_	_
+375	to	to	X	_	Foreign=Yes	372	flat:foreign	_	_
+376	be	be	X	_	Foreign=Yes	372	flat:foreign	_	_
+377	excited	excited	X	_	Foreign=Yes	372	flat:foreign	_	_
+378	about	about	X	_	Foreign=Yes	372	flat:foreign	_	_
+379	the	the	X	_	Foreign=Yes	372	flat:foreign	_	_
+380	gifts	gifts	X	_	Foreign=Yes	372	flat:foreign	_	_
+381	I'd	i'd	X	_	Foreign=Yes	372	flat:foreign	_	_
+382	asked	asked	X	_	Foreign=Yes	372	flat:foreign	_	_
+383	him	him	X	_	Foreign=Yes	372	flat:foreign	_	_
+384	not	not	X	_	Foreign=Yes	372	flat:foreign	_	_
+385	to	to	X	_	Foreign=Yes	372	flat:foreign	_	_
+386	get	get	X	_	Foreign=Yes	372	flat:foreign	_	_
+387	me	me	X	_	Foreign=Yes	372	flat:foreign	_	_
+388	,	,	PUNCT	_	_	389	punct	_	_
+389	but	but	X	_	Foreign=Yes	372	appos	_	_
+390	every	every	X	_	Foreign=Yes	389	flat:foreign	_	_
+391	time	time	X	_	Foreign=Yes	389	flat:foreign	_	_
+392	I	i	X	_	Foreign=Yes	389	flat:foreign	_	_
+393	had	had	X	_	Foreign=Yes	389	flat:foreign	_	_
+394	to	to	X	_	Foreign=Yes	389	flat:foreign	_	_
+395	smile	smile	X	_	Foreign=Yes	389	flat:foreign	_	_
+396	,	,	PUNCT	_	_	397	punct	_	_
+397	it	it	X	_	Foreign=Yes	372	appos	_	_
+398	felt	felt	X	_	Foreign=Yes	397	flat:foreign	_	_
+399	like	like	X	_	Foreign=Yes	397	flat:foreign	_	_
+400	I	i	X	_	Foreign=Yes	397	flat:foreign	_	_
+401	might	might	X	_	Foreign=Yes	397	flat:foreign	_	_
+402	start	start	X	_	Foreign=Yes	397	flat:foreign	_	_
+403	crying	crying	X	_	Foreign=Yes	397	flat:foreign	_	_
+404	.	.	PUNCT	_	_	397	punct	_	_
+405	
+
+	
+
+	SPACE	_	_	404	dep	_	_
+406	I	i	PROPN	_	Foreign=Yes	372	appos	_	_
+407	struggled	struggled	X	_	Foreign=Yes	406	flat:foreign	_	_
+408	to	to	X	_	Foreign=Yes	406	flat:foreign	_	_
+409	get	get	X	_	Foreign=Yes	406	flat:foreign	_	_
+410	a	a	X	_	Foreign=Yes	406	flat:foreign	_	_
+411	grip	grip	X	_	Foreign=Yes	406	flat:foreign	_	_
+412	on	on	X	_	Foreign=Yes	406	flat:foreign	_	_
+413	myself	myself	X	_	Foreign=Yes	406	flat:foreign	_	_
+414	as	as	X	_	Foreign=Yes	406	flat:foreign	_	_
+415	I	i	X	_	Foreign=Yes	406	flat:foreign	_	_
+416	drove	drove	X	_	Foreign=Yes	406	flat:foreign	_	_
+417	to	to	X	_	Foreign=Yes	406	flat:foreign	_	_
+418	school	school	X	_	Foreign=Yes	406	flat:foreign	_	_
+419	.	.	PUNCT	_	_	372	punct	_	_
+
+
+420	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+421	vision	vision	X	_	Foreign=Yes	420	flat:foreign	_	_
+422	of	of	X	_	Foreign=Yes	420	flat:foreign	_	_
+423	Gran	gran	X	_	Foreign=Yes	420	flat:foreign	_	_
+424	-	-	X	_	Foreign=Yes	420	flat:foreign	_	_
+425	I	i	X	_	Foreign=Yes	420	flat:foreign	_	_
+426	would	would	X	_	Foreign=Yes	420	flat:foreign	_	_
+427	not	not	X	_	Foreign=Yes	420	flat:foreign	_	_
+428	think	think	X	_	Foreign=Yes	420	flat:foreign	_	_
+429	of	of	X	_	Foreign=Yes	420	flat:foreign	_	_
+430	it	it	X	_	Foreign=Yes	420	flat:foreign	_	_
+431	as	as	X	_	Foreign=Yes	420	flat:foreign	_	_
+432	me	me	X	_	Foreign=Yes	420	flat:foreign	_	_
+433	-	-	X	_	Foreign=Yes	420	flat:foreign	_	_
+434	was	was	X	_	Foreign=Yes	420	flat:foreign	_	_
+435	hard	hard	X	_	Foreign=Yes	420	flat:foreign	_	_
+436	to	to	X	_	Foreign=Yes	420	flat:foreign	_	_
+437	get	get	X	_	Foreign=Yes	420	flat:foreign	_	_
+438	out	out	X	_	Foreign=Yes	420	flat:foreign	_	_
+439	of	of	X	_	Foreign=Yes	420	flat:foreign	_	_
+440	my	my	X	_	Foreign=Yes	420	flat:foreign	_	_
+441	head	head	X	_	Foreign=Yes	420	flat:foreign	_	_
+442	.	.	PUNCT	_	_	420	punct	_	_
+
+
+443	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+444	couldn't	couldn't	X	_	Foreign=Yes	443	flat:foreign	_	_
+445	feel	feel	X	_	Foreign=Yes	443	flat:foreign	_	_
+446	anything	anything	X	_	Foreign=Yes	443	flat:foreign	_	_
+447	but	but	X	_	Foreign=Yes	443	flat:foreign	_	_
+448	despair	despair	X	_	Foreign=Yes	443	flat:foreign	_	_
+449	until	until	X	_	Foreign=Yes	443	flat:foreign	_	_
+450	I	i	X	_	Foreign=Yes	443	flat:foreign	_	_
+451	pulled	pulled	X	_	Foreign=Yes	443	flat:foreign	_	_
+452	into	into	X	_	Foreign=Yes	443	flat:foreign	_	_
+453	the	the	X	_	Foreign=Yes	443	flat:foreign	_	_
+454	familiar	familiar	X	_	Foreign=Yes	443	flat:foreign	_	_
+455	parking	parking	X	_	Foreign=Yes	443	flat:foreign	_	_
+456	lot	lot	X	_	Foreign=Yes	443	flat:foreign	_	_
+457	behind	behind	X	_	Foreign=Yes	443	flat:foreign	_	_
+458	Forks	forks	X	_	Foreign=Yes	443	flat:foreign	_	_
+459	High	high	X	_	Foreign=Yes	443	flat:foreign	_	_
+460	School	school	X	_	Foreign=Yes	443	flat:foreign	_	_
+461	and	and	X	_	Foreign=Yes	443	flat:foreign	_	_
+462	spotted	spotted	X	_	Foreign=Yes	443	flat:foreign	_	_
+463	Edward	edward	X	_	Foreign=Yes	443	flat:foreign	_	_
+464	leaning	leaning	X	_	Foreign=Yes	443	flat:foreign	_	_
+465	motionlessly	motionlessly	X	_	Foreign=Yes	443	flat:foreign	_	_
+466	against	against	X	_	Foreign=Yes	443	flat:foreign	_	_
+467	his	his	X	_	Foreign=Yes	443	flat:foreign	_	_
+468	polished	polished	X	_	Foreign=Yes	443	flat:foreign	_	_
+469	silver	silver	X	_	Foreign=Yes	443	flat:foreign	_	_
+470	Volvo	volvo	X	_	Foreign=Yes	443	flat:foreign	_	_
+471	,	,	PUNCT	_	_	472	punct	_	_
+472	like	like	X	_	Foreign=Yes	443	appos	_	_
+473	a	a	X	_	Foreign=Yes	472	flat:foreign	_	_
+474	marble	marble	X	_	Foreign=Yes	472	flat:foreign	_	_
+475	tribute	tribute	X	_	Foreign=Yes	472	flat:foreign	_	_
+476	to	to	X	_	Foreign=Yes	472	flat:foreign	_	_
+477	some	some	X	_	Foreign=Yes	472	flat:foreign	_	_
+478	forgotten	forgotten	X	_	Foreign=Yes	472	flat:foreign	_	_
+479	pagan	pagan	X	_	Foreign=Yes	472	flat:foreign	_	_
+480	god	god	X	_	Foreign=Yes	472	flat:foreign	_	_
+481	of	of	X	_	Foreign=Yes	472	flat:foreign	_	_
+482	beauty	beauty	X	_	Foreign=Yes	472	flat:foreign	_	_
+483	.	.	PUNCT	_	_	443	punct	_	_
+
+
+484	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+485	dream	dream	X	_	Foreign=Yes	484	flat:foreign	_	_
+486	had	had	X	_	Foreign=Yes	484	flat:foreign	_	_
+487	not	not	X	_	Foreign=Yes	484	flat:foreign	_	_
+488	done	done	X	_	Foreign=Yes	484	flat:foreign	_	_
+489	him	him	X	_	Foreign=Yes	484	flat:foreign	_	_
+490	justice	justice	X	_	Foreign=Yes	484	flat:foreign	_	_
+491	.	.	PUNCT	_	_	484	punct	_	_
+
+
+492	And	and	X	_	Foreign=Yes	0	ROOT	_	_
+493	he	he	X	_	Foreign=Yes	492	flat:foreign	_	_
+494	was	was	X	_	Foreign=Yes	492	flat:foreign	_	_
+495	waiting	waiting	X	_	Foreign=Yes	492	flat:foreign	_	_
+496	there	there	X	_	Foreign=Yes	492	flat:foreign	_	_
+497	for	for	X	_	Foreign=Yes	492	flat:foreign	_	_
+498	me	me	X	_	Foreign=Yes	492	flat:foreign	_	_
+499	,	,	PUNCT	_	_	500	punct	_	_
+500	just	just	X	_	Foreign=Yes	492	appos	_	_
+501	the	the	X	_	Foreign=Yes	500	flat:foreign	_	_
+502	same	same	X	_	Foreign=Yes	500	flat:foreign	_	_
+503	as	as	X	_	Foreign=Yes	500	flat:foreign	_	_
+504	every	every	X	_	Foreign=Yes	500	flat:foreign	_	_
+505	other	other	X	_	Foreign=Yes	500	flat:foreign	_	_
+506	day	day	X	_	Foreign=Yes	500	flat:foreign	_	_
+507	.	.	PUNCT	_	_	509	punct	_	_
+508	
+
+	
+
+	SPACE	_	_	507	dep	_	_
+509	Despair	despair	X	_	Foreign=Yes	492	appos	_	_
+510	momentarily	momentarily	X	_	Foreign=Yes	509	flat:foreign	_	_
+511	vanished	vanished	X	_	Foreign=Yes	509	flat:foreign	_	_
+512	;	;	PUNCT	_	_	513	punct	_	_
+513	wonder	wonder	X	_	Foreign=Yes	492	appos	_	_
+514	took	took	X	_	Foreign=Yes	513	flat:foreign	_	_
+515	its	its	X	_	Foreign=Yes	513	flat:foreign	_	_
+516	place	place	X	_	Foreign=Yes	513	flat:foreign	_	_
+517	.	.	PUNCT	_	_	492	punct	_	_
+
+
+518	Even	even	X	_	Foreign=Yes	0	ROOT	_	_
+519	after	after	X	_	Foreign=Yes	518	flat:foreign	_	_
+520	half	half	X	_	Foreign=Yes	518	flat:foreign	_	_
+521	a	a	X	_	Foreign=Yes	518	flat:foreign	_	_
+522	year	year	X	_	Foreign=Yes	518	flat:foreign	_	_
+523	with	with	X	_	Foreign=Yes	518	flat:foreign	_	_
+524	him	him	X	_	Foreign=Yes	518	flat:foreign	_	_
+525	,	,	PUNCT	_	_	526	punct	_	_
+526	I	i	PROPN	_	Foreign=Yes	518	appos	_	_
+527	still	still	X	_	Foreign=Yes	526	flat:foreign	_	_
+528	couldn't	couldn't	X	_	Foreign=Yes	526	flat:foreign	_	_
+529	believe	believe	X	_	Foreign=Yes	526	flat:foreign	_	_
+530	that	that	X	_	Foreign=Yes	526	flat:foreign	_	_
+531	I	i	X	_	Foreign=Yes	526	flat:foreign	_	_
+532	deserved	deserved	X	_	Foreign=Yes	526	flat:foreign	_	_
+533	this	this	X	_	Foreign=Yes	526	flat:foreign	_	_
+534	degree	degree	X	_	Foreign=Yes	526	flat:foreign	_	_
+535	of	of	X	_	Foreign=Yes	526	flat:foreign	_	_
+536	good	good	X	_	Foreign=Yes	526	flat:foreign	_	_
+537	fortune	fortune	X	_	Foreign=Yes	526	flat:foreign	_	_
+538	.	.	PUNCT	_	_	526	punct	_	_
+539	
+
+	
+
+	SPACE	_	_	538	dep	_	_
+540	His	his	X	_	Foreign=Yes	518	appos	_	_
+541	sister	sister	X	_	Foreign=Yes	540	flat:foreign	_	_
+542	Alice	alice	X	_	Foreign=Yes	540	flat:foreign	_	_
+543	was	was	X	_	Foreign=Yes	540	flat:foreign	_	_
+544	standing	standing	X	_	Foreign=Yes	540	flat:foreign	_	_
+545	by	by	X	_	Foreign=Yes	540	flat:foreign	_	_
+546	his	his	X	_	Foreign=Yes	540	flat:foreign	_	_
+547	side	side	X	_	Foreign=Yes	540	flat:foreign	_	_
+548	,	,	PUNCT	_	_	549	punct	_	_
+549	waiting	waiting	X	_	Foreign=Yes	540	conj	_	_
+550	for	for	X	_	Foreign=Yes	549	flat:foreign	_	_
+551	me	me	X	_	Foreign=Yes	549	flat:foreign	_	_
+552	,	,	PUNCT	_	_	553	punct	_	_
+553	too	too	X	_	Foreign=Yes	540	conj	_	_
+554	.	.	PUNCT	_	_	556	punct	_	_
+555	
+
+	
+
+	SPACE	_	_	554	dep	_	_
+556	Of	of	X	_	Foreign=Yes	518	appos	_	_
+557	course	course	X	_	Foreign=Yes	556	flat:foreign	_	_
+558	Edward	edward	X	_	Foreign=Yes	556	flat:foreign	_	_
+559	and	and	X	_	Foreign=Yes	556	flat:foreign	_	_
+560	Alice	alice	X	_	Foreign=Yes	556	flat:foreign	_	_
+561	weren't	weren't	X	_	Foreign=Yes	556	flat:foreign	_	_
+562	really	really	X	_	Foreign=Yes	556	flat:foreign	_	_
+563	related	related	X	_	Foreign=Yes	556	flat:foreign	_	_
+564	(	(	PUNCT	_	_	565	punct	_	_
+565	in	in	X	_	Foreign=Yes	556	appos	_	_
+566	Forks	forks	X	_	Foreign=Yes	565	flat:foreign	_	_
+567	the	the	X	_	Foreign=Yes	565	flat:foreign	_	_
+568	story	story	X	_	Foreign=Yes	565	flat:foreign	_	_
+569	was	was	X	_	Foreign=Yes	565	flat:foreign	_	_
+570	that	that	X	_	Foreign=Yes	565	flat:foreign	_	_
+571	all	all	X	_	Foreign=Yes	565	flat:foreign	_	_
+572	the	the	X	_	Foreign=Yes	565	flat:foreign	_	_
+573	Cullen	cullen	X	_	Foreign=Yes	565	flat:foreign	_	_
+574	siblings	siblings	X	_	Foreign=Yes	565	flat:foreign	_	_
+575	were	were	X	_	Foreign=Yes	565	flat:foreign	_	_
+576	adopted	adopted	X	_	Foreign=Yes	565	flat:foreign	_	_
+577	by	by	X	_	Foreign=Yes	565	flat:foreign	_	_
+578	Dr	dr	X	_	Foreign=Yes	565	flat:foreign	_	_
+579	.	.	PUNCT	_	_	565	punct	_	_
+
+
+580	Carlisle	carlisle	X	_	Foreign=Yes	0	ROOT	_	_
+581	Culler	culler	X	_	Foreign=Yes	580	flat:foreign	_	_
+582	and	and	X	_	Foreign=Yes	580	flat:foreign	_	_
+583	his	his	X	_	Foreign=Yes	580	flat:foreign	_	_
+584	wife	wife	X	_	Foreign=Yes	580	flat:foreign	_	_
+585	,	,	PUNCT	_	_	586	punct	_	_
+586	Esme	esme	PROPN	_	Foreign=Yes	580	conj	_	_
+587	,	,	PUNCT	_	_	588	punct	_	_
+588	both	both	X	_	Foreign=Yes	580	conj	_	_
+589	plainly	plainly	X	_	Foreign=Yes	588	flat:foreign	_	_
+590	too	too	X	_	Foreign=Yes	588	flat:foreign	_	_
+591	young	young	X	_	Foreign=Yes	588	flat:foreign	_	_
+592	to	to	X	_	Foreign=Yes	588	flat:foreign	_	_
+593	have	have	X	_	Foreign=Yes	588	flat:foreign	_	_
+594	teenage	teenage	X	_	Foreign=Yes	588	flat:foreign	_	_
+595	children	children	X	_	Foreign=Yes	588	flat:foreign	_	_
+596	)	)	PUNCT	_	_	580	punct	_	_
+
+
+597	,	,	PUNCT	_	_	598	punct	_	_
+598	but	but	X	_	Foreign=Yes	0	ROOT	_	_
+599	their	their	X	_	Foreign=Yes	598	flat:foreign	_	_
+600	skin	skin	X	_	Foreign=Yes	598	flat:foreign	_	_
+601	was	was	X	_	Foreign=Yes	598	flat:foreign	_	_
+602	precisely	precisely	X	_	Foreign=Yes	598	flat:foreign	_	_
+603	the	the	X	_	Foreign=Yes	598	flat:foreign	_	_
+604	same	same	X	_	Foreign=Yes	598	flat:foreign	_	_
+605	pale	pale	X	_	Foreign=Yes	598	flat:foreign	_	_
+606	shade	shade	X	_	Foreign=Yes	598	flat:foreign	_	_
+607	,	,	PUNCT	_	_	608	punct	_	_
+608	their	their	X	_	Foreign=Yes	598	flat:foreign	_	_
+609	eyes	eyes	X	_	Foreign=Yes	608	flat:foreign	_	_
+610	had	had	X	_	Foreign=Yes	608	flat:foreign	_	_
+611	the	the	X	_	Foreign=Yes	608	flat:foreign	_	_
+612	same	same	X	_	Foreign=Yes	608	flat:foreign	_	_
+613	strange	strange	X	_	Foreign=Yes	608	flat:foreign	_	_
+614	golden	golden	X	_	Foreign=Yes	608	flat:foreign	_	_
+615	tint	tint	X	_	Foreign=Yes	608	flat:foreign	_	_
+616	,	,	PUNCT	_	_	617	punct	_	_
+617	with	with	X	_	Foreign=Yes	598	flat:foreign	_	_
+618	the	the	X	_	Foreign=Yes	617	flat:foreign	_	_
+619	same	same	X	_	Foreign=Yes	617	flat:foreign	_	_
+620	deep	deep	X	_	Foreign=Yes	617	flat:foreign	_	_
+621	,	,	PUNCT	_	_	622	punct	_	_
+622	bruise	bruise	X	_	Foreign=Yes	598	punct	_	_
+623	-	-	X	_	Foreign=Yes	598	flat:foreign	_	_
+624	like	like	X	_	Foreign=Yes	598	flat:foreign	_	_
+625	shadows	shadows	X	_	Foreign=Yes	598	flat:foreign	_	_
+626	beneath	beneath	X	_	Foreign=Yes	598	flat:foreign	_	_
+627	them	them	X	_	Foreign=Yes	598	flat:foreign	_	_
+628	.	.	PUNCT	_	_	598	punct	_	_
+
+
+629	Her	her	X	_	Foreign=Yes	0	ROOT	_	_
+630	face	face	X	_	Foreign=Yes	629	flat:foreign	_	_
+631	,	,	PUNCT	_	_	632	punct	_	_
+632	like	like	X	_	Foreign=Yes	629	appos	_	_
+633	his	his	X	_	Foreign=Yes	632	flat:foreign	_	_
+634	,	,	PUNCT	_	_	635	punct	_	_
+635	was	was	X	_	Foreign=Yes	629	conj	_	_
+636	also	also	X	_	Foreign=Yes	635	flat:foreign	_	_
+637	startlingly	startlingly	X	_	Foreign=Yes	635	flat:foreign	_	_
+638	beautiful	beautiful	X	_	Foreign=Yes	635	flat:foreign	_	_
+639	.	.	PUNCT	_	_	629	punct	_	_
+
+
+640	To	to	X	_	Foreign=Yes	0	ROOT	_	_
+641	someone	someone	X	_	Foreign=Yes	640	flat:foreign	_	_
+642	in	in	X	_	Foreign=Yes	640	flat:foreign	_	_
+643	the	the	X	_	Foreign=Yes	640	flat:foreign	_	_
+644	know-	know-	X	_	Foreign=Yes	640	flat:foreign	_	_
+645	
+
+	
+
+	SPACE	_	_	644	dep	_	_
+646	someone	someone	X	_	Foreign=Yes	640	flat:foreign	_	_
+647	like	like	X	_	Foreign=Yes	640	flat:foreign	_	_
+648	me	me	X	_	Foreign=Yes	640	flat:foreign	_	_
+649	-	-	X	_	Foreign=Yes	640	flat:foreign	_	_
+650	these	these	X	_	Foreign=Yes	640	flat:foreign	_	_
+651	similarities	similarities	X	_	Foreign=Yes	640	flat:foreign	_	_
+652	marked	marked	X	_	Foreign=Yes	640	flat:foreign	_	_
+653	them	them	X	_	Foreign=Yes	640	flat:foreign	_	_
+654	for	for	X	_	Foreign=Yes	640	flat:foreign	_	_
+655	what	what	X	_	Foreign=Yes	640	flat:foreign	_	_
+656	they	they	X	_	Foreign=Yes	640	flat:foreign	_	_
+657	were	were	X	_	Foreign=Yes	640	flat:foreign	_	_
+658	.	.	PUNCT	_	_	640	punct	_	_
+659	
+
+
+
+	
+
+
+
+	SPACE	_	_	658	dep	_	_
+
+
+660	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+661	sight	sight	X	_	Foreign=Yes	660	flat:foreign	_	_
+662	of	of	X	_	Foreign=Yes	660	flat:foreign	_	_
+663	Alice	alice	X	_	Foreign=Yes	660	flat:foreign	_	_
+664	waiting	waiting	X	_	Foreign=Yes	660	flat:foreign	_	_
+665	there	there	X	_	Foreign=Yes	660	flat:foreign	_	_
+666	-	-	X	_	Foreign=Yes	660	flat:foreign	_	_
+667	her	her	X	_	Foreign=Yes	660	flat:foreign	_	_
+668	tawny	tawny	X	_	Foreign=Yes	660	flat:foreign	_	_
+669	eyes	eyes	X	_	Foreign=Yes	660	flat:foreign	_	_
+670	brilliant	brilliant	X	_	Foreign=Yes	660	flat:foreign	_	_
+671	with	with	X	_	Foreign=Yes	660	flat:foreign	_	_
+672	excitement	excitement	X	_	Foreign=Yes	660	flat:foreign	_	_
+673	,	,	PUNCT	_	_	674	punct	_	_
+674	and	and	X	_	Foreign=Yes	679	cc	_	_
+675	a	a	X	_	Foreign=Yes	674	flat:foreign	_	_
+676	small	small	X	_	Foreign=Yes	674	flat:foreign	_	_
+677	silver	silver	X	_	Foreign=Yes	674	flat:foreign	_	_
+678	-	-	X	_	Foreign=Yes	674	flat:foreign	_	_
+679	wrapped	wrapped	X	_	Foreign=Yes	660	flat:foreign	_	_
+680	square	square	X	_	Foreign=Yes	679	flat:foreign	_	_
+681	in	in	X	_	Foreign=Yes	679	flat:foreign	_	_
+682	her	her	X	_	Foreign=Yes	679	flat:foreign	_	_
+683	hands	hands	X	_	Foreign=Yes	679	flat:foreign	_	_
+684	-	-	X	_	Foreign=Yes	660	flat:foreign	_	_
+685	made	made	X	_	Foreign=Yes	660	flat:foreign	_	_
+686	me	me	X	_	Foreign=Yes	660	flat:foreign	_	_
+687	frown	frown	X	_	Foreign=Yes	660	flat:foreign	_	_
+688	.	.	PUNCT	_	_	660	punct	_	_
+
+
+689	I'd	i'd	X	_	Foreign=Yes	0	ROOT	_	_
+690	told	told	X	_	Foreign=Yes	689	flat:foreign	_	_
+691	Alice	alice	X	_	Foreign=Yes	689	flat:foreign	_	_
+692	I	i	X	_	Foreign=Yes	689	flat:foreign	_	_
+693	didn't	didn't	X	_	Foreign=Yes	689	flat:foreign	_	_
+694	want	want	X	_	Foreign=Yes	689	flat:foreign	_	_
+695	anything	anything	X	_	Foreign=Yes	689	flat:foreign	_	_
+696	,	,	PUNCT	_	_	697	punct	_	_
+697	anything	anything	X	_	Foreign=Yes	689	conj	_	_
+698	,	,	PUNCT	_	_	699	punct	_	_
+699	not	not	X	_	Foreign=Yes	689	conj	_	_
+700	gifts	gifts	X	_	Foreign=Yes	699	flat:foreign	_	_
+701	or	or	X	_	Foreign=Yes	699	flat:foreign	_	_
+702	even	even	X	_	Foreign=Yes	699	flat:foreign	_	_
+703	attention	attention	X	_	Foreign=Yes	699	flat:foreign	_	_
+704	,	,	PUNCT	_	_	705	punct	_	_
+705	for	for	X	_	Foreign=Yes	689	conj	_	_
+706	my	my	X	_	Foreign=Yes	705	flat:foreign	_	_
+707	birthday	birthday	X	_	Foreign=Yes	705	flat:foreign	_	_
+708	.	.	PUNCT	_	_	689	punct	_	_
+
+
+709	Obviously	obviously	PROPN	_	Foreign=Yes	0	ROOT	_	_
+710	,	,	PUNCT	_	_	711	punct	_	_
+711	my	my	X	_	Foreign=Yes	709	conj	_	_
+712	wishes	wishes	X	_	Foreign=Yes	711	flat:foreign	_	_
+713	were	were	X	_	Foreign=Yes	711	flat:foreign	_	_
+714	being	being	X	_	Foreign=Yes	711	flat:foreign	_	_
+715	ignored	ignored	X	_	Foreign=Yes	711	flat:foreign	_	_
+716	.	.	PUNCT	_	_	709	punct	_	_
+717	
+
+	
+
+	SPACE	_	_	716	dep	_	_
+
+
+718	I	i	PROPN	_	Foreign=Yes	0	ROOT	_	_
+719	slammed	slammed	X	_	Foreign=Yes	718	flat:foreign	_	_
+720	the	the	X	_	Foreign=Yes	718	flat:foreign	_	_
+721	door	door	X	_	Foreign=Yes	718	flat:foreign	_	_
+722	of	of	X	_	Foreign=Yes	718	flat:foreign	_	_
+723	my	my	X	_	Foreign=Yes	718	flat:foreign	_	_
+724	'	'	PUNCT	_	_	718	punct	_	_
+725	53	53	X	_	Foreign=Yes	718	flat:foreign	_	_
+726	Chevy	chevy	X	_	Foreign=Yes	718	flat:foreign	_	_
+727	truck	truck	X	_	Foreign=Yes	718	flat:foreign	_	_
+728	-	-	X	_	Foreign=Yes	718	flat:foreign	_	_
+729	a	a	X	_	Foreign=Yes	718	flat:foreign	_	_
+730	shower	shower	X	_	Foreign=Yes	718	flat:foreign	_	_
+731	of	of	X	_	Foreign=Yes	718	flat:foreign	_	_
+732	rust	rust	X	_	Foreign=Yes	718	flat:foreign	_	_
+733	specks	specks	X	_	Foreign=Yes	718	flat:foreign	_	_
+734	fluttered	fluttered	X	_	Foreign=Yes	718	flat:foreign	_	_
+735	down	down	X	_	Foreign=Yes	718	flat:foreign	_	_
+736	to	to	X	_	Foreign=Yes	718	flat:foreign	_	_
+737	the	the	X	_	Foreign=Yes	718	flat:foreign	_	_
+738	wet	wet	X	_	Foreign=Yes	718	flat:foreign	_	_
+739	blacktop	blacktop	X	_	Foreign=Yes	718	flat:foreign	_	_
+740	-	-	X	_	Foreign=Yes	718	flat:foreign	_	_
+741	and	and	X	_	Foreign=Yes	718	flat:foreign	_	_
+742	walked	walked	X	_	Foreign=Yes	718	flat:foreign	_	_
+743	slowly	slowly	X	_	Foreign=Yes	718	flat:foreign	_	_
+744	toward	toward	X	_	Foreign=Yes	718	flat:foreign	_	_
+745	where	where	X	_	Foreign=Yes	718	flat:foreign	_	_
+746	they	they	X	_	Foreign=Yes	718	flat:foreign	_	_
+747	waited	waited	X	_	Foreign=Yes	718	flat:foreign	_	_
+748	.	.	PUNCT	_	_	718	punct	_	_
+
+
+749	Alice	alice	X	_	Foreign=Yes	0	ROOT	_	_
+750	skipped	skipped	X	_	Foreign=Yes	749	flat:foreign	_	_
+751	forward	forward	X	_	Foreign=Yes	749	flat:foreign	_	_
+752	to	to	X	_	Foreign=Yes	749	flat:foreign	_	_
+753	meet	meet	X	_	Foreign=Yes	749	flat:foreign	_	_
+754	me	me	X	_	Foreign=Yes	749	flat:foreign	_	_
+755	,	,	PUNCT	_	_	756	punct	_	_
+756	her	her	X	_	Foreign=Yes	749	appos	_	_
+757	pixie	pixie	X	_	Foreign=Yes	756	flat:foreign	_	_
+758	face	face	X	_	Foreign=Yes	756	flat:foreign	_	_
+759	glowing	glowing	X	_	Foreign=Yes	756	flat:foreign	_	_
+760	under	under	X	_	Foreign=Yes	756	flat:foreign	_	_
+761	her	her	X	_	Foreign=Yes	756	flat:foreign	_	_
+762	spiky	spiky	X	_	Foreign=Yes	756	flat:foreign	_	_
+763	black	black	X	_	Foreign=Yes	756	flat:foreign	_	_
+764	hair	hair	X	_	Foreign=Yes	756	flat:foreign	_	_
+765	.	.	PUNCT	_	_	749	punct	_	_
+766	
+
+	
+
+	SPACE	_	_	765	dep	_	_
+767	"	"	PUNCT	_	_	768	punct	_	_
+768	Happy	happy	X	_	Foreign=Yes	749	appos	_	_
+769	birthday	birthday	X	_	Foreign=Yes	768	flat:foreign	_	_
+770	,	,	PUNCT	_	_	771	punct	_	_
+771	Bella	bella	PROPN	_	Foreign=Yes	768	conj	_	_
+772	!	!	PUNCT	_	_	771	punct	_	_
+773	"	"	PUNCT	_	_	776	punct	_	_
+774	
+
+	
+
+	SPACE	_	_	773	dep	_	_
+775	"	"	PUNCT	_	_	776	punct	_	_
+776	Shh	shh	X	_	Foreign=Yes	768	appos	_	_
+777	!	!	PUNCT	_	_	776	punct	_	_
+778	"	"	PUNCT	_	_	776	punct	_	_
+779	I	i	PROPN	_	Foreign=Yes	749	appos	_	_
+780	hissed	hissed	X	_	Foreign=Yes	779	flat:foreign	_	_
+781	,	,	PUNCT	_	_	782	punct	_	_
+782	glancing	glancing	X	_	Foreign=Yes	779	conj	_	_
+783	around	around	X	_	Foreign=Yes	782	flat:foreign	_	_
+784	the	the	X	_	Foreign=Yes	782	flat:foreign	_	_
+785	lot	lot	X	_	Foreign=Yes	782	flat:foreign	_	_
+786	to	to	X	_	Foreign=Yes	782	flat:foreign	_	_
+787	make	make	X	_	Foreign=Yes	782	flat:foreign	_	_
+788	sure	sure	X	_	Foreign=Yes	782	flat:foreign	_	_
+789	no	no	X	_	Foreign=Yes	782	flat:foreign	_	_
+790	one	one	X	_	Foreign=Yes	782	flat:foreign	_	_
+791	had	had	X	_	Foreign=Yes	782	flat:foreign	_	_
+792	heard	heard	X	_	Foreign=Yes	782	flat:foreign	_	_
+793	her	her	X	_	Foreign=Yes	782	flat:foreign	_	_
+794	.	.	PUNCT	_	_	749	punct	_	_
+
+
+795	The	the	X	_	Foreign=Yes	0	ROOT	_	_
+796	last	last	X	_	Foreign=Yes	795	flat:foreign	_	_
+797	thing	thing	X	_	Foreign=Yes	795	flat:foreign	_	_
+798	I	i	X	_	Foreign=Yes	795	flat:foreign	_	_
+799	wanted	wanted	X	_	Foreign=Yes	795	flat:foreign	_	_
+800	was	was	X	_	Foreign=Yes	795	flat:foreign	_	_
+801	some	some	X	_	Foreign=Yes	795	flat:foreign	_	_
+802	kind	kind	X	_	Foreign=Yes	795	flat:foreign	_	_
+803	of	of	X	_	Foreign=Yes	795	flat:foreign	_	_
+804	celebration	celebration	X	_	Foreign=Yes	795	flat:foreign	_	_
+805	of	of	X	_	Foreign=Yes	795	flat:foreign	_	_
+806	the	the	X	_	Foreign=Yes	795	flat:foreign	_	_
+807	black	black	X	_	Foreign=Yes	795	flat:foreign	_	_
+808	event	event	X	_	Foreign=Yes	795	flat:foreign	_	_
+809	.	.	PUNCT	_	_	795	punct	_	_
+810	
+
+	
+
+	SPACE	_	_	809	dep	_	_
+
+
+811	She	she	X	_	Foreign=Yes	0	ROOT	_	_
+812	ignored	ignored	X	_	Foreign=Yes	811	flat:foreign	_	_
+813	me	me	X	_	Foreign=Yes	811	flat:foreign	_	_
+814	.	.	PUNCT	_	_	811	punct	_	_
+
+
+815	"	"	PUNCT	_	_	816	punct	_	_
+816	Do	do	X	_	Foreign=Yes	0	ROOT	_	_
+817	you	you	X	_	Foreign=Yes	816	flat:foreign	_	_
+818	want	want	X	_	Foreign=Yes	816	flat:foreign	_	_
+819	to	to	X	_	Foreign=Yes	816	flat:foreign	_	_
+820	open	open	X	_	Foreign=Yes	816	flat:foreign	_	_
+821	your	your	X	_	Foreign=Yes	816	flat:foreign	_	_
+822	present	present	X	_	Foreign=Yes	816	flat:foreign	_	_
+823	now	now	X	_	Foreign=Yes	816	flat:foreign	_	_
+824	or	or	X	_	Foreign=Yes	816	flat:foreign	_	_
+825	later	later	X	_	Foreign=Yes	816	flat:foreign	_	_
+826	?	?	PUNCT	_	_	816	punct	_	_
+827	"	"	PUNCT	_	_	816	punct	_	_
+828	she	she	X	_	Foreign=Yes	816	flat:foreign	_	_
+829	asked	asked	X	_	Foreign=Yes	828	flat:foreign	_	_
+830	eagerly	eagerly	X	_	Foreign=Yes	828	flat:foreign	_	_
+831	as	as	X	_	Foreign=Yes	828	flat:foreign	_	_
+832	we	we	X	_	Foreign=Yes	828	flat:foreign	_	_
+833	made	made	X	_	Foreign=Yes	828	flat:foreign	_	_
+834	our	our	X	_	Foreign=Yes	828	flat:foreign	_	_
+835	way	way	X	_	Foreign=Yes	828	flat:foreign	_	_
+836	to	to	X	_	Foreign=Yes	828	flat:foreign	_	_
+837	where	where	X	_	Foreign=Yes	828	flat:foreign	_	_
+838	Edward	edward	X	_	Foreign=Yes	828	flat:foreign	_	_
+839	still	still	X	_	Foreign=Yes	828	flat:foreign	_	_
+840	waited	waited	X	_	Foreign=Yes	828	flat:foreign	_	_
+841	.	.	PUNCT	_	_	828	punct	_	_
+842	
+
+	
+
+	SPACE	_	_	841	dep	_	_
+843	"	"	PUNCT	_	_	844	punct	_	_
+844	No	no	X	_	Foreign=Yes	816	appos	_	_
+845	presents	presents	X	_	Foreign=Yes	844	flat:foreign	_	_
+846	,	,	PUNCT	_	_	844	punct	_	_
+847	"	"	PUNCT	_	_	848	punct	_	_
+848	I	i	PROPN	_	Foreign=Yes	844	appos	_	_
+849	protested	protested	X	_	Foreign=Yes	848	flat:foreign	_	_
+850	in	in	X	_	Foreign=Yes	848	flat:foreign	_	_
+851	a	a	X	_	Foreign=Yes	848	flat:foreign	_	_
+852	mumble	mumble	X	_	Foreign=Yes	848	flat:foreign	_	_
+853	.	.	PUNCT	_	_	816	punct	_	_
+
+

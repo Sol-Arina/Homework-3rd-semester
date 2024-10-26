@@ -1,0 +1,2590 @@
+1	В	в	ADP	_	_	2	case	_	_
+2	речи	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+3	билингва	билингва	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+4	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+5	взаимовлияние	взаимовлияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	которыми	которыми	PRON	_	Case=Ins|Number=Plur	10	obj	_	_
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	10	nsubj	_	_
+10	пользуется	пользоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+
+12	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	13	det	_	_
+13	взаимовлияние	взаимовлияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+15	как	как	SCONJ	_	_	16	case	_	_
+16	речи	речь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obj	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	так	так	ADV	_	Degree=Pos	20	cc	_	_
+19	и	и	PART	_	_	18	fixed	_	_
+20	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+23	проявляться	проявляться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	22	xcomp	_	_
+24	в	в	ADP	_	_	27	case	_	_
+25	любых	любой	DET	_	Case=Loc|Number=Plur	27	det	_	_
+26	языковых	языковой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	27	amod	_	_
+27	подсистемах	подсистемах	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	obl	_	_
+28	:	:	PUNCT	_	_	30	punct	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	фонетике	фонетика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	parataxis	_	_
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	грамматике	грамматика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	conj	_	_
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	лексике	лексика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	conj	_	_
+37	.	.	PUNCT	_	_	14	punct	_	_
+
+
+38	Всякое	всякий	DET	_	Case=Nom|Gender=Neut|Number=Sing	39	det	_	_
+39	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	51	nsubj	_	_
+40	одного	одного	NUM	_	Case=Gen|Gender=Masc|Number=Sing	41	nummod	_	_
+41	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+42	билингва	билингва	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	nmod	_	_
+43	на	на	ADP	_	_	44	case	_	_
+44	другой	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	39	nmod	_	_
+45	,	,	PUNCT	_	_	48	punct	_	_
+46	а	а	CCONJ	_	_	48	cc	_	_
+47	также	также	ADV	_	Degree=Pos	46	fixed	_	_
+48	результат	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
+49	этого	это	DET	_	Case=Gen|Gender=Neut|Number=Sing	50	det	_	_
+50	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	nmod	_	_
+51	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+52	интерференцией	интерференция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	51	xcomp	_	_
+53	.	.	PUNCT	_	_	51	punct	_	_
+
+
+54	Обычно	Обычно	ADV	_	Degree=Pos	57	advmod	_	_
+55	под	под	ADP	_	_	56	case	_	_
+56	интерференцией	интерференция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	57	obl	_	_
+57	понимают	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+58	только	только	PART	_	_	59	advmod	_	_
+59	неконтролируемые	неконтролируемый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	60	amod	_	_
+60	процессы	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	57	obj	_	_
+61	,	,	PUNCT	_	_	68	punct	_	_
+62	а	а	CCONJ	_	_	68	cc	_	_
+63	сознательные	сознательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	64	amod	_	_
+64	заимствования	заимствование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	68	obj	_	_
+65	к	к	ADP	_	_	66	case	_	_
+66	ней	ней	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=Third	68	obl	_	_
+67	не	не	PART	_	Polarity=Neg	68	advmod	_	_
+68	относят	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	57	conj	_	_
+69	.	.	PUNCT	_	_	57	punct	_	_
+70	
+
+	
+
+	SPACE	_	_	69	dep	_	_
+
+
+71	Направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	73	nsubj	_	_
+72	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	71	nmod	_	_
+73	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+74	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	75	cop	_	_
+75	различным	различный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	73	xcomp	_	_
+76	.	.	PUNCT	_	_	73	punct	_	_
+
+
+77	Наиболее	наиболее	ADV	_	Degree=Pos	78	advmod	_	_
+78	частой	частый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	79	xcomp	_	_
+79	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+80	интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	79	nsubj	_	_
+81	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	82	amod	_	_
+82	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	80	nmod	_	_
+83	во	в	ADP	_	_	84	case	_	_
+84	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	80	nmod	_	_
+85	,	,	PUNCT	_	_	96	punct	_	_
+86	однако	однако	ADV	_	Degree=Pos	96	advmod	_	_
+87	если	если	SCONJ	_	_	90	mark	_	_
+88	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	89	amod	_	_
+89	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	90	nsubj	_	_
+90	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	96	advcl	_	_
+91	основным	основный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	90	xcomp	_	_
+92	,	,	PUNCT	_	_	90	punct	_	_
+93	то	то	SCONJ	_	_	96	mark	_	_
+94	и	и	PART	_	_	95	advmod	_	_
+95	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	96	nsubj	_	_
+96	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	79	conj	_	_
+97	воздействовать	воздействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	96	xcomp	_	_
+98	на	на	ADP	_	_	99	case	_	_
+99	родной	родной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	97	obl	_	_
+100	.	.	PUNCT	_	_	79	punct	_	_
+
+
+101	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	103	nsubj	_	_
+102	легко	лёгкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	103	advmod	_	_
+103	заметить	заметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	ROOT	_	_
+104	по	по	ADP	_	_	106	case	_	_
+105	русской	русский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	106	amod	_	_
+106	речи	речь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	103	obl	_	_
+107	эмигрантов	эмигрант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	106	nmod	_	_
+108	из	из	ADP	_	_	109	case	_	_
+109	России	россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	107	nmod	_	_
+110	,	,	PUNCT	_	_	111	punct	_	_
+111	проживших	проживших	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	107	acl	_	_
+112	в	в	ADP	_	_	114	case	_	_
+113	иноязычной	иноязычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	114	amod	_	_
+114	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	111	obl	_	_
+115	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	116	nummod:gov	_	_
+116	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	111	obl	_	_
+117	.	.	PUNCT	_	_	103	punct	_	_
+118	
+
+	
+
+	SPACE	_	_	117	dep	_	_
+
+
+119	Проницаемость	проницаемость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	123	nsubj	_	_
+120	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	121	amod	_	_
+121	подсистем	подсистема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	119	nmod	_	_
+122	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	121	nmod	_	_
+123	различна	различный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+124	и	и	CCONJ	_	_	125	cc	_	_
+125	связана	связать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	123	conj	_	_
+126	с	с	ADP	_	_	127	case	_	_
+127	направлением	направление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	125	obl	_	_
+128	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	127	nmod	_	_
+129	.	.	PUNCT	_	_	123	punct	_	_
+
+
+130	В	в	ADP	_	_	132	case	_	_
+131	фонетической	фонетический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	132	amod	_	_
+132	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	137	obl	_	_
+133	интонация	интонация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	137	nsubj	_	_
+134	основного	основный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	135	amod	_	_
+135	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	133	nmod	_	_
+136	легко	легко	ADV	_	Degree=Pos	137	advmod	_	_
+137	воздействует	воздействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+138	на	на	ADP	_	_	139	case	_	_
+139	интонацию	интонация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	137	obl	_	_
+140	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	141	amod	_	_
+141	дополнительного	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	139	nmod	_	_
+142	,	,	PUNCT	_	_	145	punct	_	_
+143	а	а	CCONJ	_	_	145	cc	_	_
+144	в	в	ADP	_	_	145	case	_	_
+145	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	154	obl	_	_
+146	фонем	фонем	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	145	nmod	_	_
+147	и	и	CCONJ	_	_	148	cc	_	_
+148	фонотактике	фонотактике	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	146	conj	_	_
+149	,	,	PUNCT	_	_	151	punct	_	_
+150	как	как	SCONJ	_	_	151	case	_	_
+151	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	154	parataxis	_	_
+152	,	,	PUNCT	_	_	151	punct	_	_
+153	ведущим	ведущим	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	154	xcomp	_	_
+154	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	137	conj	_	_
+155	влияние	влияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	154	nsubj	_	_
+156	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	155	nmod	_	_
+157	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	158	amod	_	_
+158	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	156	nmod	_	_
+159	на	на	ADP	_	_	161	case	_	_
+160	вторые	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	161	amod	_	_
+161	языки	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	155	nmod	_	_
+162	.	.	PUNCT	_	_	137	punct	_	_
+163	
+
+	
+
+	SPACE	_	_	162	dep	_	_
+
+
+164	Фонологическая	фонологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	165	amod	_	_
+165	интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	166	nsubj	_	_
+166	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+167	в	в	ADP	_	_	169	case	_	_
+168	трех	три	NUM	_	Case=Loc	169	nummod	_	_
+169	аспектах	аспект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	166	obl	_	_
+170	.	.	PUNCT	_	_	166	punct	_	_
+
+
+171	1	1	NUM	_	_	0	ROOT	_	_
+172	.	.	PUNCT	_	_	171	punct	_	_
+
+
+173	Недоразличение	недоразличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+174	фонем	фонем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	173	nmod	_	_
+175	(	(	PUNCT	_	_	178	punct	_	_
+176	например	например	ADV	_	Degree=Pos	178	advmod	_	_
+177	,	,	PUNCT	_	_	176	punct	_	_
+178	снятие	снятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	174	parataxis	_	_
+179	противопоставления	противопоставление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	178	nmod	_	_
+180	по	по	ADP	_	_	181	case	_	_
+181	мягкости	мягкость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	179	nmod	_	_
+182	в	в	ADP	_	_	183	case	_	_
+183	парах	пара	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	179	nmod	_	_
+184	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	183	nmod	_	_
+185	pad	pad	PROPN	_	Foreign=Yes	184	appos	_	_
+186	/	/	PUNCT	_	_	187	punct	_	_
+187	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	185	flat:foreign	_	_
+188	в	в	ADP	_	_	190	case	_	_
+189	белорусском	белорусский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	190	amod	_	_
+190	этнолекте	этнолекте	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	183	nmod	_	_
+191	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	192	amod	_	_
+192	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	190	nmod	_	_
+193	)	)	PUNCT	_	_	178	punct	_	_
+194	.	.	PUNCT	_	_	173	punct	_	_
+
+
+195	2	2	NUM	_	_	0	ROOT	_	_
+196	.	.	PUNCT	_	_	195	punct	_	_
+
+
+197	Сверхразличение	сверхразличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+198	фонем	фонем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	197	nmod	_	_
+199	(	(	PUNCT	_	_	200	punct	_	_
+200	француз	француз	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	198	parataxis	_	_
+201	,	,	PUNCT	_	_	202	punct	_	_
+202	например	например	ADV	_	Degree=Pos	204	parataxis	_	_
+203	,	,	PUNCT	_	_	202	punct	_	_
+204	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	200	parataxis	_	_
+205	различать	различать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	204	xcomp	_	_
+206	открытое	открытый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	205	obj	_	_
+207	и	и	CCONJ	_	_	208	cc	_	_
+208	закрытое	закрытый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	206	conj	_	_
+209	[	[	PUNCT	_	_	210	punct	_	_
+210	е	е	NOUN	_	_	206	parataxis	_	_
+211	/	/	PUNCT	_	_	212	punct	_	_
+212	е	е	NOUN	_	_	210	appos	_	_
+213	]	]	PUNCT	_	_	210	punct	_	_
+214	в	в	ADP	_	_	215	case	_	_
+215	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	205	obl	_	_
+216	)	)	PUNCT	_	_	204	punct	_	_
+217	.	.	PUNCT	_	_	197	punct	_	_
+
+
+218	3	3	NUM	_	_	0	ROOT	_	_
+219	.	.	PUNCT	_	_	218	punct	_	_
+
+
+220	Реинтерпретация	реинтерпретация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	ROOT	_	_
+221	фонологических	фонологический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	222	amod	_	_
+222	различий	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	220	nmod	_	_
+223	(	(	PUNCT	_	_	227	punct	_	_
+224	например	например	ADV	_	Degree=Pos	227	parataxis	_	_
+225	,	,	PUNCT	_	_	224	punct	_	_
+226	немцы	немец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	227	nsubj	_	_
+227	склонны	склонный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	222	parataxis	_	_
+228	интерпретировать	интерпретировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	227	xcomp	_	_
+229	русское	русский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	230	amod	_	_
+230	противопоставление	противопоставление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	228	obj	_	_
+231	глухих	глухой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	234	amod	_	_
+232	и	и	CCONJ	_	_	233	cc	_	_
+233	звонких	звонкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	231	conj	_	_
+234	согласных	согласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	230	nmod	_	_
+235	как	как	SCONJ	_	_	236	case	_	_
+236	противопоставление	противопоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	228	obl	_	_
+237	сильных	сильный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	236	nmod	_	_
+238	/	/	PUNCT	_	_	239	punct	_	_
+239	слабых	слабый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	237	conj	_	_
+240	)	)	PUNCT	_	_	227	punct	_	_
+241	.	.	PUNCT	_	_	220	punct	_	_
+242	
+
+	
+
+	SPACE	_	_	241	dep	_	_
+
+
+243	В	в	ADP	_	_	245	case	_	_
+244	последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	245	amod	_	_
+245	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	249	obl	_	_
+246	у	у	ADP	_	_	248	case	_	_
+247	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	248	amod	_	_
+248	монолингва	монолингва	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	249	obl	_	_
+249	создается	создаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+250	впечатление	впечатление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	249	nsubj	_	_
+251	,	,	PUNCT	_	_	254	punct	_	_
+252	что	что	SCONJ	_	_	254	mark	_	_
+253	немец	немец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	254	nsubj	_	_
+254	путает	путать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	250	acl	_	_
+255	глухие	глухой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	254	obj	_	_
+256	и	и	CCONJ	_	_	257	cc	_	_
+257	звонкие	звонкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	255	conj	_	_
+258	.	.	PUNCT	_	_	249	punct	_	_
+
+
+259	Вот	вот	PART	_	_	260	advmod	_	_
+260	как	как	SCONJ	_	_	271	mark	_	_
+261	,	,	PUNCT	_	_	262	punct	_	_
+262	например	например	ADV	_	Degree=Pos	264	parataxis	_	_
+263	,	,	PUNCT	_	_	262	punct	_	_
+264	Д.	д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	271	nsubj	_	_
+265	И.	и.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	264	flat:name	_	_
+266	Фонвизин	фонвизин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	264	flat:name	_	_
+267	в	в	ADP	_	_	269	case	_	_
+268	"	"	PUNCT	_	_	269	punct	_	_
+269	Недоросле	недоросле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	271	obl	_	_
+270	"	"	PUNCT	_	_	269	punct	_	_
+271	изображает	изображать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+272	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	271	obj	_	_
+273	немца	немец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	272	nmod	_	_
+274	Адама	адам	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	273	appos	_	_
+275	Адамовича	адамович	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	274	flat:name	_	_
+276	Вральмана	вральман	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	274	flat:name	_	_
+277	:	:	PUNCT	_	_	278	punct	_	_
+278	Расумнай	расумнай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	288	nsubj	_	_
+279	шеловек	шеловек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	278	flat:name	_	_
+280	ни	ни	PART	_	Polarity=Neg	278	case	_	_
+281	-	-	ADV	_	Degree=Pos	278	case	_	_
+282	кахта	кахта	PROPN	_	Foreign=Yes	278	conj	_	_
+283	ефо	ефо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	278	flat:name	_	_
+284	[	[	PUNCT	_	_	285	punct	_	_
+285	Митрофанушку	митрофанушку	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	283	appos	_	_
+286	]	]	PUNCT	_	_	285	punct	_	_
+287	не	не	PART	_	Polarity=Neg	288	advmod	_	_
+288	сатерет	сатерет	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	272	parataxis	_	_
+289	,	,	PUNCT	_	_	294	punct	_	_
+290	никахта	никахта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	294	nsubj	_	_
+291	з	з	ADP	_	_	292	case	_	_
+292	ним	ним	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=Third	294	obl	_	_
+293	не	не	PART	_	Polarity=Neg	294	advmod	_	_
+294	саспорит	саспорит	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	288	conj	_	_
+295	;	;	PUNCT	_	_	302	punct	_	_
+296	а	а	CCONJ	_	_	302	cc	_	_
+297	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	302	nsubj	_	_
+298	с	с	ADP	_	_	300	case	_	_
+299	умными	умный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	300	amod	_	_
+300	лютьми	лютьми	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	297	nmod	_	_
+301	не	не	PART	_	Polarity=Neg	302	advmod	_	_
+302	сфясыфайся	сфясыфайся	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Mid	271	conj	_	_
+303	,	,	PUNCT	_	_	306	punct	_	_
+304	так	так	ADV	_	Degree=Pos	306	cc	_	_
+305	и	и	PART	_	_	304	fixed	_	_
+306	пудет	пудет	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	271	conj	_	_
+307	плаготенствие	плаготенствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	306	obj	_	_
+308	Пожие	пожие	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	307	appos	_	_
+309	.	.	PUNCT	_	_	271	punct	_	_
+
+
+310	Парные	парный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	311	amod	_	_
+311	звонкие	звонкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	315	nsubj:pass	_	_
+312	в	в	ADP	_	_	313	case	_	_
+313	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	315	obl	_	_
+314	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	313	nmod	_	_
+315	представлены	представить	VERB	_	Aspect=Perf|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	0	ROOT	_	_
+316	здесь	здесь	ADV	_	Degree=Pos	315	advmod	_	_
+317	глухими	глухой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	315	xcomp	_	_
+318	,	,	PUNCT	_	_	327	punct	_	_
+319	но	но	CCONJ	_	_	327	cc	_	_
+320	в	в	ADP	_	_	322	case	_	_
+321	отдельных	отдельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	322	amod	_	_
+322	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	327	obl	_	_
+323	(	(	PUNCT	_	_	325	punct	_	_
+324	з	з	ADP	_	_	325	case	_	_
+325	ним	ним	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=Third	322	parataxis	_	_
+326	)	)	PUNCT	_	_	325	punct	_	_
+327	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	315	conj	_	_
+328	озвончение	озвончение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	327	nsubj	_	_
+329	глухих	глухой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	328	nmod	_	_
+330	.	.	PUNCT	_	_	315	punct	_	_
+331	
+
+	
+
+	SPACE	_	_	330	dep	_	_
+
+
+332	В	в	ADP	_	_	333	case	_	_
+333	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	337	obl	_	_
+334	фонотактики	фонотактики	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	337	nsubj	_	_
+335	наиболее	наиболее	ADV	_	Degree=Pos	336	advmod	_	_
+336	сильно	сильно	ADV	_	Degree=Pos	337	advmod	_	_
+337	воздействует	воздействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+338	на	на	ADP	_	_	340	case	_	_
+339	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	340	amod	_	_
+340	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	337	obl	_	_
+341	тип	тип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	337	obj	_	_
+342	редукции	редукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	341	nmod	_	_
+343	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	344	amod	_	_
+344	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	342	nmod	_	_
+345	.	.	PUNCT	_	_	337	punct	_	_
+
+
+346	Русские	русские	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	351	nsubj	_	_
+347	и	и	CCONJ	_	_	348	cc	_	_
+348	немцы	немец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	346	conj	_	_
+349	с	с	ADP	_	_	350	case	_	_
+350	трудом	труд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	351	obl	_	_
+351	осваивают	осваивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+352	произношение	произношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	351	obj	_	_
+353	конечных	конечный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	355	amod	_	_
+354	звонких	звонкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	355	amod	_	_
+355	согласных	согласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	352	nmod	_	_
+356	в	в	ADP	_	_	357	case	_	_
+357	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	352	nmod	_	_
+358	.	.	PUNCT	_	_	351	punct	_	_
+
+
+359	Лица	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	367	nsubj	_	_
+360	с	с	ADP	_	_	363	case	_	_
+361	родным	родный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	363	amod	_	_
+362	украинским	украинским	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	363	amod	_	_
+363	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	359	nmod	_	_
+364	,	,	PUNCT	_	_	365	punct	_	_
+365	наоборот	наоборот	ADV	_	Degree=Pos	367	parataxis	_	_
+366	,	,	PUNCT	_	_	365	punct	_	_
+367	переносят	переносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+368	на	на	ADP	_	_	371	case	_	_
+369	русский	русский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	371	amod	_	_
+370	привычную	привычный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	371	amod	_	_
+371	модель	модель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	367	obl	_	_
+372	,	,	PUNCT	_	_	373	punct	_	_
+373	сохраняющую	сохранять	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	371	acl	_	_
+374	звонкость	звонкость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	373	obj	_	_
+375	согласного	согласный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	374	nmod	_	_
+376	в	в	ADP	_	_	377	case	_	_
+377	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	373	obl	_	_
+378	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	377	nmod	_	_
+379	и	и	CCONJ	_	_	381	cc	_	_
+380	в	в	ADP	_	_	381	case	_	_
+381	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	377	conj	_	_
+382	перед	перед	ADP	_	_	383	case	_	_
+383	глухим	глухой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	381	nmod	_	_
+384	:	:	PUNCT	_	_	385	punct	_	_
+385	подписать	подписать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	367	parataxis	_	_
+386	,	,	PUNCT	_	_	387	punct	_	_
+387	са[д	са[д	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	385	parataxis	_	_
+388	]	]	PUNCT	_	_	387	punct	_	_
+389	и	и	CCONJ	_	_	390	cc	_	_
+390	т	т	PROPN	_	_	385	conj	_	_
+391	.	.	PUNCT	_	_	367	punct	_	_
+
+
+392	п.	п.	PUNCT	_	_	0	ROOT	_	_
+393	,	,	PUNCT	_	_	397	punct	_	_
+394	в	в	ADP	_	_	395	case	_	_
+395	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	397	obl	_	_
+396	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	395	nmod	_	_
+397	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	392	parataxis	_	_
+398	минимальные	минимальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	399	amod	_	_
+399	пары	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	397	nsubj	_	_
+400	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	399	nmod	_	_
+401	дедка	дедка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	400	appos	_	_
+402	/	/	PUNCT	_	_	403	punct	_	_
+403	детка	детка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	400	appos	_	_
+404	,	,	PUNCT	_	_	405	punct	_	_
+405	дужка	дужка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	399	conj	_	_
+406	/	/	PUNCT	_	_	407	punct	_	_
+407	душка	душка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	405	appos	_	_
+408	.	.	PUNCT	_	_	392	punct	_	_
+
+
+409	Сходным	сходный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	410	amod	_	_
+410	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	414	obl	_	_
+411	во	в	ADP	_	_	413	case	_	_
+412	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	413	amod	_	_
+413	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	414	obl	_	_
+414	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+415	и	и	PART	_	_	416	advmod	_	_
+416	свойственный	свойственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	419	amod	_	_
+417	родному	родный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	418	amod	_	_
+418	языку	язык	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	416	iobj	_	_
+419	тип	тип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	414	nsubj	_	_
+420	редукции	редукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	419	nmod	_	_
+421	гласных	гласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	420	nmod	_	_
+422	.	.	PUNCT	_	_	414	punct	_	_
+
+
+423	Русские	русские	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	425	nsubj	_	_
+424	часто	часто	ADV	_	Degree=Pos	425	advmod	_	_
+425	склонны	склонный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	0	ROOT	_	_
+426	редуцировать	редуцировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	425	xcomp	_	_
+427	безударные	безударный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	426	obj	_	_
+428	о	о	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	427	advmod	_	_
+429	-	-	PUNCT	_	_	428	discourse	_	_
+430	образные	образный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	431	amod	_	_
+431	гласные	гласный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	429	discourse	_	_
+432	во	в	ADP	_	_	434	case	_	_
+433	вторых	второй	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	434	amod	_	_
+434	языках	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	426	obl	_	_
+435	,	,	PUNCT	_	_	441	punct	_	_
+436	а	а	CCONJ	_	_	441	cc	_	_
+437	"	"	PUNCT	_	_	438	punct	_	_
+438	кавказский	кавказский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	440	amod	_	_
+439	"	"	PUNCT	_	_	438	punct	_	_
+440	акцент	акцент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	441	nsubj	_	_
+441	характеризуется	характеризоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	425	conj	_	_
+442	,	,	PUNCT	_	_	443	punct	_	_
+443	в	в	ADP	_	_	446	discourse	_	_
+444	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	443	fixed	_	_
+445	,	,	PUNCT	_	_	443	punct	_	_
+446	произнесением	произнесение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	441	obl	_	_
+447	гласного	гласный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	450	amod	_	_
+448	а	а	CCONJ	_	_	449	cc	_	_
+449	полного	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	447	conj	_	_
+450	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	446	nmod	_	_
+451	на	на	ADP	_	_	452	case	_	_
+452	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	446	nmod	_	_
+453	русских	русский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	454	amod	_	_
+454	безударных	безударный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	452	nmod	_	_
+455	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	441	nsubj	_	_
+456	.	.	PUNCT	_	_	425	punct	_	_
+
+
+457	Болгарский	болгарский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	458	amod	_	_
+458	бизнесмен	бизнесмен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	473	nsubj	_	_
+459	,	,	PUNCT	_	_	460	punct	_	_
+460	отвечая	отвечать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	473	advcl	_	_
+461	в	в	ADP	_	_	462	case	_	_
+462	телеинтервью	телеинтервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	460	obl	_	_
+463	на	на	ADP	_	_	464	case	_	_
+464	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	460	obl	_	_
+465	,	,	PUNCT	_	_	469	punct	_	_
+466	с	с	ADP	_	_	467	case	_	_
+467	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	469	obl	_	_
+468	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	469	nsubj	_	_
+469	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	464	acl:relcl	_	_
+470	свое	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	471	det	_	_
+471	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	469	obj	_	_
+472	,	,	PUNCT	_	_	460	punct	_	_
+473	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+474	,	,	PUNCT	_	_	479	punct	_	_
+475	что	что	SCONJ	_	_	479	mark	_	_
+476	для	для	ADP	_	_	477	case	_	_
+477	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	479	obl	_	_
+478	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	479	nsubj	_	_
+479	накупил	накупить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	473	ccomp	_	_
+480	денег	деньга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	479	obj	_	_
+481	,	,	PUNCT	_	_	482	punct	_	_
+482	имея	иметь	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	485	advcl	_	_
+483	в	в	ADV	_	_	482	advmod	_	_
+484	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	483	fixed	_	_
+485	накопил	накопить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	479	conj	_	_
+486	.	.	PUNCT	_	_	473	punct	_	_
+
+
+487	Говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	492	nsubj	_	_
+488	по	по	ADV	_	Degree=Pos	492	advmod	_	_
+489	-	-	ADV	_	Degree=Pos	492	advmod	_	_
+490	русски	русски	ADV	_	Degree=Pos	492	advmod	_	_
+491	вполне	вполне	ADV	_	Degree=Pos	492	advmod	_	_
+492	свободно	свободный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+493	,	,	PUNCT	_	_	495	punct	_	_
+494	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	495	nsubj	_	_
+495	сохранял	сохранять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	492	conj	_	_
+496	тип	тип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	495	obj	_	_
+497	редукции	редукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	496	nmod	_	_
+498	безударных	безударный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	499	amod	_	_
+499	гласных	гласный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	497	nmod	_	_
+500	,	,	PUNCT	_	_	501	punct	_	_
+501	свойственный	свойственный	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	496	acl	_	_
+502	его	он	DET	_	_	504	det	_	_
+503	родному	родный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	504	amod	_	_
+504	языку	язык	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	501	iobj	_	_
+505	:	:	PUNCT	_	_	513	punct	_	_
+506	если	если	SCONJ	_	_	513	mark	_	_
+507	в	в	ADP	_	_	509	case	_	_
+508	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	509	amod	_	_
+509	фонема	фонема	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	513	obl	_	_
+510	<	<	PUNCT	_	_	511	punct	_	_
+511	о	о	INTJ	_	_	509	appos	_	_
+512	>	>	PUNCT	_	_	511	punct	_	_
+513	редуцируется	редуцироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	523	advcl	_	_
+514	в	в	ADP	_	_	515	case	_	_
+515	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	513	obl	_	_
+516	о	о	ADP	_	_	519	case	_	_
+517	-	-	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	519	amod	_	_
+518	образных	образный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	519	amod	_	_
+519	звуков	звук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	515	nmod	_	_
+520	,	,	PUNCT	_	_	513	punct	_	_
+521	то	то	SCONJ	_	_	523	mark	_	_
+522	в	в	ADP	_	_	523	case	_	_
+523	болгарском	болгарский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	495	obl	_	_
+524	–	–	PUNCT	_	_	526	punct	_	_
+525	в	в	ADP	_	_	526	case	_	_
+526	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	523	parataxis	_	_
+527	у	у	ADP	_	_	526	nmod	_	_
+528	-	-	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	526	nmod	_	_
+529	образных	образный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	526	nmod	_	_
+530	.	.	PUNCT	_	_	492	punct	_	_
+531	
+
+	
+
+	SPACE	_	_	530	dep	_	_
+
+
+532	В	в	ADP	_	_	534	case	_	_
+533	грамматической	грамматический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	534	amod	_	_
+534	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	537	obl	_	_
+535	интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	537	nsubj:pass	_	_
+536	часто	часто	ADV	_	Degree=Pos	537	advmod	_	_
+537	связана	связать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	0	ROOT	_	_
+538	с	с	ADP	_	_	540	case	_	_
+539	невольной	невольный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	540	amod	_	_
+540	интерпретацией	интерпретация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	537	obl	_	_
+541	грамматических	грамматический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	542	amod	_	_
+542	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	540	nmod	_	_
+543	второго	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	544	amod	_	_
+544	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	542	nmod	_	_
+545	через	через	ADP	_	_	546	case	_	_
+546	призму	призма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	537	obl	_	_
+547	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	546	nmod	_	_
+548	:	:	PUNCT	_	_	549	punct	_	_
+549	приписыванием	приписывание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	546	parataxis	_	_
+550	русским	русский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	552	amod	_	_
+551	существительным	существительным	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	552	amod	_	_
+552	боль	боль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	549	nmod	_	_
+553	,	,	PUNCT	_	_	554	punct	_	_
+554	мозоль	мозоль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	552	conj	_	_
+555	,	,	PUNCT	_	_	556	punct	_	_
+556	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	549	conj	_	_
+557	мужского	мужской	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	558	amod	_	_
+558	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	556	nmod	_	_
+559	в	в	ADP	_	_	562	case	_	_
+560	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	559	fixed	_	_
+561	с	с	ADP	_	_	559	fixed	_	_
+562	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	549	nmod	_	_
+563	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	564	amod	_	_
+564	белорусского	белорусский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	562	nmod	_	_
+565	,	,	PUNCT	_	_	566	punct	_	_
+566	употреблением	употребление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	562	conj	_	_
+567	глагольного	глагольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	568	amod	_	_
+568	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	566	nmod	_	_
+569	во	в	ADP	_	_	572	case	_	_
+570	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	572	amod	_	_
+571	польском	польский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	572	amod	_	_
+572	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	568	nmod	_	_
+573	в	в	ADP	_	_	576	case	_	_
+574	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	573	fixed	_	_
+575	с	с	ADP	_	_	573	fixed	_	_
+576	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	566	nmod	_	_
+577	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	578	amod	_	_
+578	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	576	nmod	_	_
+579	,	,	PUNCT	_	_	580	punct	_	_
+580	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	576	conj	_	_
+581	определенного	определённый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	584	amod	_	_
+582	или	или	CCONJ	_	_	583	cc	_	_
+583	неопределенного	неопределённый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	581	conj	_	_
+584	артикля	артикль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	580	nmod	_	_
+585	во	в	ADP	_	_	588	case	_	_
+586	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	588	amod	_	_
+587	английском	английский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	588	amod	_	_
+588	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	580	nmod	_	_
+589	в	в	ADP	_	_	592	case	_	_
+590	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	589	fixed	_	_
+591	с	с	ADP	_	_	589	fixed	_	_
+592	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	580	nmod	_	_
+593	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	594	amod	_	_
+594	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	592	nmod	_	_
+595	и	и	CCONJ	_	_	596	cc	_	_
+596	т	т	PART	_	_	594	conj	_	_
+597	.	.	PUNCT	_	_	537	punct	_	_
+
+
+598	п.	п.	PUNCT	_	_	612	punct	_	_
+599	
+
+	
+
+	SPACE	_	_	598	dep	_	_
+600	Если	если	SCONJ	_	_	608	mark	_	_
+601	некоторая	некоторая	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	603	amod	_	_
+602	грамматическая	грамматический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	603	amod	_	_
+603	категория	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	608	nsubj	_	_
+604	родного	родный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	605	amod	_	_
+605	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	603	nmod	_	_
+606	в	в	ADP	_	_	607	case	_	_
+607	неродном	неродной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	608	obl	_	_
+608	выражается	выражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	612	advcl	_	_
+609	нерегулярно	нерегулярно	ADV	_	Degree=Pos	608	advmod	_	_
+610	,	,	PUNCT	_	_	612	punct	_	_
+611	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	612	nsubj:pass	_	_
+612	признается	признаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+613	как	как	ADV	_	Degree=Pos	616	advmod	_	_
+614	бы	бы	AUX	_	Mood=Cnd	613	fixed	_	_
+615	вообще	вообще	ADV	_	Degree=Pos	616	advmod	_	_
+616	отсутствующей	отсутствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	612	xcomp	_	_
+617	.	.	PUNCT	_	_	612	punct	_	_
+
+
+618	В	в	ADP	_	_	620	case	_	_
+619	тюркских	тюркский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	620	amod	_	_
+620	языках	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	623	obl	_	_
+621	каузатив	каузатив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	623	nsubj	_	_
+622	обычно	обычно	ADV	_	Degree=Pos	623	advmod	_	_
+623	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+624	стандартное	стандартный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	626	amod	_	_
+625	суффиксальное	суффиксальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	626	amod	_	_
+626	выражение	выражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	623	obj	_	_
+627	;	;	PUNCT	_	_	633	punct	_	_
+628	нерегулярность	нерегулярность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	633	nsubj	_	_
+629	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	628	nmod	_	_
+630	русских	русский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	632	amod	_	_
+631	каузативных	каузативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	632	amod	_	_
+632	глаголов	глагол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	629	nmod	_	_
+633	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	623	conj	_	_
+634	производить	производить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	633	xcomp	_	_
+635	на	на	ADP	_	_	639	case	_	_
+636	тюркско	тюркско	ADJ	_	Degree=Pos	639	amod	_	_
+637	-	-	ADJ	_	Degree=Pos	639	amod	_	_
+638	русских	русский	ADJ	_	Degree=Pos	639	amod	_	_
+639	билингвов	билингвов	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	634	obl	_	_
+640	впечатление	впечатление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	634	obj	_	_
+641	необязательности	необязательность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	640	nmod	_	_
+642	выражения	выражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	641	nmod	_	_
+643	каузативности	каузативности	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	642	nmod	_	_
+644	.	.	PUNCT	_	_	623	punct	_	_
+
+
+645	Так	так	ADV	_	Degree=Pos	650	parataxis	_	_
+646	,	,	PUNCT	_	_	645	punct	_	_
+647	в	в	ADP	_	_	649	case	_	_
+648	школьные	школьный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	649	amod	_	_
+649	сочинения	сочинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	650	obl	_	_
+650	попадают	попадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+651	фразы	фраза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	650	nsubj	_	_
+652	Герасим	герасим	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	653	nsubj	_	_
+653	поел	поесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	650	parataxis	_	_
+654	собачку	собачка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	658	obj	_	_
+655	(	(	PUNCT	_	_	656	punct	_	_
+656	вм	вм	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	654	parataxis	_	_
+657	.	.	PUNCT	_	_	656	punct	_	_
+658	накормил	накормить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	653	parataxis	_	_
+659	)	)	PUNCT	_	_	658	punct	_	_
+660	;	;	PUNCT	_	_	650	punct	_	_
+
+
+661	Волна	волна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	662	nsubj	_	_
+662	утонула	утонуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+663	кораблик	кораблик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	662	obj	_	_
+664	(	(	PUNCT	_	_	665	punct	_	_
+665	вм	вм	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	663	appos	_	_
+666	.	.	PUNCT	_	_	665	punct	_	_
+667	потопила	потопить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	662	conj	_	_
+668	)	)	PUNCT	_	_	667	punct	_	_
+669	[	[	PUNCT	_	_	670	punct	_	_
+670	Абдулфанова	абдулфанова	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	667	obj	_	_
+671	1990	1990	NUM	_	_	670	appos	_	_
+672	:	:	PUNCT	_	_	673	punct	_	_
+673	171	171	NUM	_	_	670	nummod	_	_
+674	-	-	NUM	_	_	670	appos	_	_
+675	172	172	NUM	_	_	670	appos	_	_
+676	]	]	PUNCT	_	_	670	punct	_	_
+677	.	.	PUNCT	_	_	662	punct	_	_
+678	
+
+	
+
+	SPACE	_	_	677	dep	_	_
+
+
+679	Интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	680	nsubj	_	_
+680	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+681	проявляться	проявляться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	680	xcomp	_	_
+682	и	и	PART	_	_	684	advmod	_	_
+683	в	в	ADP	_	_	684	case	_	_
+684	синтаксисе	синтаксис	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	681	obl	_	_
+685	.	.	PUNCT	_	_	680	punct	_	_
+
+
+686	Несмотря	несмотря	ADV	_	Polarity=Neg	689	case	_	_
+687	на	на	ADP	_	_	686	fixed	_	_
+688	относительную	относительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	689	amod	_	_
+689	свободу	свобода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	699	obl	_	_
+690	грузинского	грузинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	691	amod	_	_
+691	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	689	nmod	_	_
+692	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	689	nmod	_	_
+693	,	,	PUNCT	_	_	689	punct	_	_
+694	позиция	позиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	699	nsubj:pass	_	_
+695	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	696	det	_	_
+696	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	694	nmod	_	_
+697	предложения	предложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	696	nmod	_	_
+698	жестко	жестко	ADV	_	Degree=Pos	699	advmod	_	_
+699	закреплена	закрепить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	0	ROOT	_	_
+700	.	.	PUNCT	_	_	699	punct	_	_
+
+
+701	В	в	ADP	_	_	712	discourse	_	_
+702	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	701	fixed	_	_
+703	,	,	PUNCT	_	_	701	punct	_	_
+704	в	в	ADP	_	_	705	case	_	_
+705	противоположность	противоположность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	712	obl	_	_
+706	русскому	русский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	705	iobj	_	_
+707	,	,	PUNCT	_	_	705	punct	_	_
+708	управляемое	управляемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	709	amod	_	_
+709	слово	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	712	nsubj	_	_
+710	в	в	ADP	_	_	711	case	_	_
+711	норме	норма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	709	nmod	_	_
+712	предшествует	предшествовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+713	управляющему	управляющему	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	712	iobj	_	_
+714	и	и	CCONJ	_	_	718	cc	_	_
+715	глагол	глагол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	718	nsubj	_	_
+716	-	-	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	718	nsubj	_	_
+717	сказуемое	сказуемое	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	718	nsubj	_	_
+718	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	712	conj	_	_
+719	на	на	ADP	_	_	721	case	_	_
+720	последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	721	amod	_	_
+721	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	718	obl	_	_
+722	.	.	PUNCT	_	_	712	punct	_	_
+
+
+723	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	724	det	_	_
+724	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	727	nsubj	_	_
+725	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	724	nmod	_	_
+726	сильно	сильно	ADV	_	Degree=Pos	727	advmod	_	_
+727	интерферирует	интерферировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+728	в	в	ADP	_	_	730	case	_	_
+729	русскую	русский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	730	amod	_	_
+730	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	727	obl	_	_
+731	грузин	грузин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	730	nmod	_	_
+732	.	.	PUNCT	_	_	727	punct	_	_
+
+
+733	Предложения	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	736	nsubj	_	_
+734	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	733	nmod	_	_
+735	Был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	733	nmod	_	_
+736	вечер	вечер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+737	,	,	PUNCT	_	_	741	punct	_	_
+738	когда	когда	SCONJ	_	_	741	mark	_	_
+739	в	в	ADP	_	_	740	case	_	_
+740	Барихасо	барихасо	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	741	obl	_	_
+741	поднялись	подняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	736	acl:relcl	_	_
+742	;	;	PUNCT	_	_	736	punct	_	_
+743	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	744	nsubj	_	_
+744	вошли	войти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	736	parataxis	_	_
+745	в	в	ADP	_	_	749	case	_	_
+746	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	749	amod	_	_
+747	же	же	PART	_	_	746	advmod	_	_
+748	классную	классный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	749	amod	_	_
+749	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	744	obl	_	_
+750	,	,	PUNCT	_	_	753	punct	_	_
+751	где	где	ADV	_	Degree=Pos	753	advmod	_	_
+752	третьеклассники	третьеклассник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	753	nsubj	_	_
+753	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	749	acl:relcl	_	_
+754	;	;	PUNCT	_	_	736	punct	_	_
+
+
+755	Обрадовались	обрадовались	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	769	advcl	_	_
+756	,	,	PUNCT	_	_	759	punct	_	_
+757	когда	когда	SCONJ	_	_	759	mark	_	_
+758	знакомых	знакомых	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	759	obj	_	_
+759	увидели	увидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	755	advcl	_	_
+760	;	;	PUNCT	_	_	759	punct	_	_
+761	В	в	ADP	_	_	762	case	_	_
+762	горах	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	759	obl	_	_
+763	расположенное	расположенное	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	765	amod	_	_
+764	трехэтажное	трёхэтажный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	765	amod	_	_
+765	здание	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	769	nsubj	_	_
+766	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	765	nmod	_	_
+767	-	-	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	765	nmod	_	_
+768	интерната	интерната	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	765	nmod	_	_
+769	радовало	радовало	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	790	nsubj	_	_
+770	сердца	сердце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	769	obj	_	_
+771	посетителей	посетитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	770	nmod	_	_
+772	[	[	PUNCT	_	_	773	punct	_	_
+773	Кевлишвили	кевлишвили	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	771	appos	_	_
+774	1990	1990	NUM	_	_	773	flat:name	_	_
+775	]	]	PUNCT	_	_	773	punct	_	_
+776	,	,	PUNCT	_	_	783	punct	_	_
+777	с	с	ADP	_	_	778	case	_	_
+778	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	783	obl	_	_
+779	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	778	compound	_	_
+780	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	782	amod	_	_
+781	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	782	amod	_	_
+782	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	778	nmod	_	_
+783	выглядящие	выглядеть	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	769	acl	_	_
+784	в	в	ADP	_	_	786	case	_	_
+785	разной	разный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	786	amod	_	_
+786	степени	степень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	783	obl	_	_
+787	девиантными	девиантный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	783	xcomp	_	_
+788	,	,	PUNCT	_	_	783	punct	_	_
+789	вполне	вполне	ADV	_	Degree=Pos	790	advmod	_	_
+790	укладываются	укладываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+791	в	в	ADP	_	_	793	case	_	_
+792	локальный	локальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	793	amod	_	_
+793	стандарт	стандарт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	790	obl	_	_
+794	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	795	amod	_	_
+795	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	793	nmod	_	_
+796	Грузии	грузия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	795	nmod	_	_
+797	и	и	CCONJ	_	_	798	cc	_	_
+798	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	790	conj	_	_
+799	порождаться	порождаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	798	xcomp	_	_
+800	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	802	amod	_	_
+801	русскими	русский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	802	amod	_	_
+802	монолингвами	монолингвами	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	799	obl	_	_
+803	.	.	PUNCT	_	_	790	punct	_	_
+
+
+804	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	806	nsubj	_	_
+805	же	же	PART	_	_	804	advmod	_	_
+806	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+807	и	и	PART	_	_	808	advmod	_	_
+808	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	806	obj	_	_
+809	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	808	nmod	_	_
+810	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	808	nmod	_	_
+811	в	в	ADP	_	_	812	case	_	_
+812	функции	функция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	808	nmod	_	_
+813	грузинской	грузинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	814	amod	_	_
+814	частицы	частица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	812	nmod	_	_
+815	ра	ра	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	814	appos	_	_
+816	,	,	PUNCT	_	_	817	punct	_	_
+817	выражающей	выражать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	814	acl	_	_
+818	настойчивую	настойчивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	819	amod	_	_
+819	просьбу	просьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	817	obj	_	_
+820	в	в	ADP	_	_	822	case	_	_
+821	побудительных	побудительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	822	amod	_	_
+822	предложениях	предложение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	817	obl	_	_
+823	:	:	PUNCT	_	_	824	punct	_	_
+824	Приходи	приходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	822	parataxis	_	_
+825	,	,	PUNCT	_	_	828	punct	_	_
+826	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	828	nsubj	_	_
+827	ко	к	ADP	_	_	828	case	_	_
+828	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	806	parataxis	_	_
+829	!	!	PUNCT	_	_	806	punct	_	_
+
+
+830	Дай	дать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+831	,	,	PUNCT	_	_	833	punct	_	_
+832	что	что	SCONJ	_	_	833	mark	_	_
+833	книгу	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	830	ccomp	_	_
+834	.	.	PUNCT	_	_	830	punct	_	_
+835	
+
+	
+
+	SPACE	_	_	834	dep	_	_
+
+
+836	Воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	847	nsubj	_	_
+837	второго	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	839	amod	_	_
+838	доминирующего	доминирующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	839	amod	_	_
+839	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	836	nmod	_	_
+840	на	на	ADP	_	_	847	case	_	_
+841	родной	родный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	845	amod	_	_
+842	в	в	ADP	_	_	844	case	_	_
+843	грамматической	грамматический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	844	amod	_	_
+844	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	841	nmod	_	_
+845	сильнее	сильный	ADV	_	Degree=Cmp	847	advmod	_	_
+846	всего	всего	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	845	obl	_	_
+847	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+848	в	в	ADP	_	_	849	case	_	_
+849	моделях	модель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	847	obl	_	_
+850	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	849	nmod	_	_
+851	.	.	PUNCT	_	_	847	punct	_	_
+852	
+
+	
+
+	SPACE	_	_	851	dep	_	_
+
+
+853	Чем	Чем	SCONJ	_	_	854	mark	_	_
+854	больше	больше	NUM	_	Degree=Cmp	0	ROOT	_	_
+855	различие	различие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	854	nsubj	_	_
+856	между	между	ADP	_	_	857	case	_	_
+857	языками	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	855	nmod	_	_
+858	,	,	PUNCT	_	_	861	punct	_	_
+859	тем	тем	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	861	mark	_	_
+860	теоретически	теоретически	ADV	_	Degree=Pos	859	fixed	_	_
+861	больше	больше	NUM	_	Degree=Cmp	854	advcl	_	_
+862	потенциальных	потенциальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	863	amod	_	_
+863	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	861	obl	_	_
+864	для	для	ADP	_	_	865	case	_	_
+865	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	863	nmod	_	_
+866	,	,	PUNCT	_	_	873	punct	_	_
+867	но	но	CCONJ	_	_	873	cc	_	_
+868	в	в	ADP	_	_	870	case	_	_
+869	родственных	родственный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	870	amod	_	_
+870	языках	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	873	obl	_	_
+871	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	873	nsubj	_	_
+872	менее	менее	ADV	_	Degree=Cmp	873	advmod	_	_
+873	заметна	заметный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|StyleVariant=Short	854	conj	_	_
+874	самому	самому	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	875	amod	_	_
+875	говорящему	говорящему	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	873	iobj	_	_
+876	.	.	PUNCT	_	_	854	punct	_	_
+
+
+877	Поэтому	поэтому	ADV	_	Degree=Pos	890	advmod	_	_
+878	у	у	ADP	_	_	879	case	_	_
+879	билингвов	билингвов	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	890	obl	_	_
+880	,	,	PUNCT	_	_	882	punct	_	_
+881	свободно	свободно	ADV	_	Degree=Pos	882	advmod	_	_
+882	владеющих	владеть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	879	acl	_	_
+883	и	и	CCONJ	_	_	885	cc	_	_
+884	постоянно	постоянно	ADV	_	Degree=Pos	885	advmod	_	_
+885	пользующихся	пользоваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	882	conj	_	_
+886	близкородственными	близкородственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	887	amod	_	_
+887	языками	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	885	obl	_	_
+888	,	,	PUNCT	_	_	882	punct	_	_
+889	интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	890	nsubj	_	_
+890	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+891	почти	почти	ADV	_	Degree=Pos	892	advmod	_	_
+892	неизбежной	неизбежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	890	xcomp	_	_
+893	.	.	PUNCT	_	_	890	punct	_	_
+
+
+894	Прекрасным	прекрасный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	895	amod	_	_
+895	подтверждением	подтверждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	897	xcomp	_	_
+896	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	897	iobj	_	_
+897	служит	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+898	русский	русский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	899	amod	_	_
+899	перевод	перевод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	897	nsubj	_	_
+900	классической	классический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	901	amod	_	_
+901	монографии	монография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	899	nmod	_	_
+902	У.	у.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	901	appos	_	_
+903	Вайнрайха	вайнрайха	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	902	flat:name	_	_
+904	по	по	ADP	_	_	906	case	_	_
+905	языковым	языковой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	906	amod	_	_
+906	контактам	контакт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	901	nmod	_	_
+907	[	[	PUNCT	_	_	908	punct	_	_
+908	Вайнрайх	вайнрайх	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	906	parataxis	_	_
+909	1979	1979	ADJ	_	_	908	appos	_	_
+910	]	]	PUNCT	_	_	908	punct	_	_
+911	,	,	PUNCT	_	_	915	punct	_	_
+912	в	в	ADP	_	_	914	case	_	_
+913	значительной	значительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	914	amod	_	_
+914	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	915	obl	_	_
+915	посвященной	посвятить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	899	acl	_	_
+916	как	как	SCONJ	_	_	918	case	_	_
+917	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	916	fixed	_	_
+918	проблемам	проблема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	915	obl	_	_
+919	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	918	nmod	_	_
+920	.	.	PUNCT	_	_	897	punct	_	_
+
+
+921	Перевод	перевод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	922	nsubj:pass	_	_
+922	издан	издать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	0	ROOT	_	_
+923	в	в	ADP	_	_	924	case	_	_
+924	Киеве	киев	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	922	obl	_	_
+925	и	и	CCONJ	_	_	926	cc	_	_
+926	содержит	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	922	conj	_	_
+927	немало	немало	ADV	_	Degree=Pos	928	nummod:gov	_	_
+928	фактов	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	926	obj	_	_
+929	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	928	nmod	_	_
+930	украинского	украинского	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	931	amod	_	_
+931	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	929	nmod	_	_
+932	в	в	ADP	_	_	933	case	_	_
+933	русский	русский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	929	nmod	_	_
+934	,	,	PUNCT	_	_	935	punct	_	_
+935	ср.	ср.	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	922	conj	_	_
+936	:	:	PUNCT	_	_	938	punct	_	_
+937	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	938	nsubj	_	_
+938	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	935	parataxis	_	_
+939	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	938	xcomp	_	_
+940	<	<	PUNCT	_	_	945	punct	_	_
+941	...	...	PUNCT	_	_	945	punct	_	_
+942	>	>	PUNCT	_	_	945	punct	_	_
+943	на	на	ADP	_	_	945	case	_	_
+944	следующей	следующий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	945	amod	_	_
+945	таблице	таблица	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	939	obl	_	_
+946	;	;	PUNCT	_	_	945	punct	_	_
+947	приток	приток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	939	obj	_	_
+948	заимствований	заимствование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	947	nmod	_	_
+949	с	с	ADP	_	_	950	case	_	_
+950	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	948	nmod	_	_
+951	;	;	PUNCT	_	_	938	punct	_	_
+952	<	<	PUNCT	_	_	960	punct	_	_
+953	...	...	PUNCT	_	_	960	punct	_	_
+954	>	>	PUNCT	_	_	960	punct	_	_
+955	когда	когда	SCONJ	_	_	960	mark	_	_
+956	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	960	nsubj	_	_
+957	[	[	PUNCT	_	_	958	punct	_	_
+958	дети	ребёнок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	956	appos	_	_
+959	]	]	PUNCT	_	_	958	punct	_	_
+960	стают	ставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	922	parataxis	_	_
+961	взрослыми	взрослый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	960	xcomp	_	_
+962	;	;	PUNCT	_	_	960	punct	_	_
+963	межзубной	межзубной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	960	obj	_	_
+964	[	[	PUNCT	_	_	965	punct	_	_
+965	звук	звук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	963	appos	_	_
+966	]	]	PUNCT	_	_	965	punct	_	_
+967	[	[	PUNCT	_	_	968	punct	_	_
+968	Вайнрайх	вайнрайх	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	965	appos	_	_
+969	1979	1979	NUM	_	_	968	appos	_	_
+970	:	:	PUNCT	_	_	968	punct	_	_
+971	136	136	NUM	_	_	968	nummod	_	_
+972	,	,	NUM	_	_	968	nummod	_	_
+973	152	152	NUM	_	_	968	nummod	_	_
+974	,	,	NUM	_	_	968	nummod	_	_
+975	181	181	NUM	_	_	968	nummod	_	_
+976	,	,	NUM	_	_	968	appos	_	_
+977	203	203	NUM	_	_	968	nummod	_	_
+978	]	]	PUNCT	_	_	968	punct	_	_
+979	.	.	PUNCT	_	_	922	punct	_	_
+
+
+980	Последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	981	amod	_	_
+981	пример	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	983	nsubj	_	_
+982	особенно	особенно	ADV	_	Degree=Pos	983	advmod	_	_
+983	интересен	интересный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|StyleVariant=Short	0	ROOT	_	_
+984	;	;	PUNCT	_	_	992	punct	_	_
+985	по	по	ADV	_	Degree=Pos	992	advmod	_	_
+986	-	-	ADV	_	Degree=Pos	992	advmod	_	_
+987	русски	русски	ADV	_	Degree=Pos	988	advmod	_	_
+988	прилагательные	прилагательные	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	992	nsubj:pass	_	_
+989	зубной	зубной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	988	amod	_	_
+990	и	и	CCONJ	_	_	991	cc	_	_
+991	межзубный	межзубный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	989	conj	_	_
+992	оформляются	оформляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	983	conj	_	_
+993	по	по	ADV	_	Degree=Pos	992	advmod	_	_
+994	-	-	ADV	_	Degree=Pos	992	advmod	_	_
+995	разному	разный	ADV	_	Degree=Pos	992	advmod	_	_
+996	,	,	PUNCT	_	_	1002	punct	_	_
+997	но	но	CCONJ	_	_	1002	cc	_	_
+998	первое	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1002	nsubj	_	_
+999	из	из	ADP	_	_	1000	case	_	_
+1000	них	них	PRON	_	Case=Gen|Number=Plur|Person=Third	998	nmod	_	_
+1001	несопоставимо	несопоставимый	ADV	_	Degree=Pos	1002	advmod	_	_
+1002	частотнее	частотный	ADV	_	Degree=Cmp	992	conj	_	_
+1003	,	,	PUNCT	_	_	1011	punct	_	_
+1004	по	по	ADV	_	Degree=Pos	1011	advmod	_	_
+1005	-	-	ADV	_	Degree=Pos	1011	advmod	_	_
+1006	украински	украински	ADV	_	Degree=Pos	1011	advmod	_	_
+1007	в	в	ADP	_	_	1009	case	_	_
+1008	обоих	оба	NUM	_	Case=Loc|Gender=Masc	1009	nummod	_	_
+1009	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1011	obl	_	_
+1010	окончания	окончание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1009	nmod	_	_
+1011	одинаковые	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	983	conj	_	_
+1012	:	:	PUNCT	_	_	1014	punct	_	_
+1013	(	(	PUNCT	_	_	1014	punct	_	_
+1014	мiж)зубний	мiж)зубний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1011	parataxis	_	_
+1015	.	.	PUNCT	_	_	983	punct	_	_
+
+
+1016	Ориентация	ориентация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1026	nsubj	_	_
+1017	на	на	ADP	_	_	1021	case	_	_
+1018	более	более	ADV	_	Degree=Cmp	1019	advmod	_	_
+1019	частотное	частотный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1021	amod	_	_
+1020	русское	русский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1021	amod	_	_
+1021	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1016	nmod	_	_
+1022	и	и	CCONJ	_	_	1023	cc	_	_
+1023	отталкивание	отталкивание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1021	conj	_	_
+1024	от	от	ADP	_	_	1025	case	_	_
+1025	украинского	украинского	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1023	nmod	_	_
+1026	привели	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1027	переводчика	переводчик	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1026	obj	_	_
+1028	к	к	ADP	_	_	1029	case	_	_
+1029	конструированию	конструирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1026	obl	_	_
+1030	гиперкорректной	гиперкорректный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1031	amod	_	_
+1031	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1029	nmod	_	_
+1032	межзубной	межзубный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1029	nmod	_	_
+1033	.	.	PUNCT	_	_	1026	punct	_	_
+1034	
+
+	
+
+	SPACE	_	_	1033	dep	_	_
+
+
+1035	Интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1038	nsubj	_	_
+1036	–	–	PUNCT	_	_	1035	punct	_	_
+1037	это	это	PART	_	_	1038	expl	_	_
+1038	явление	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+1039	,	,	PUNCT	_	_	1040	punct	_	_
+1040	свойственное	свойственное	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1038	acl	_	_
+1041	индивиду	индивид	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	1040	iobj	_	_
+1042	,	,	PUNCT	_	_	1050	punct	_	_
+1043	но	но	CCONJ	_	_	1050	cc	_	_
+1044	при	при	ADP	_	_	1046	case	_	_
+1045	массовом	массовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	1046	amod	_	_
+1046	двуязычии	двуязычие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1050	obl	_	_
+1047	однотипные	однотипный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1049	amod	_	_
+1048	интерференционные	интерференционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1049	amod	_	_
+1049	процессы	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1050	nsubj	_	_
+1050	характеризуют	характеризовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1038	conj	_	_
+1051	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1050	obj	_	_
+1052	многих	многих	NUM	_	Case=Gen	1053	amod	_	_
+1053	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	1051	nmod	_	_
+1054	,	,	PUNCT	_	_	1064	punct	_	_
+1055	и	и	CCONJ	_	_	1064	cc	_	_
+1056	,	,	PUNCT	_	_	1057	punct	_	_
+1057	закрепившись	закрепиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	1064	advcl	_	_
+1058	в	в	ADP	_	_	1061	case	_	_
+1059	идиолектных	идиолектных	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	1061	amod	_	_
+1060	языковых	языковой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	1061	amod	_	_
+1061	системах	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1057	obl	_	_
+1062	,	,	PUNCT	_	_	1057	punct	_	_
+1063	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	1064	nsubj	_	_
+1064	начинают	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1038	conj	_	_
+1065	воздействовать	воздействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1064	xcomp	_	_
+1066	также	также	ADV	_	Degree=Pos	1070	advmod	_	_
+1067	и	и	PART	_	_	1070	advmod	_	_
+1068	на	на	ADP	_	_	1070	case	_	_
+1069	языковую	языковой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1070	amod	_	_
+1070	компетенцию	компетенция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1065	obj	_	_
+1071	моно	моно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1070	nmod	_	_
+1072	-	-	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1070	nmod	_	_
+1073	лингвов	лингвов	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1070	nmod	_	_
+1074	,	,	PUNCT	_	_	1076	punct	_	_
+1075	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1076	nsubj	_	_
+1076	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1064	parataxis	_	_
+1077	к	к	ADP	_	_	1079	case	_	_
+1078	языковым	языковой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1079	amod	_	_
+1079	изменениям	изменение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1076	obl	_	_
+1080	.	.	PUNCT	_	_	1038	punct	_	_
+
+
+1081	Как	как	SCONJ	_	_	1084	mark	_	_
+1082	только	только	PART	_	_	1081	fixed	_	_
+1083	интерференция	интерференция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1084	nsubj	_	_
+1084	получает	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1099	advcl	_	_
+1085	признание	признание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1084	obj	_	_
+1086	в	в	ADP	_	_	1087	case	_	_
+1087	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1085	nmod	_	_
+1088	(	(	PUNCT	_	_	1089	punct	_	_
+1089	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1087	parataxis	_	_
+1090	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1089	xcomp	_	_
+1091	стандарта	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1090	nmod	_	_
+1092	определенного	определённый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1094	amod	_	_
+1093	языкового	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1094	amod	_	_
+1094	кода	код	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1091	nmod	_	_
+1095	)	)	PUNCT	_	_	1089	punct	_	_
+1096	,	,	PUNCT	_	_	1084	punct	_	_
+1097	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=Third	1099	nsubj:pass	_	_
+1098	не	не	PART	_	Polarity=Neg	1099	advmod	_	_
+1099	ощущается	ощущаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+1100	в	в	ADP	_	_	1102	case	_	_
+1101	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	1102	det	_	_
+1102	коде	код	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1099	obl	_	_
+1103	как	как	SCONJ	_	_	1104	case	_	_
+1104	нечто	нечто	PRON	_	Case=Acc	1099	obl	_	_
+1105	чужеродное	чужеродный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1104	amod	_	_
+1106	,	,	PUNCT	_	_	1107	punct	_	_
+1107	т	т	PART	_	_	1104	conj	_	_
+1108	.	.	PUNCT	_	_	1099	punct	_	_
+
+
+1109	е	е	PROPN	_	_	0	ROOT	_	_
+1110	.	.	PUNCT	_	_	1109	punct	_	_
+
+
+1111	перестает	переставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1112	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1113	cop	_	_
+1113	таковой	таковой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	1111	xcomp	_	_
+1114	для	для	ADP	_	_	1115	case	_	_
+1115	всех	всех	PRON	_	Animacy=Anim|Case=Gen|Number=Plur	1113	obl	_	_
+1116	,	,	PUNCT	_	_	1118	punct	_	_
+1117	кроме	кроме	ADP	_	_	1118	case	_	_
+1118	лингвистов	лингвист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1115	conj	_	_
+1119	.	.	PUNCT	_	_	1111	punct	_	_
+1120	
+
+	
+
+	SPACE	_	_	1119	dep	_	_
+
+
+1121	Все	весь	DET	_	Case=Nom|Number=Plur	1122	det	_	_
+1122	явления	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1133	nsubj	_	_
+1123	,	,	PUNCT	_	_	1124	punct	_	_
+1124	относимые	относить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	1122	acl	_	_
+1125	исторической	исторический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	1126	amod	_	_
+1126	лингвистикой	лингвистика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1124	obl	_	_
+1127	к	к	ADP	_	_	1128	case	_	_
+1128	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1124	obl	_	_
+1129	субстратных	субстратный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1128	nmod	_	_
+1130	и	и	CCONJ	_	_	1131	cc	_	_
+1131	суперстратных	суперстратных	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1129	conj	_	_
+1132	,	,	PUNCT	_	_	1124	punct	_	_
+1133	обязаны	обязанный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	0	ROOT	_	_
+1134	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	1135	det	_	_
+1135	возникновением	возникновение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1133	obl	_	_
+1136	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1135	nmod	_	_
+1137	.	.	PUNCT	_	_	1133	punct	_	_
+
+
+1138	Даже	даже	PART	_	_	1139	advmod	_	_
+1139	те	тот	DET	_	Case=Nom|Number=Plur	1141	det	_	_
+1140	диахронические	диахронический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1141	amod	_	_
+1141	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1150	nsubj	_	_
+1142	,	,	PUNCT	_	_	1145	punct	_	_
+1143	которые	которые	PRON	_	Case=Nom|Number=Plur	1145	nsubj:pass	_	_
+1144	обычно	обычно	ADV	_	Degree=Pos	1145	advmod	_	_
+1145	считаются	считаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	1141	acl:relcl	_	_
+1146	результатом	результат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1145	xcomp	_	_
+1147	внутриязыковых	внутриязыковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1148	amod	_	_
+1148	процессов	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1146	nmod	_	_
+1149	,	,	PUNCT	_	_	1145	punct	_	_
+1150	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1151	объясняться	объясняться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	1150	xcomp	_	_
+1152	интерференционным	интерференционный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1153	amod	_	_
+1153	взаимодействием	взаимодействие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1151	obl	_	_
+1154	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1155	amod	_	_
+1155	кодов	код	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1153	nmod	_	_
+1156	одного	одного	NUM	_	Case=Gen|Gender=Masc|Number=Sing	1157	nummod	_	_
+1157	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1155	nmod	_	_
+1158	.	.	PUNCT	_	_	1150	punct	_	_
+1159	
+	
+	SPACE	_	_	1158	dep	_	_
+
+
+1160	Рассмотрение	рассмотрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1168	nsubj	_	_
+1161	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1160	nmod	_	_
+1162	кодового	кодовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1163	amod	_	_
+1163	переключения	переключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1161	nmod	_	_
+1164	и	и	CCONJ	_	_	1165	cc	_	_
+1165	интерференции	интерференция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1163	conj	_	_
+1166	естественным	естественный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1167	amod	_	_
+1167	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1168	obl	_	_
+1168	подводит	подводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1169	нас	нас	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=First	1168	obj	_	_
+1170	к	к	ADP	_	_	1172	case	_	_
+1171	очередному	очередной	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	1172	amod	_	_
+1172	понятию	понятие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1168	obl	_	_
+1173	,	,	PUNCT	_	_	1174	punct	_	_
+1174	требующему	требующему	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	1172	acl	_	_
+1175	разъяснений	разъяснение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1174	obj	_	_
+1176	,	,	PUNCT	_	_	1178	punct	_	_
+1177	–	–	PUNCT	_	_	1178	punct	_	_
+1178	понятию	понятие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1168	parataxis	_	_
+1179	языковой	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1180	amod	_	_
+1180	вариативности	вариативность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1178	nmod	_	_
+1181	.	.	PUNCT	_	_	1168	punct	_	_
+1182	
+
+	
+
+	SPACE	_	_	1181	dep	_	_
+
+
+1183	Если	если	SCONJ	_	_	1185	mark	_	_
+1184	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	1185	nsubj	_	_
+1185	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	1212	advcl	_	_
+1186	в	в	ADP	_	_	1187	case	_	_
+1187	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1185	obl	_	_
+1188	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1187	nmod	_	_
+1189	переключаться	переключаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1188	nmod	_	_
+1190	с	с	ADP	_	_	1193	case	_	_
+1191	одних	один	DET	_	Case=Gen|Degree=Pos|Number=Plur	1193	amod	_	_
+1192	языковых	языковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1193	amod	_	_
+1193	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1189	obl	_	_
+1194	на	на	ADP	_	_	1195	case	_	_
+1195	другие	другие	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1189	obl	_	_
+1196	,	,	PUNCT	_	_	1199	punct	_	_
+1197	например	например	ADV	_	Degree=Pos	1199	advmod	_	_
+1198	при	при	ADP	_	_	1199	case	_	_
+1199	смене	смена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1195	parataxis	_	_
+1200	адресата	адресат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1199	nmod	_	_
+1201	,	,	PUNCT	_	_	1202	punct	_	_
+1202	продолжая	продолжать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1212	advcl	_	_
+1203	при	при	ADP	_	_	1204	case	_	_
+1204	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1202	obl	_	_
+1205	обсуждать	обсуждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1202	xcomp	_	_
+1206	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing	1208	det	_	_
+1207	же	же	PART	_	_	1206	advmod	_	_
+1208	тему	тема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1205	obj	_	_
+1209	,	,	PUNCT	_	_	1202	punct	_	_
+1210	то	то	SCONJ	_	_	1212	mark	_	_
+1211	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1212	nsubj	_	_
+1212	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1213	,	,	PUNCT	_	_	1218	punct	_	_
+1214	что	что	SCONJ	_	_	1218	mark	_	_
+1215	в	в	ADP	_	_	1217	case	_	_
+1216	нашем	наш	DET	_	Case=Loc|Gender=Neut|Number=Sing	1217	det	_	_
+1217	распоряжении	распоряжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1218	obl	_	_
+1218	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1212	ccomp	_	_
+1219	набор	набор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1218	nsubj	_	_
+1220	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1219	nmod	_	_
+1221	,	,	PUNCT	_	_	1222	punct	_	_
+1222	позволяющий	позволять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1219	acl	_	_
+1223	об	об	ADP	_	_	1228	case	_	_
+1224	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1228	amod	_	_
+1225	и	и	CCONJ	_	_	1226	cc	_	_
+1226	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	1224	det	_	_
+1227	же	же	PART	_	_	1226	advmod	_	_
+1228	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1222	xcomp	_	_
+1229	по	по	ADV	_	Degree=Pos	1228	advmod	_	_
+1230	-	-	ADV	_	Degree=Pos	1228	advmod	_	_
+1231	разному	разный	ADV	_	Degree=Pos	1228	advmod	_	_
+1232	.	.	PUNCT	_	_	1212	punct	_	_
+
+
+1233	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1236	nsubj	_	_
+1234	чрезвычайно	чрезвычайно	ADV	_	Degree=Pos	1235	advmod	_	_
+1235	важное	важный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1236	amod	_	_
+1236	свойство	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+1237	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1236	nmod	_	_
+1238	,	,	PUNCT	_	_	1239	punct	_	_
+1239	обеспечивающее	обеспечивать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1236	acl	_	_
+1240	говорящему	говорить	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1241	amod	_	_
+1241	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1239	obj	_	_
+1242	не	не	PART	_	Polarity=Neg	1244	cc	_	_
+1243	только	только	PART	_	_	1242	fixed	_	_
+1244	свободно	свободно	ADV	_	Degree=Pos	1245	advmod	_	_
+1245	выражать	выражать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1241	nmod	_	_
+1246	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur	1247	det	_	_
+1247	мысли	мысль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1245	obj	_	_
+1248	на	на	ADP	_	_	1250	case	_	_
+1249	данном	данном	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1250	amod	_	_
+1250	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1245	obl	_	_
+1251	,	,	PUNCT	_	_	1254	punct	_	_
+1252	но	но	CCONJ	_	_	1254	cc	_	_
+1253	и	и	CCONJ	_	_	1252	fixed	_	_
+1254	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1245	conj	_	_
+1255	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1254	obj	_	_
+1256	разными	разный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1257	amod	_	_
+1257	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1254	obl	_	_
+1258	.	.	PUNCT	_	_	1236	punct	_	_
+
+
+1259	Умение	умение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1271	nsubj	_	_
+1260	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1259	nmod	_	_
+1261	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1260	nmod	_	_
+1262	по	по	ADV	_	Degree=Pos	1265	advmod	_	_
+1263	-	-	ADV	_	Degree=Pos	1265	advmod	_	_
+1264	разному	разный	ADV	_	Degree=Pos	1265	advmod	_	_
+1265	выражать	выражать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1259	nmod	_	_
+1266	один	один	DET	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1270	amod	_	_
+1267	и	и	CCONJ	_	_	1268	cc	_	_
+1268	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	1266	det	_	_
+1269	же	же	PART	_	_	1268	advmod	_	_
+1270	смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1265	obj	_	_
+1271	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1272	его	он	DET	_	_	1273	det	_	_
+1273	способностью	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1271	xcomp	_	_
+1274	к	к	ADP	_	_	1275	case	_	_
+1275	перифразированию	перифразированию	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1273	nmod	_	_
+1276	.	.	PUNCT	_	_	1271	punct	_	_
+
+
+1277	Эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	1278	det	_	_
+1278	способность	способность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1295	nsubj	_	_
+1279	,	,	PUNCT	_	_	1280	punct	_	_
+1280	наряду	наряду	ADV	_	Degree=Pos	1295	advmod	_	_
+1281	со	со	ADP	_	_	1282	case	_	_
+1282	способностью	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1280	obl	_	_
+1283	извлекать	извлекать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1282	nmod	_	_
+1284	смысл	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1283	obj	_	_
+1285	из	из	ADP	_	_	1286	case	_	_
+1286	сказанного	сказать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1283	obl	_	_
+1287	и	и	CCONJ	_	_	1288	cc	_	_
+1288	умением	умение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1286	conj	_	_
+1289	отличать	отличать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1288	nmod	_	_
+1290	правильные	правильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1291	amod	_	_
+1291	фразы	фраза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1289	obj	_	_
+1292	от	от	ADP	_	_	1293	case	_	_
+1293	неправильных	неправильный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1289	obl	_	_
+1294	,	,	PUNCT	_	_	1280	punct	_	_
+1295	лежит	лежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1296	в	в	ADP	_	_	1297	case	_	_
+1297	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1295	obl	_	_
+1298	сложного	сложный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1300	amod	_	_
+1299	психического	психический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1300	amod	_	_
+1300	навыка	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1297	nmod	_	_
+1301	,	,	PUNCT	_	_	1302	punct	_	_
+1302	называемого	называть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1300	acl	_	_
+1303	владение	владение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1302	obj	_	_
+1304	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1303	nmod	_	_
+1305	(	(	PUNCT	_	_	1306	punct	_	_
+1306	см.	см.	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1304	parataxis	_	_
+1307	разд	разд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1306	nmod	_	_
+1308	.	.	PUNCT	_	_	1295	punct	_	_
+
+
+1309	2.5	2.5	NUM	_	_	1310	nummod	_	_
+1310	главы	глава	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	ROOT	_	_
+1311	2	2	NUM	_	_	1310	appos	_	_
+1312	)	)	PUNCT	_	_	1310	punct	_	_
+1313	.	.	PUNCT	_	_	1310	punct	_	_
+1314	
+
+	
+
+	SPACE	_	_	1313	dep	_	_
+
+
+1315	Вариативность	вариативность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1316	nsubj	_	_
+1316	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1317	на	на	ADP	_	_	1319	case	_	_
+1318	всех	весь	DET	_	Case=Loc|Number=Plur	1319	det	_	_
+1319	уровнях	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1316	obl	_	_
+1320	речевой	речевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1321	amod	_	_
+1321	коммуникации	коммуникация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1319	nmod	_	_
+1322	–	–	PUNCT	_	_	1324	punct	_	_
+1323	от	от	ADP	_	_	1324	case	_	_
+1324	владения	владение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1321	parataxis	_	_
+1325	средствами	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1324	nmod	_	_
+1326	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1327	amod	_	_
+1327	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1325	nmod	_	_
+1328	(	(	PUNCT	_	_	1333	punct	_	_
+1329	и	и	CCONJ	_	_	1333	cc	_	_
+1330	,	,	PUNCT	_	_	1331	punct	_	_
+1331	следовательно	следовательно	ADV	_	Degree=Pos	1333	parataxis	_	_
+1332	,	,	PUNCT	_	_	1331	punct	_	_
+1333	варьирования	варьирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1327	parataxis	_	_
+1334	,	,	PUNCT	_	_	1336	punct	_	_
+1335	попеременного	попеременный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1336	amod	_	_
+1336	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1333	conj	_	_
+1337	единиц	единица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1336	nmod	_	_
+1338	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	1337	det	_	_
+1339	из	из	ADP	_	_	1340	case	_	_
+1340	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1338	nmod	_	_
+1341	в	в	ADP	_	_	1342	case	_	_
+1342	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1336	nmod	_	_
+1343	от	от	ADP	_	_	1344	case	_	_
+1344	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1342	nmod	_	_
+1345	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1344	nmod	_	_
+1346	)	)	PUNCT	_	_	1333	punct	_	_
+1347	до	до	ADP	_	_	1348	case	_	_
+1348	осознания	осознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1324	nmod	_	_
+1349	говорящим	говорить	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1348	nmod	_	_
+1350	допустимости	допустимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1348	nmod	_	_
+1351	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1355	amod	_	_
+1352	фонетических	фонетический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1355	amod	_	_
+1353	или	или	CCONJ	_	_	1354	cc	_	_
+1354	акцентных	акцентный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1352	conj	_	_
+1355	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1350	nmod	_	_
+1356	,	,	PUNCT	_	_	1357	punct	_	_
+1357	принадлежащих	принадлежать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1355	acl	_	_
+1358	одному	одному	NUM	_	Case=Dat|Gender=Masc|Number=Sing	1359	nummod	_	_
+1359	языку	язык	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1357	iobj	_	_
+1360	(	(	PUNCT	_	_	1367	punct	_	_
+1361	в	в	ADP	_	_	1365	case	_	_
+1362	современном	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1365	amod	_	_
+1363	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1365	amod	_	_
+1364	литературном	литературный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1365	amod	_	_
+1365	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1367	nmod	_	_
+1366	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1367	nsubj	_	_
+1367	варианты	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1359	parataxis	_	_
+1368	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1367	nmod	_	_
+1369	було[шн]ая	було[шн]ая	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1368	appos	_	_
+1370	/	/	PUNCT	_	_	1371	punct	_	_
+1371	було[чн]ая	було[чн]ая	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1367	amod	_	_
+1372	,	,	PUNCT	_	_	1373	punct	_	_
+1373	поднялся́	поднялся́	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1367	conj	_	_
+1374	/	/	PUNCT	_	_	1375	punct	_	_
+1375	подня́лся	подня́лся	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1316	parataxis	_	_
+1376	и	и	CCONJ	_	_	1377	cc	_	_
+1377	под	под	ADP	_	_	1375	conj	_	_
+1378	.	.	PUNCT	_	_	1377	punct	_	_
+1379	)	)	PUNCT	_	_	1316	punct	_	_
+1380	.	.	PUNCT	_	_	1316	punct	_	_
+1381	
+
+	
+
+	SPACE	_	_	1380	dep	_	_
+
+
+1382	Между	между	ADP	_	_	1384	case	_	_
+1383	этими	этот	DET	_	Case=Ins|Number=Plur	1384	det	_	_
+1384	полюсами	полюс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1385	obl	_	_
+1385	располагаются	располагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1386	многообразные	многообразный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1387	amod	_	_
+1387	виды	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1385	nsubj	_	_
+1388	языкового	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1389	amod	_	_
+1389	варьирования	варьирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1387	nmod	_	_
+1390	:	:	PUNCT	_	_	1394	punct	_	_
+1391	например	например	ADV	_	Degree=Pos	1394	parataxis	_	_
+1392	,	,	PUNCT	_	_	1391	punct	_	_
+1393	лексические	лексический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1394	amod	_	_
+1394	синонимы	синоним	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1387	parataxis	_	_
+1395	,	,	PUNCT	_	_	1397	punct	_	_
+1396	которые	которые	PRON	_	Case=Nom|Number=Plur	1397	nsubj	_	_
+1397	можно	можно	ADV	_	Degree=Pos	1394	acl:relcl	_	_
+1398	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1397	csubj	_	_
+1399	как	как	SCONJ	_	_	1400	case	_	_
+1400	варианты	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1398	obl	_	_
+1401	выражения	выражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1400	nmod	_	_
+1402	одного	одного	NUM	_	Case=Gen|Gender=Masc|Number=Sing	1406	amod	_	_
+1403	и	и	CCONJ	_	_	1404	cc	_	_
+1404	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	1402	det	_	_
+1405	же	же	PART	_	_	1404	advmod	_	_
+1406	смысла	смысл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1401	nmod	_	_
+1407	(	(	PUNCT	_	_	1408	punct	_	_
+1408	увеличиваться	увеличиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1406	parataxis	_	_
+1409	–	–	PUNCT	_	_	1410	punct	_	_
+1410	усиливаться	усиливаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1408	parataxis	_	_
+1411	–	–	PUNCT	_	_	1412	punct	_	_
+1412	возрастать	возрастать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1410	parataxis	_	_
+1413	;	;	PUNCT	_	_	1414	punct	_	_
+1414	бросать	бросать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1408	conj	_	_
+1415	–	–	PUNCT	_	_	1416	punct	_	_
+1416	кидать	кидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1408	parataxis	_	_
+1417	;	;	PUNCT	_	_	1408	punct	_	_
+1418	подлинник	подлинник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1420	nsubj	_	_
+1419	–	–	PUNCT	_	_	1420	punct	_	_
+1420	оригинал	оригинал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1387	parataxis	_	_
+1421	;	;	PUNCT	_	_	1424	punct	_	_
+1422	огромный	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1424	nsubj	_	_
+1423	–	–	PUNCT	_	_	1424	punct	_	_
+1424	громадный	громадный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1420	conj	_	_
+1425	;	;	PUNCT	_	_	1430	punct	_	_
+1426	лишь	лишь	PART	_	_	1430	advmod	_	_
+1427	–	–	PUNCT	_	_	1426	punct	_	_
+1428	только	только	PART	_	_	1430	advmod	_	_
+1429	и	и	PART	_	_	1430	advmod	_	_
+1430	т	т	PROPN	_	_	1387	conj	_	_
+1431	.	.	PUNCT	_	_	1432	punct	_	_
+1432	п.	п.	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1430	appos	_	_
+1433	)	)	PUNCT	_	_	1385	punct	_	_
+1434	,	,	PUNCT	_	_	1436	punct	_	_
+1435	однокоренные	однокоренные	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1436	amod	_	_
+1436	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1385	nsubj	_	_
+1437	(	(	PUNCT	_	_	1438	punct	_	_
+1438	замораживание	замораживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1436	parataxis	_	_
+1439	–	–	PUNCT	_	_	1440	punct	_	_
+1440	заморозка	заморозка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1438	parataxis	_	_
+1441	;	;	PUNCT	_	_	1438	punct	_	_
+1442	стимулирование	стимулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1438	conj	_	_
+1443	–	–	PUNCT	_	_	1444	punct	_	_
+1444	стимуляция	стимуляция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1438	parataxis	_	_
+1445	;	;	PUNCT	_	_	1438	punct	_	_
+1446	эгоистический	эгоистический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1448	amod	_	_
+1447	–	–	PUNCT	_	_	1448	punct	_	_
+1448	эгоистичный	эгоистичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1438	parataxis	_	_
+1449	и	и	CCONJ	_	_	1450	cc	_	_
+1450	т	т	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1448	conj	_	_
+1451	.	.	PUNCT	_	_	1438	punct	_	_
+1452	п.	п.	PUNCT	_	_	1438	nmod	_	_
+1453	)	)	PUNCT	_	_	1438	punct	_	_
+1454	,	,	PUNCT	_	_	1457	punct	_	_
+1455	синонимические	синонимический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1457	amod	_	_
+1456	синтаксические	синтаксический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1457	amod	_	_
+1457	конструкции	конструкция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1463	nsubj	_	_
+1458	(	(	PUNCT	_	_	1460	punct	_	_
+1459	Выполняя	выполняя	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1460	amod	_	_
+1460	задание	задание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1457	parataxis	_	_
+1461	,	,	PUNCT	_	_	1460	punct	_	_
+1462	будьте	быть	AUX	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1463	cop	_	_
+1463	осторожны	осторожный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	1385	conj	_	_
+1464	.	.	PUNCT	_	_	1385	punct	_	_
+
+
+1465	–	–	PUNCT	_	_	1471	punct	_	_
+1466	Когда	когда	SCONJ	_	_	1467	mark	_	_
+1467	выполняете	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Second|Tense=Pres|VerbForm=Fin|Voice=Act	1471	advcl	_	_
+1468	задание	задание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1467	obj	_	_
+1469	,	,	PUNCT	_	_	1467	punct	_	_
+1470	будьте	быть	AUX	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1471	cop	_	_
+1471	осторожны	осторожный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	0	ROOT	_	_
+1472	.	.	PUNCT	_	_	1471	punct	_	_
+
+
+1473	–	–	PUNCT	_	_	1478	punct	_	_
+1474	При	При	ADP	_	_	1475	case	_	_
+1475	выполнении	выполнение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1478	obl	_	_
+1476	задания	задание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1475	nmod	_	_
+1477	будьте	быть	AUX	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=Second|VerbForm=Fin|Voice=Act	1478	cop	_	_
+1478	осторожны	осторожный	ADJ	_	Degree=Pos|Number=Plur|StyleVariant=Short	0	ROOT	_	_
+1479	)	)	PUNCT	_	_	1478	punct	_	_
+1480	и	и	CCONJ	_	_	1481	cc	_	_
+1481	многое	многое	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1478	conj	_	_
+1482	другое	другое	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1481	amod	_	_
+1483	.	.	PUNCT	_	_	1478	punct	_	_
+1484	
+
+	
+
+	SPACE	_	_	1483	dep	_	_
+
+
+1485	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1486	оговориться	оговориться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1485	csubj	_	_
+1487	,	,	PUNCT	_	_	1488	punct	_	_
+1488	однако	однако	ADV	_	Degree=Pos	1485	parataxis	_	_
+1489	,	,	PUNCT	_	_	1498	punct	_	_
+1490	что	что	SCONJ	_	_	1498	mark	_	_
+1491	синонимия	синонимия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1498	nsubj	_	_
+1492	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1491	nmod	_	_
+1493	и	и	CCONJ	_	_	1495	cc	_	_
+1494	синтаксических	синтаксический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1495	amod	_	_
+1495	конструкций	конструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1492	conj	_	_
+1496	очень	очень	ADV	_	Degree=Pos	1497	advmod	_	_
+1497	часто	часто	ADV	_	Degree=Pos	1498	advmod	_	_
+1498	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1488	ccomp	_	_
+1499	сопряжена	сопрячь	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1498	xcomp	_	_
+1500	с	с	ADP	_	_	1501	case	_	_
+1501	разницей	разница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1499	obl	_	_
+1502	(	(	PUNCT	_	_	1504	punct	_	_
+1503	хотя	хотя	SCONJ	_	_	1504	mark	_	_
+1504	подчас	подчас	ADV	_	Degree=Pos	1501	parataxis	_	_
+1505	и	и	CCONJ	_	_	1507	cc	_	_
+1506	весьма	весьма	ADV	_	Degree=Pos	1507	advmod	_	_
+1507	тонкой	тонкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	1504	conj	_	_
+1508	)	)	PUNCT	_	_	1504	punct	_	_
+1509	в	в	ADP	_	_	1510	case	_	_
+1510	значениях	значение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1499	obl	_	_
+1511	единиц	единица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1510	nmod	_	_
+1512	,	,	PUNCT	_	_	1513	punct	_	_
+1513	образующих	образовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1511	acl	_	_
+1514	синонимический	синонимический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1515	amod	_	_
+1515	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1513	obj	_	_
+1516	:	:	PUNCT	_	_	1518	punct	_	_
+1517	ветер	ветер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1518	nsubj	_	_
+1518	усиливается	усиливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1515	parataxis	_	_
+1519	,	,	PUNCT	_	_	1522	punct	_	_
+1520	но	но	CCONJ	_	_	1522	cc	_	_
+1521	не	не	PART	_	Polarity=Neg	1522	advmod	_	_
+1522	увеличивается	увеличиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1518	conj	_	_
+1523	и	и	CCONJ	_	_	1525	cc	_	_
+1524	не	не	PART	_	Polarity=Neg	1525	advmod	_	_
+1525	возрастает	возрастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1518	conj	_	_
+1526	;	;	PUNCT	_	_	1518	punct	_	_
+1527	трудности	трудность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1528	nsubj	_	_
+1528	возрастают	возрастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1518	conj	_	_
+1529	,	,	PUNCT	_	_	1532	punct	_	_
+1530	но	но	CCONJ	_	_	1532	cc	_	_
+1531	не	не	PART	_	Polarity=Neg	1532	advmod	_	_
+1532	усиливаются	усиливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1528	conj	_	_
+1533	;	;	PUNCT	_	_	1534	punct	_	_
+1534	бросить	бросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1528	conj	_	_
+1535	,	,	PUNCT	_	_	1536	punct	_	_
+1536	кинуть	кинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1528	conj	_	_
+1537	камень	камень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1536	obj	_	_
+1538	(	(	PUNCT	_	_	1539	punct	_	_
+1539	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1537	appos	_	_
+1540	)	)	PUNCT	_	_	1539	punct	_	_
+1541	,	,	PUNCT	_	_	1544	punct	_	_
+1542	но	но	CCONJ	_	_	1544	cc	_	_
+1543	только	только	PART	_	_	1544	advmod	_	_
+1544	бросить	бросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1528	conj	_	_
+1545	курить	курить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1544	xcomp	_	_
+1546	(	(	PUNCT	_	_	1547	punct	_	_
+1547	не	не	PART	_	Polarity=Neg	1545	parataxis	_	_
+1548	:	:	PUNCT	_	_	1551	punct	_	_
+1549	*	*	PUNCT	_	_	1551	punct	_	_
+1550	кинутъ	кинутъ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1551	obj	_	_
+1551	курить	курить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1547	parataxis	_	_
+1552	)	)	PUNCT	_	_	1547	punct	_	_
+1553	;	;	PUNCT	_	_	1556	punct	_	_
+1554	только	только	PART	_	_	1555	advmod	_	_
+1555	не	не	PART	_	Polarity=Neg	1556	advmod	_	_
+1556	уходи	уходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	1485	conj	_	_
+1557	–	–	PUNCT	_	_	1558	punct	_	_
+1558	лучше	хороший	ADJ	_	Degree=Cmp	1556	parataxis	_	_
+1559	,	,	PUNCT	_	_	1563	punct	_	_
+1560	чем	чем	SCONJ	_	_	1563	mark	_	_
+1561	лишь	лишь	PART	_	_	1563	advmod	_	_
+1562	не	не	PART	_	Polarity=Neg	1563	advmod	_	_
+1563	уходи	уходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	1558	advcl	_	_
+1564	,	,	PUNCT	_	_	1566	punct	_	_
+1565	и	и	CCONJ	_	_	1566	cc	_	_
+1566	т	т	CCONJ	_	_	1558	conj	_	_
+1567	.	.	PUNCT	_	_	1566	punct	_	_
+
+
+1568	д.	д.	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1585	nsubj:pass	_	_
+1569	
+
+	
+
+	SPACE	_	_	1568	dep	_	_
+1570	Поэтому	поэтому	ADV	_	Degree=Pos	1585	advmod	_	_
+1571	в	в	ADP	_	_	1573	case	_	_
+1572	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	1573	amod	_	_
+1573	лингвистике	лингвистика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1585	obl	_	_
+1574	по	по	ADP	_	_	1578	case	_	_
+1575	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1574	fixed	_	_
+1576	к	к	ADP	_	_	1574	fixed	_	_
+1577	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	1578	amod	_	_
+1578	видам	вид	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1585	obl	_	_
+1579	синонимии	синонимия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1578	nmod	_	_
+1580	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1579	nmod	_	_
+1581	варианта	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1580	nmod	_	_
+1582	и	и	CCONJ	_	_	1583	cc	_	_
+1583	вариативности	вариативность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1581	conj	_	_
+1584	не	не	PART	_	Polarity=Neg	1585	advmod	_	_
+1585	используются	использоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+1586	.	.	PUNCT	_	_	1585	punct	_	_
+
+
+1587	Они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	1588	nsubj:pass	_	_
+1588	применяются	применяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+1589	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1590	amod	_	_
+1590	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1588	obl	_	_
+1591	к	к	ADP	_	_	1593	case	_	_
+1592	таким	такой	DET	_	Case=Dat|Number=Plur	1593	det	_	_
+1593	различиям	различие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1588	obl	_	_
+1594	языковых	языковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1595	amod	_	_
+1595	единиц	единица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1593	nmod	_	_
+1596	,	,	PUNCT	_	_	1599	punct	_	_
+1597	которые	которые	PRON	_	Case=Nom|Number=Plur	1599	nsubj:pass	_	_
+1598	не	не	PART	_	Polarity=Neg	1599	advmod	_	_
+1599	связаны	связать	VERB	_	Aspect=Perf|Number=Plur|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1595	acl:relcl	_	_
+1600	с	с	ADP	_	_	1601	case	_	_
+1601	разницей	разница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1599	obl	_	_
+1602	в	в	ADP	_	_	1604	case	_	_
+1603	их	они	DET	_	_	1604	det	_	_
+1604	значении	значение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1601	nmod	_	_
+1605	.	.	PUNCT	_	_	1588	punct	_	_
+
+
+1606	Иначе	иначе	ADV	_	Degree=Pos	1614	advmod	_	_
+1607	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1614	parataxis	_	_
+1608	,	,	PUNCT	_	_	1607	punct	_	_
+1609	вариативность	вариативность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1614	nsubj	_	_
+1610	–	–	PUNCT	_	_	1609	punct	_	_
+1611	это	это	PART	_	_	1614	expl	_	_
+1612	прежде	прежде	ADV	_	_	1614	advmod	_	_
+1613	всего	всего	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1612	fixed	_	_
+1614	несоответствия	несоответствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	ROOT	_	_
+1615	во	в	ADP	_	_	1617	case	_	_
+1616	внешнем	внешний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1617	amod	_	_
+1617	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1614	nmod	_	_
+1618	,	,	PUNCT	_	_	1620	punct	_	_
+1619	в	в	ADP	_	_	1620	case	_	_
+1620	форме	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1617	conj	_	_
+1621	языковых	языковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1622	amod	_	_
+1622	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1620	nmod	_	_
+1623	,	,	PUNCT	_	_	1625	punct	_	_
+1624	которые	которые	PRON	_	Case=Nom|Number=Plur	1625	nsubj	_	_
+1625	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1622	acl:relcl	_	_
+1626	один	один	DET	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1630	amod	_	_
+1627	и	и	CCONJ	_	_	1628	cc	_	_
+1628	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	1626	det	_	_
+1629	же	же	PART	_	_	1628	advmod	_	_
+1630	смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1625	obj	_	_
+1631	.	.	PUNCT	_	_	1614	punct	_	_
+1632	
+
+	
+
+	SPACE	_	_	1631	dep	_	_
+
+
+1633	С	с	ADP	_	_	1635	case	_	_
+1634	социолингвистической	социолингвистической	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1635	amod	_	_
+1635	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1639	obl	_	_
+1636	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1635	compound	_	_
+1637	явление	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1639	nsubj	_	_
+1638	вариативности	вариативность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1637	nmod	_	_
+1639	заслуживает	заслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1640	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1639	obj	_	_
+1641	постольку	постольку	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=First|Tense=Fut|VerbForm=Fin|Voice=Act	1639	advmod	_	_
+1642	,	,	PUNCT	_	_	1647	punct	_	_
+1643	поскольку	поскольку	SCONJ	_	_	1647	mark	_	_
+1644	разные	разный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1646	amod	_	_
+1645	языковые	языковой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1646	amod	_	_
+1646	варианты	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1647	nsubj	_	_
+1647	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1641	advcl	_	_
+1648	использоваться	использоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	1647	xcomp	_	_
+1649	в	в	ADP	_	_	1650	case	_	_
+1650	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1648	obl	_	_
+1651	а	а	CCONJ	_	_	1650	nmod	_	_
+1652	)	)	PUNCT	_	_	1647	punct	_	_
+1653	от	от	ADP	_	_	1655	case	_	_
+1654	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1655	amod	_	_
+1655	различий	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1647	obl	_	_
+1656	между	между	ADP	_	_	1657	case	_	_
+1657	носителями	носитель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1655	nmod	_	_
+1658	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1657	nmod	_	_
+1659	и	и	CCONJ	_	_	1660	cc	_	_
+1660	б	б	PROPN	_	_	1658	conj	_	_
+1661	)	)	PUNCT	_	_	1647	punct	_	_
+1662	от	от	ADP	_	_	1663	case	_	_
+1663	различий	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1647	obl	_	_
+1664	в	в	ADP	_	_	1665	case	_	_
+1665	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1663	nmod	_	_
+1666	речевого	речевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1667	amod	_	_
+1667	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1665	nmod	_	_
+1668	.	.	PUNCT	_	_	1639	punct	_	_
+1669	
+
+	
+
+	SPACE	_	_	1668	dep	_	_
+
+
+1670	Так	так	ADV	_	Degree=Pos	1687	parataxis	_	_
+1671	,	,	PUNCT	_	_	1670	punct	_	_
+1672	проведенное	провести	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1676	acl	_	_
+1673	московскими	московский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1674	amod	_	_
+1674	лингвистами	лингвист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	1672	obl:agent	_	_
+1675	социолингвистическое	социолингвистическое	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1676	amod	_	_
+1676	исследование	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1687	nsubj	_	_
+1677	фонетических	фонетический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1678	amod	_	_
+1678	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1676	nmod	_	_
+1679	,	,	PUNCT	_	_	1680	punct	_	_
+1680	допускаемых	допускать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	1678	acl	_	_
+1681	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1680	obl	_	_
+1682	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1685	amod	_	_
+1683	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1685	amod	_	_
+1684	литературного	литературный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1685	amod	_	_
+1685	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1681	nmod	_	_
+1686	,	,	PUNCT	_	_	1680	punct	_	_
+1687	установило	установить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1688	определенную	определённый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	1689	amod	_	_
+1689	зависимость	зависимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1687	obj	_	_
+1690	между	между	ADP	_	_	1692	case	_	_
+1691	такими	такой	DET	_	Case=Ins|Number=Plur	1692	det	_	_
+1692	характеристиками	характеристика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	1689	nmod	_	_
+1693	носителей	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1692	nmod	_	_
+1694	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1693	nmod	_	_
+1695	,	,	PUNCT	_	_	1697	punct	_	_
+1696	как	как	SCONJ	_	_	1697	case	_	_
+1697	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1689	acl	_	_
+1698	,	,	PUNCT	_	_	1699	punct	_	_
+1699	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1697	conj	_	_
+1700	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1699	nmod	_	_
+1701	,	,	PUNCT	_	_	1702	punct	_	_
+1702	профессия	профессия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1697	conj	_	_
+1703	,	,	PUNCT	_	_	1704	punct	_	_
+1704	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1697	conj	_	_
+1705	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1704	nmod	_	_
+1706	и др.	и др.	PUNCT	_	_	1687	punct	_	_
+1707	,	,	PUNCT	_	_	1710	punct	_	_
+1708	и	и	CCONJ	_	_	1710	cc	_	_
+1709	теми	тот	DET	_	Case=Ins|Number=Plur	1710	det	_	_
+1710	предпочтениями	предпочтение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1687	conj	_	_
+1711	,	,	PUNCT	_	_	1714	punct	_	_
+1712	которые	которые	PRON	_	Animacy=Inan|Case=Acc|Number=Plur	1714	obj	_	_
+1713	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	1714	nsubj	_	_
+1714	оказывают	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1710	acl:relcl	_	_
+1715	вариантам	вариант	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1714	iobj	_	_
+1716	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1715	nmod	_	_
+1717	[	[	PUNCT	_	_	1718	punct	_	_
+1718	з́в́]ерь	з́в́]ерь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1716	appos	_	_
+1719	/	/	PUNCT	_	_	1721	punct	_	_
+1720	[	[	PUNCT	_	_	1721	punct	_	_
+1721	Зв	зв	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	1718	appos	_	_
+1722	́]ерь	́]ерь	X	_	Foreign=Yes	1721	flat:name	_	_
+1723	,	,	PUNCT	_	_	1725	punct	_	_
+1724	[	[	PUNCT	_	_	1725	punct	_	_
+1725	шы]ги́	шы]ги́	NUM	_	_	1721	conj	_	_
+1726	/	/	PUNCT	_	_	1728	punct	_	_
+1727	[	[	PUNCT	_	_	1728	punct	_	_
+1728	шʌ]ги́	шʌ]ги́	NUM	_	_	1725	nmod	_	_
+1729	,	,	PUNCT	_	_	1730	punct	_	_
+1730	е́[ж̅']у	е́[ж̅']у	NUM	_	_	1728	conj	_	_
+1731	/е́[ж̅]у	/е́[ж̅]у	X	_	Foreign=Yes	1730	flat:foreign	_	_
+1732	и	и	CCONJ	_	_	1733	cc	_	_
+1733	под	под	ADP	_	_	1728	conj	_	_
+1734	.	.	PUNCT	_	_	1687	punct	_	_
+
+
+1735	Оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1736	,	,	PUNCT	_	_	1755	punct	_	_
+1737	что	что	SCONJ	_	_	1755	mark	_	_
+1738	,	,	PUNCT	_	_	1737	punct	_	_
+1739	например	например	ADV	_	Degree=Pos	1755	parataxis	_	_
+1740	,	,	PUNCT	_	_	1739	punct	_	_
+1741	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1742	amod	_	_
+1742	произношение	произношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1755	nsubj	_	_
+1743	звукосочетаний	звукосочетание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1742	nmod	_	_
+1744	зж	зж	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1743	nmod	_	_
+1745	,	,	PUNCT	_	_	1746	punct	_	_
+1746	жж	жж	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1744	appos	_	_
+1747	как	как	SCONJ	_	_	1749	case	_	_
+1748	[	[	PUNCT	_	_	1749	punct	_	_
+1749	ж̅	ж̅	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1746	acl	_	_
+1750	]	]	PUNCT	_	_	1749	punct	_	_
+1751	в	в	ADP	_	_	1752	case	_	_
+1752	словах	слово	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1742	nmod	_	_
+1753	езжу	езжу	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	1752	nmod	_	_
+1754	,	,	PUNCT	_	_	1755	punct	_	_
+1755	брызжет	брызгать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1735	ccomp	_	_
+1756	,	,	PUNCT	_	_	1757	punct	_	_
+1757	жужжать	жужжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1755	conj	_	_
+1758	,	,	PUNCT	_	_	1759	punct	_	_
+1759	вожжи	вожжи	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1755	conj	_	_
+1760	,	,	PUNCT	_	_	1762	punct	_	_
+1761	дрожжи	дрожжи	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1762	nsubj:pass	_	_
+1762	представлено	представить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|StyleVariant=Short|Tense=Past|VerbForm=Part|Voice=Pass	1755	conj	_	_
+1763	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1764	amod	_	_
+1764	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1762	obl	_	_
+1765	в	в	ADP	_	_	1766	case	_	_
+1766	речи	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1762	obl	_	_
+1767	старшего	старший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1768	amod	_	_
+1768	поколения	поколение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1766	nmod	_	_
+1769	,	,	PUNCT	_	_	1773	punct	_	_
+1770	а	а	CCONJ	_	_	1773	cc	_	_
+1771	молодежи	молодёжь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1773	iobj	_	_
+1772	больше	больше	ADV	_	Degree=Cmp	1773	advmod	_	_
+1773	свойственно	свойственный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	1755	conj	_	_
+1774	произношение	произношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1773	nsubj	_	_
+1775	твердого	твёрдый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1776	amod	_	_
+1776	долгого	долгий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1777	amod	_	_
+1777	ж	ж	PART	_	_	1774	nmod	_	_
+1778	:	:	PUNCT	_	_	1780	punct	_	_
+1779	[	[	PUNCT	_	_	1780	punct	_	_
+1780	ж̅	ж̅	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1777	parataxis	_	_
+1781	]	]	PUNCT	_	_	1780	punct	_	_
+1782	.	.	PUNCT	_	_	1735	punct	_	_
+
+
+1783	Москвичи	москвич	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1787	nsubj	_	_
+1784	старшего	старший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1785	amod	_	_
+1785	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1783	nmod	_	_
+1786	еще	ещё	ADV	_	Degree=Pos	1787	advmod	_	_
+1787	сохраняют	сохранять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1788	произношение	произношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1787	obj	_	_
+1789	[	[	PUNCT	_	_	1790	punct	_	_
+1790	шы]ги́	шы]ги́	NUM	_	_	1788	appos	_	_
+1791	,	,	PUNCT	_	_	1793	punct	_	_
+1792	[	[	PUNCT	_	_	1793	punct	_	_
+1793	жы]ра́	жы]ра́	NUM	_	_	1790	conj	_	_
+1794	,	,	PUNCT	_	_	1805	punct	_	_
+1795	а	а	CCONJ	_	_	1805	cc	_	_
+1796	в	в	ADP	_	_	1797	case	_	_
+1797	речи	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1805	obl	_	_
+1798	других	других	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1799	amod	_	_
+1799	групп	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1797	nmod	_	_
+1800	говорящих	говорить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1799	nmod	_	_
+1801	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	1802	det	_	_
+1802	черта	черта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1800	obj	_	_
+1803	почти	почти	ADV	_	Degree=Pos	1804	advmod	_	_
+1804	не	не	PART	_	Polarity=Neg	1805	advmod	_	_
+1805	встречается»11	встречается»11	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1790	conj	_	_
+1806	.	.	PUNCT	_	_	1787	punct	_	_
+
+
+1807	Ассимилятивное	ассимилятивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1808	amod	_	_
+1808	произношение	произношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+1809	согласного	согласный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1808	nmod	_	_
+1810	,	,	PUNCT	_	_	1811	punct	_	_
+1811	т	т	NOUN	_	_	1808	parataxis	_	_
+1812	.	.	PUNCT	_	_	1808	punct	_	_
+
+
+1813	е	е	NOUN	_	_	0	ROOT	_	_
+1814	.	.	PUNCT	_	_	1813	punct	_	_
+
+
+1815	смягчение	смягчение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1841	nsubj	_	_
+1816	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=Third	1815	nmod	_	_
+1817	перед	перед	ADP	_	_	1820	case	_	_
+1818	следующим	следующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1820	amod	_	_
+1819	мягким	мягкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1820	amod	_	_
+1820	согласным	согласный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1815	nmod	_	_
+1821	:	:	PUNCT	_	_	1824	punct	_	_
+1822	[	[	PUNCT	_	_	1823	punct	_	_
+1823	з	з	INTJ	_	_	1824	case	_	_
+1824	в	в	ADP	_	_	1820	parataxis	_	_
+1825	'	'	PUNCT	_	_	1824	punct	_	_
+1826	]	]	PUNCT	_	_	1824	punct	_	_
+1827	ерь	ерь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1820	parataxis	_	_
+1828	,	,	PUNCT	_	_	1830	punct	_	_
+1829	[	[	PUNCT	_	_	1830	punct	_	_
+1830	с'т	с'т	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1820	parataxis	_	_
+1831	'	'	PUNCT	_	_	1830	punct	_	_
+1832	]	]	PUNCT	_	_	1830	punct	_	_
+1833	ена	ена	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1830	obj	_	_
+1834	,	,	PUNCT	_	_	1836	punct	_	_
+1835	[	[	PUNCT	_	_	1836	punct	_	_
+1836	з'л']шиься	з'л']шиься	PROPN	_	_	1815	punct	_	_
+1837	–	–	PUNCT	_	_	1841	punct	_	_
+1838	в	в	ADP	_	_	1839	case	_	_
+1839	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1841	obl	_	_
+1840	рабочих	рабочий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1839	nmod	_	_
+1841	встречается	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1842	реже	реже	ADV	_	Degree=Cmp	1841	advmod	_	_
+1843	,	,	PUNCT	_	_	1846	punct	_	_
+1844	чем	чем	SCONJ	_	_	1846	mark	_	_
+1845	в	в	ADP	_	_	1846	case	_	_
+1846	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1842	obl	_	_
+1847	гуманитарной	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1848	amod	_	_
+1848	интеллигенции	интеллигенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1846	nmod	_	_
+1849	,	,	PUNCT	_	_	1851	punct	_	_
+1850	а	а	CCONJ	_	_	1851	cc	_	_
+1851	произношение	произношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1841	conj	_	_
+1852	ко[н	ко[н	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1851	nmod	_	_
+1853	ф	ф	X	_	Foreign=Yes	1851	nmod	_	_
+1854	]	]	PUNCT	_	_	1853	punct	_	_
+1855	ёта	ёта	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1851	nmod	_	_
+1856	,	,	PUNCT	_	_	1857	punct	_	_
+1857	ла[ф	ла[ф	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1863	nsubj	_	_
+1858	}	}	PUNCT	_	_	1859	punct	_	_
+1859	ки	ки	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1857	nmod	_	_
+1860	(	(	PUNCT	_	_	1861	punct	_	_
+1861	лавки	лавка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1859	appos	_	_
+1862	)	)	PUNCT	_	_	1861	punct	_	_
+1863	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	1841	conj	_	_
+1864	за	за	ADP	_	_	1865	case	_	_
+1865	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1863	obl	_	_
+1866	литературной	литературный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1867	amod	_	_
+1867	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1865	nmod	_	_
+1868	и	и	CCONJ	_	_	1870	cc	_	_
+1869	свойственно	свойственный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|StyleVariant=Short	1870	advmod	_	_
+1870	просторечию	просторечию	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1863	conj	_	_
+1871	или	или	CCONJ	_	_	1873	cc	_	_
+1872	диалектной	диалектный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	1873	amod	_	_
+1873	речи	речь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1870	conj	_	_
+1874	.	.	PUNCT	_	_	1841	punct	_	_
+1875	
+
+	
+
+	SPACE	_	_	1874	dep	_	_
+
+
+1876	У.	у.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1878	nsubj	_	_
+1877	Лабов	лабов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1878	nsubj	_	_
+1878	обнаружил	обнаружить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1879	похожие	похожий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	1880	amod	_	_
+1880	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1878	obj	_	_
+1881	в	в	ADP	_	_	1884	case	_	_
+1882	современном	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1884	amod	_	_
+1883	американском	американский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1884	amod	_	_
+1884	варианте	вариант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1880	nmod	_	_
+1885	английского	английский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1886	amod	_	_
+1886	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1884	nmod	_	_
+1887	.	.	PUNCT	_	_	1878	punct	_	_
+
+
+1888	Так	так	ADV	_	Degree=Pos	1891	parataxis	_	_
+1889	,	,	PUNCT	_	_	1888	punct	_	_
+1890	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1891	nsubj	_	_
+1891	установил	установить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+1892	,	,	PUNCT	_	_	1893	punct	_	_
+1893	что	что	SCONJ	_	_	1891	ccomp	_	_
+1894	начальный	начальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1895	amod	_	_
+1895	согласный	согласный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1893	discourse	_	_
+1896	в	в	ADP	_	_	1898	case	_	_
+1897	таких	такой	DET	_	Case=Loc|Number=Plur	1898	det	_	_
+1898	словах	слово	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1895	nmod	_	_
+1899	,	,	PUNCT	_	_	1901	punct	_	_
+1900	как	как	SCONJ	_	_	1901	case	_	_
+1901	thin	thin	X	_	Foreign=Yes	1895	appos	_	_
+1902	'	'	PUNCT	_	_	1901	punct	_	_
+1903	тонкий	тонкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1901	amod	_	_
+1904	'	'	PUNCT	_	_	1901	punct	_	_
+1905	,	,	PUNCT	_	_	1906	punct	_	_
+1906	thick	thick	X	_	Foreign=Yes	1895	appos	_	_
+1907	'	'	PUNCT	_	_	1908	punct	_	_
+1908	толстый	толстый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1906	flat:name	_	_
+1909	'	'	PUNCT	_	_	1908	punct	_	_
+1910	и	и	CCONJ	_	_	1911	cc	_	_
+1911	под	под	ADP	_	_	1895	conj	_	_
+1912	.	.	PUNCT	_	_	1891	punct	_	_
+
+
+1913	реализуется	реализоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+1914	по	по	ADV	_	Degree=Pos	1913	advmod	_	_
+1915	-	-	ADV	_	Degree=Pos	1913	advmod	_	_
+1916	разному	разный	ADV	_	Degree=Pos	1913	advmod	_	_
+1917	в	в	ADP	_	_	1918	case	_	_
+1918	речи	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1913	obl	_	_
+1919	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1918	nmod	_	_
+1920	высших	высокий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1922	amod	_	_
+1921	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1922	amod	_	_
+1922	слоев	слой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1919	nmod	_	_
+1923	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1924	amod	_	_
+1924	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1922	nmod	_	_
+1925	(	(	PUNCT	_	_	1927	punct	_	_
+1926	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1927	nsubj	_	_
+1927	назвал	назвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1918	parataxis	_	_
+1928	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	1929	det	_	_
+1929	вариант	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1927	obj	_	_
+1930	престижным	престижный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1927	xcomp	_	_
+1931	)	)	PUNCT	_	_	1927	punct	_	_
+1932	и	и	CCONJ	_	_	1934	cc	_	_
+1933	в	в	ADP	_	_	1934	case	_	_
+1934	речи	речь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1918	conj	_	_
+1935	других	других	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1937	amod	_	_
+1936	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1937	amod	_	_
+1937	групп	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1934	nmod	_	_
+1938	.	.	PUNCT	_	_	1913	punct	_	_
+
+
+1939	Негры	негр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1941	nsubj	_	_
+1940	–	–	PUNCT	_	_	1941	punct	_	_
+1941	носители	носитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	ROOT	_	_
+1942	American	american	X	_	Foreign=Yes	1941	nmod	_	_
+1943	English	english	X	_	Foreign=Yes	1942	flat:foreign	_	_
+1944	значительно	значительно	ADV	_	Degree=Pos	1945	advmod	_	_
+1945	чаще	чаще	ADV	_	Degree=Cmp	1941	advmod	_	_
+1946	,	,	PUNCT	_	_	1949	punct	_	_
+1947	чем	чем	SCONJ	_	_	1949	mark	_	_
+1948	другие	другие	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1949	amod	_	_
+1949	группы	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1945	obl	_	_
+1950	говорящих	говорить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1949	nmod	_	_
+1951	,	,	PUNCT	_	_	1952	punct	_	_
+1952	опускают	опускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1941	conj	_	_
+1953	согласный	согласный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1955	amod	_	_
+1954	<	<	PUNCT	_	_	1955	punct	_	_
+1955	г	г	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1952	obj	_	_
+1956	>	>	PUNCT	_	_	1958	punct	_	_
+1957	в	в	ADP	_	_	1958	case	_	_
+1958	позиции	позиция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1955	parataxis	_	_
+1959	перед	перед	ADP	_	_	1960	case	_	_
+1960	согласным	согласный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1958	nmod	_	_
+1961	,	,	PUNCT	_	_	1962	punct	_	_
+1962	т	т	CCONJ	_	_	1958	conj	_	_
+1963	.	.	PUNCT	_	_	1941	punct	_	_
+
+
+1964	е	е	NOUN	_	_	0	ROOT	_	_
+1965	.	.	PUNCT	_	_	1964	punct	_	_
+
+
+1966	при	при	ADP	_	_	1967	case	_	_
+1967	произношении	произношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1972	obl	_	_
+1968	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1967	nmod	_	_
+1969	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1968	nmod	_	_
+1970	first	first	X	_	Foreign=Yes	1969	appos	_	_
+1971	'	'	PUNCT	_	_	1970	punct	_	_
+1972	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	ROOT	_	_
+1973	'	'	PUNCT	_	_	1972	punct	_	_
+1974	.	.	PUNCT	_	_	1972	punct	_	_
+1975	
+
+	
+
+	SPACE	_	_	1974	dep	_	_
+
+
+1976	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1979	nsubj	_	_
+1977	–	–	PUNCT	_	_	1979	punct	_	_
+1978	один	один	NUM	_	Case=Nom|Gender=Masc|Number=Sing	1979	nummod	_	_
+1979	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
+1980	варьирования	варьирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1979	nmod	_	_
+1981	,	,	PUNCT	_	_	1983	punct	_	_
+1982	собственно	собственно	ADV	_	Degree=Pos	1983	advmod	_	_
+1983	социальный	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1979	amod	_	_
+1984	(	(	PUNCT	_	_	1987	punct	_	_
+1985	еще	ещё	ADV	_	Degree=Pos	1987	advmod	_	_
+1986	его	его	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=Third	1987	obj	_	_
+1987	называют	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1983	parataxis	_	_
+1988	стратификационным	стратификационным	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1987	xcomp	_	_
+1989	,	,	PUNCT	_	_	1992	punct	_	_
+1990	поскольку	поскольку	SCONJ	_	_	1992	mark	_	_
+1991	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	1992	nsubj	_	_
+1992	отражает	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	1987	advcl	_	_
+1993	стратификацию	стратификация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1992	obj	_	_
+1994	языкового	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1995	amod	_	_
+1995	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1993	nmod	_	_
+1996	на	на	ADP	_	_	1997	case	_	_
+1997	слои	слой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1993	nmod	_	_
+1998	и	и	CCONJ	_	_	1999	cc	_	_
+1999	группы	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1997	conj	_	_
+2000	)	)	PUNCT	_	_	1987	punct	_	_
+2001	.	.	PUNCT	_	_	1979	punct	_	_
+
+
+2002	У.	у.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2004	nsubj	_	_
+2003	Лабов	лабов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2004	nsubj	_	_
+2004	называет	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2005	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	2006	det	_	_
+2006	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2004	obj	_	_
+2007	варианты	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2004	obj	_	_
+2008	,	,	PUNCT	_	_	2009	punct	_	_
+2009	зависящие	зависеть	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2007	acl	_	_
+2010	от	от	ADP	_	_	2012	case	_	_
+2011	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2012	amod	_	_
+2012	характеристик	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2009	obl	_	_
+2013	говорящих	говорить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2012	nmod	_	_
+2014	,	,	PUNCT	_	_	2015	punct	_	_
+2015	индикаторами	индикатор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2012	conj	_	_
+2016	:	:	PUNCT	_	_	2021	punct	_	_
+2017	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	2018	det	_	_
+2018	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2021	nsubj	_	_
+2019	как	как	ADV	_	Degree=Pos	2021	advmod	_	_
+2020	бы	бы	AUX	_	Mood=Cnd	2019	fixed	_	_
+2021	указывает	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2015	parataxis	_	_
+2022	на	на	ADP	_	_	2024	case	_	_
+2023	социальное	социальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2024	amod	_	_
+2024	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2021	obl	_	_
+2025	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2024	nmod	_	_
+2026	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2025	nmod	_	_
+2027	[	[	PUNCT	_	_	2028	punct	_	_
+2028	Лабов	лабов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2026	appos	_	_
+2029	1975	1975	NUM	_	_	2028	appos	_	_
+2030	:	:	PUNCT	_	_	2031	punct	_	_
+2031	50	50	NUM	_	_	2028	nummod	_	_
+2032	]	]	PUNCT	_	_	2028	punct	_	_
+2033	.	.	PUNCT	_	_	2004	punct	_	_
+2034	
+
+	
+
+	SPACE	_	_	2033	dep	_	_
+
+
+2035	Кроме	кроме	ADP	_	_	2036	case	_	_
+2036	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2042	parataxis	_	_
+2037	,	,	PUNCT	_	_	2036	punct	_	_
+2038	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2042	nsubj	_	_
+2039	допускаемых	допускать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	2038	nmod	_	_
+2040	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2039	obl	_	_
+2041	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2040	nmod	_	_
+2042	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2043	зависеть	зависеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2042	xcomp	_	_
+2044	от	от	ADP	_	_	2045	case	_	_
+2045	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2043	obl	_	_
+2046	речи	речь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2045	nmod	_	_
+2047	:	:	PUNCT	_	_	2049	punct	_	_
+2048	от	от	ADP	_	_	2049	case	_	_
+2049	стиля	стиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2046	parataxis	_	_
+2050	,	,	PUNCT	_	_	2051	punct	_	_
+2051	жанра	жанр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2049	conj	_	_
+2052	,	,	PUNCT	_	_	2053	punct	_	_
+2053	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2049	conj	_	_
+2054	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2053	nmod	_	_
+2055	говорящего	говорящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2054	nmod	_	_
+2056	к	к	ADP	_	_	2058	case	_	_
+2057	собственной	собственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	2058	amod	_	_
+2058	речи	речь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2054	nmod	_	_
+2059	,	,	PUNCT	_	_	2049	case	_	_
+2060	офици	офици	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2049	conj	_	_
+2061	-	-	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2049	conj	_	_
+2062	альности	альности	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2049	conj	_	_
+2063	/	/	PUNCT	_	_	2064	punct	_	_
+2064	неофициальности	неофициальности	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2049	conj	_	_
+2065	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2064	nmod	_	_
+2066	и	и	CCONJ	_	_	2067	cc	_	_
+2067	т	т	PROPN	_	_	2065	conj	_	_
+2068	.	.	PUNCT	_	_	2042	punct	_	_
+2069	п.	п.	PUNCT	_	_	2042	punct	_	_
+
+
+2070	Одни	один	DET	_	Case=Nom|Degree=Pos|Number=Plur	2074	amod	_	_
+2071	и	и	CCONJ	_	_	2072	cc	_	_
+2072	те	тот	DET	_	Case=Nom|Number=Plur	2070	det	_	_
+2073	же	же	PART	_	_	2072	advmod	_	_
+2074	носители	носитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2076	nsubj	_	_
+2075	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2074	nmod	_	_
+2076	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2077	выбирать	выбирать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2076	xcomp	_	_
+2078	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2079	amod	_	_
+2079	варианты	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2077	obj	_	_
+2080	в	в	ADP	_	_	2081	case	_	_
+2081	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2077	obl	_	_
+2082	от	от	ADP	_	_	2084	case	_	_
+2083	указанных	указать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2084	amod	_	_
+2084	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2081	nmod	_	_
+2085	.	.	PUNCT	_	_	2076	punct	_	_
+
+
+2086	Так	так	ADV	_	Degree=Pos	2100	parataxis	_	_
+2087	,	,	PUNCT	_	_	2086	punct	_	_
+2088	в	в	ADP	_	_	2090	case	_	_
+2089	официальной	официальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2090	amod	_	_
+2090	обстановке	обстановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2100	obl	_	_
+2091	,	,	PUNCT	_	_	2094	punct	_	_
+2092	когда	когда	SCONJ	_	_	2094	mark	_	_
+2093	говорящий	говорящий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2094	nsubj	_	_
+2094	старается	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Mid	2100	advcl	_	_
+2095	контролировать	контролировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2094	xcomp	_	_
+2096	свое	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2097	det	_	_
+2097	произношение	произношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2095	obj	_	_
+2098	,	,	PUNCT	_	_	2094	punct	_	_
+2099	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Third	2100	nsubj	_	_
+2100	выбирает	выбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2101	более	более	ADV	_	Degree=Cmp	2102	advmod	_	_
+2102	отчетливые	отчётливый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2104	amod	_	_
+2103	произносительные	произносительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2104	amod	_	_
+2104	формы	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2100	obj	_	_
+2105	:	:	PUNCT	_	_	2109	punct	_	_
+2106	например	например	ADV	_	Degree=Pos	2109	parataxis	_	_
+2107	,	,	PUNCT	_	_	2106	punct	_	_
+2108	[	[	PUNCT	_	_	2109	punct	_	_
+2109	тол'кл	тол'кл	PROPN	_	Foreign=Yes	2104	parataxis	_	_
+2110	]	]	PUNCT	_	_	2109	punct	_	_
+2111	,	,	PUNCT	_	_	2113	punct	_	_
+2112	[	[	PUNCT	_	_	2113	punct	_	_
+2113	ч1	ч1	NUM	_	_	2109	conj	_	_
+2114	иллв1	иллв1	NUM	_	_	2113	appos	_	_
+2115	эк	эк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2113	appos	_	_
+2116	]	]	PUNCT	_	_	2113	punct	_	_
+2117	,	,	PUNCT	_	_	2119	punct	_	_
+2118	[	[	PUNCT	_	_	2119	punct	_	_
+2119	буд1	буд1	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2109	conj	_	_
+2120	ьт	ьт	X	_	Foreign=Yes	2119	appos	_	_
+2121	]	]	PUNCT	_	_	2119	punct	_	_
+2122	(	(	PUNCT	_	_	2125	punct	_	_
+2123	только	только	PART	_	_	2125	advmod	_	_
+2124	,	,	PUNCT	_	_	2123	punct	_	_
+2125	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2119	parataxis	_	_
+2126	,	,	PUNCT	_	_	2127	punct	_	_
+2127	будет	будет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2125	conj	_	_
+2128	)	)	PUNCT	_	_	2125	punct	_	_
+2129	,	,	PUNCT	_	_	2136	punct	_	_
+2130	а	а	CCONJ	_	_	2136	cc	_	_
+2131	в	в	ADP	_	_	2133	case	_	_
+2132	непринужденной	непринуждённый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2133	amod	_	_
+2133	обстановке	обстановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2136	obl	_	_
+2134	скорее	скорее	ADV	_	Degree=Pos	2136	advmod	_	_
+2135	всего	всего	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2134	obl	_	_
+2136	предпочтет	предпочесть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	2109	conj	_	_
+2137	варианты	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2136	nsubj	_	_
+2138	редуцированные	редуцировать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2136	nsubj	_	_
+2139	:	:	PUNCT	_	_	2141	punct	_	_
+2140	[	[	PUNCT	_	_	2141	punct	_	_
+2141	токъ	токъ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	2138	parataxis	_	_
+2142	]	]	PUNCT	_	_	2141	punct	_	_
+2143	,	,	PUNCT	_	_	2145	punct	_	_
+2144	[	[	PUNCT	_	_	2145	punct	_	_
+2145	чьллэк	чьллэк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2141	conj	_	_
+2146	]	]	PUNCT	_	_	2145	punct	_	_
+2147	и	и	CCONJ	_	_	2150	cc	_	_
+2148	даже	даже	PART	_	_	2150	advmod	_	_
+2149	[	[	PUNCT	_	_	2150	punct	_	_
+2150	ч	ч	CCONJ	_	_	2141	conj	_	_
+2151	эк	эк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2150	appos	_	_
+2152	]	]	PUNCT	_	_	2150	punct	_	_
+2153	,	,	PUNCT	_	_	2155	punct	_	_
+2154	[	[	PUNCT	_	_	2155	punct	_	_
+2155	буит	буит	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	2141	conj	_	_
+2156	]	]	PUNCT	_	_	2155	punct	_	_
+2157	и	и	CCONJ	_	_	2158	cc	_	_
+2158	под	под	ADP	_	_	2141	conj	_	_
+2159	.	.	PUNCT	_	_	2100	punct	_	_
+
+
+2160	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2163	nsubj	_	_
+2161	–	–	PUNCT	_	_	2160	punct	_	_
+2162	стилистическое	стилистический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2163	amod	_	_
+2163	варьирование	варьирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+2164	.	.	PUNCT	_	_	2163	punct	_	_
+2165	
+
+	
+
+	SPACE	_	_	2164	dep	_	_
+
+
+2166	Варианты	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2171	nsubj	_	_
+2167	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	2168	det	_	_
+2168	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2166	nmod	_	_
+2169	У.	у.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2166	appos	_	_
+2170	Лабов	лабов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2169	flat:name	_	_
+2171	называет	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2172	маркерами	маркерами	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2171	xcomp	_	_
+2173	:	:	PUNCT	_	_	2175	punct	_	_
+2174	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	2175	nsubj	_	_
+2175	маркируют	маркировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2171	parataxis	_	_
+2176	различные	различный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2177	amod	_	_
+2177	стили	стиль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2175	obj	_	_
+2178	речи	речь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2177	nmod	_	_
+2179	,	,	PUNCT	_	_	2182	punct	_	_
+2180	к	к	ADP	_	_	2181	case	_	_
+2181	которым	которым	PRON	_	Case=Dat|Number=Plur	2182	obl	_	_
+2182	принадлежат	принадлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2178	acl:relcl	_	_
+2183	разные	разный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2184	amod	_	_
+2184	варианты	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2182	nsubj	_	_
+2185	одной	одной	NUM	_	Case=Gen|Gender=Fem|Number=Sing	2187	nummod	_	_
+2186	языковой	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2187	amod	_	_
+2187	единицы	единица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2184	nmod	_	_
+2188	.	.	PUNCT	_	_	2171	punct	_	_
+2189	
+
+	
+
+	SPACE	_	_	2188	dep	_	_
+
+
+2190	Итак	итак	ADV	_	Degree=Pos	2195	parataxis	_	_
+2191	,	,	PUNCT	_	_	2190	punct	_	_
+2192	вариативность	вариативность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2195	nsubj	_	_
+2193	языковых	языковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2194	amod	_	_
+2194	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2192	nmod	_	_
+2195	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2196	от	от	ADP	_	_	2197	case	_	_
+2197	параметров	параметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2195	obl	_	_
+2198	двоякого	двоякий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2199	amod	_	_
+2199	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2197	nmod	_	_
+2200	–	–	PUNCT	_	_	2203	punct	_	_
+2201	от	от	ADP	_	_	2203	case	_	_
+2202	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2203	amod	_	_
+2203	характеристик	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2199	parataxis	_	_
+2204	носителей	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2203	nmod	_	_
+2205	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2204	nmod	_	_
+2206	(	(	PUNCT	_	_	2209	punct	_	_
+2207	и	и	CCONJ	_	_	2209	cc	_	_
+2208	тогда	тогда	ADV	_	Degree=Pos	2209	advmod	_	_
+2209	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2197	parataxis	_	_
+2210	о	о	ADP	_	_	2212	case	_	_
+2211	социальной	социальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2212	amod	_	_
+2212	дифференциации	дифференциация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2209	obl	_	_
+2213	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2212	nmod	_	_
+2214	)	)	PUNCT	_	_	2209	punct	_	_
+2215	и	и	CCONJ	_	_	2217	cc	_	_
+2216	от	от	ADP	_	_	2217	case	_	_
+2217	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2197	conj	_	_
+2218	речевого	речевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2219	amod	_	_
+2219	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2217	nmod	_	_
+2220	(	(	PUNCT	_	_	2223	punct	_	_
+2221	и	и	CCONJ	_	_	2223	cc	_	_
+2222	тогда	тогда	ADV	_	Degree=Pos	2223	advmod	_	_
+2223	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	2217	parataxis	_	_
+2224	о	о	ADP	_	_	2227	case	_	_
+2225	функциональной	функциональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2227	amod	_	_
+2226	его	он	DET	_	_	2227	det	_	_
+2227	дифференциации	дифференциация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2223	obl	_	_
+2228	)	)	PUNCT	_	_	2223	punct	_	_
+2229	.	.	PUNCT	_	_	2195	punct	_	_
+2230	
+
+	
+
+	SPACE	_	_	2229	dep	_	_
+
+
+2231	Возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2232	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2231	nsubj	_	_
+2233	:	:	PUNCT	_	_	2238	punct	_	_
+2234	на	на	ADP	_	_	2236	case	_	_
+2235	каком	какой	DET	_	Case=Loc|Gender=Neut|Number=Sing	2236	det	_	_
+2236	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2238	obl	_	_
+2237	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	2238	nsubj	_	_
+2238	говорим	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	2232	parataxis	_	_
+2239	о	о	ADP	_	_	2240	case	_	_
+2240	вариантах	вариант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2238	obl	_	_
+2241	,	,	PUNCT	_	_	2242	punct	_	_
+2242	вариативности	вариативность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2240	conj	_	_
+2243	?	?	PUNCT	_	_	2231	punct	_	_
+
+
+2244	Ведь	ведь	PART	_	_	2248	advmod	_	_
+2245	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2248	nsubj	_	_
+2246	–	–	PUNCT	_	_	2245	punct	_	_
+2247	это	это	PART	_	_	2248	expl	_	_
+2248	видоизменение	видоизменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	ROOT	_	_
+2249	,	,	PUNCT	_	_	2250	punct	_	_
+2250	разновидность	разновидность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2248	conj	_	_
+2251	какой	какой	DET	_	Case=Gen|Gender=Fem|Number=Sing	2254	det	_	_
+2252	-	-	DET	_	Case=Gen|Gender=Fem|Number=Sing	2254	det	_	_
+2253	то	то	DET	_	Case=Gen|Gender=Fem|Number=Sing	2254	det	_	_
+2254	основы	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2250	nmod	_	_
+2255	.	.	PUNCT	_	_	2248	punct	_	_
+
+
+2256	Но	но	CCONJ	_	_	2258	cc	_	_
+2257	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2258	nsubj	_	_
+2258	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+2259	рассматриваться	рассматриваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	2258	xcomp	_	_
+2260	в	в	ADP	_	_	2263	case	_	_
+2261	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2260	fixed	_	_
+2262	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	2263	det	_	_
+2263	основы	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2259	obl	_	_
+2264	,	,	PUNCT	_	_	2265	punct	_	_
+2265	допускающей	допускать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2263	acl	_	_
+2266	варьирование	варьирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2265	obj	_	_
+2267	?	?	PUNCT	_	_	2258	punct	_	_
+
+
+2268	Какова	какова	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2274	nsubj	_	_
+2269	"	"	PUNCT	_	_	2270	punct	_	_
+2270	точка	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2268	appos	_	_
+2271	отсчета	отсчёт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2270	nmod	_	_
+2272	"	"	PUNCT	_	_	2270	punct	_	_
+2273	при	при	ADP	_	_	2274	case	_	_
+2274	установлении	установление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	ROOT	_	_
+2275	вариативных	вариативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2276	amod	_	_
+2276	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2274	nmod	_	_
+2277	?	?	PUNCT	_	_	2274	punct	_	_
+2278	
+
+	
+
+	SPACE	_	_	2277	dep	_	_
+
+
+2279	При	При	ADP	_	_	2280	case	_	_
+2280	ответе	ответ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2285	obl	_	_
+2281	на	на	ADP	_	_	2283	case	_	_
+2282	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur	2283	det	_	_
+2283	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2280	nmod	_	_
+2284	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=First	2285	nsubj	_	_
+2285	сталкиваемся	сталкиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=First|Tense=Pres|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+2286	с	с	ADP	_	_	2287	case	_	_
+2287	одним	одним	NUM	_	Case=Ins|Gender=Masc|Number=Sing	2285	obl	_	_
+2288	из	из	ADP	_	_	2293	case	_	_
+2289	фундаментальных	фундаментальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2293	amod	_	_
+2290	лингвистических	лингвистический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2293	amod	_	_
+2291	и	и	CCONJ	_	_	2292	cc	_	_
+2292	социолингвистических	социолингвистических	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2290	conj	_	_
+2293	понятий	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2287	nmod	_	_
+2294	–	–	PUNCT	_	_	2295	punct	_	_
+2295	понятием	понятие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2287	parataxis	_	_
+2296	языковой	языковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2297	amod	_	_
+2297	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2295	nmod	_	_
+2298	.	.	PUNCT	_	_	2285	punct	_	_
+
+
