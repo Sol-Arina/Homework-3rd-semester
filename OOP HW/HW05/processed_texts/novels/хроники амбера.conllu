@@ -1,0 +1,410 @@
+1	Похоже	Похоже	ADV	_	Degree=Pos	3	parataxis	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	наступал	наступал	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+4	конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	тому	тому	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+8	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl	_	_
+9	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	8	iobj	_	_
+10	вечностью	вечность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	xcomp	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+12	
+
+	
+
+	SPACE	_	_	11	dep	_	_
+
+
+13	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	14	nsubj	_	_
+14	попробовал	попробовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+15	пошевелить	пошевелить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	пальцами	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	15	iobj	_	_
+17	ног	нога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+
+19	Успешно	Успешно	ADV	_	Degree=Pos	0	ROOT	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+
+21	Ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	_	_
+22	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	23	nsubj	_	_
+23	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+24	,	,	PUNCT	_	_	30	punct	_	_
+25	хотя	хотя	SCONJ	_	_	30	mark	_	_
+26	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	30	nsubj	_	_
+27	и	и	PART	_	_	30	advmod	_	_
+28	были	были	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	30	cop	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	гипсе	гипс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	ccomp	_	_
+31	.	.	PUNCT	_	_	23	punct	_	_
+
+
+32	А	а	CCONJ	_	_	35	cc	_	_
+33	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	35	nsubj	_	_
+35	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+36	распростертым	распростереть	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	35	xcomp	_	_
+37	на	на	ADP	_	_	39	case	_	_
+38	больничной	больничный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	койке	койка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	36	obl	_	_
+40	.	.	PUNCT	_	_	35	punct	_	_
+41	
+
+	
+
+	SPACE	_	_	40	dep	_	_
+
+
+42	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	43	nsubj	_	_
+43	зажмурился	зажмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	потом	потом	ADV	_	Degree=Pos	47	advmod	_	_
+46	снова	снова	ADV	_	Degree=Pos	47	advmod	_	_
+47	открыл	открыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	43	conj	_	_
+48	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	47	obj	_	_
+49	.	.	PUNCT	_	_	43	punct	_	_
+50	
+
+	
+
+	SPACE	_	_	49	dep	_	_
+
+
+51	Стены	стена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	54	nsubj	_	_
+52	комнаты	комната	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	51	nmod	_	_
+53	наконец	наконец	ADV	_	Degree=Pos	54	advmod	_	_
+54	перестали	перестать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+55	качаться	качаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	54	xcomp	_	_
+56	.	.	PUNCT	_	_	54	punct	_	_
+57	
+
+	
+
+	SPACE	_	_	56	dep	_	_
+
+
+58	Где	где	ADV	_	Degree=Pos	63	advmod	_	_
+59	же	же	PART	_	_	58	advmod	_	_
+60	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	63	nsubj	_	_
+61	,	,	PUNCT	_	_	62	punct	_	_
+62	черт	чёрт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	60	appos	_	_
+63	побери	побрать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=Second|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+64	?	?	PUNCT	_	_	63	punct	_	_
+65	
+
+	
+
+	SPACE	_	_	64	dep	_	_
+
+
+66	Туман	туман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	70	nsubj	_	_
+67	в	в	ADP	_	_	68	case	_	_
+68	голове	голова	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	70	obl	_	_
+69	понемногу	понемногу	ADV	_	Degree=Pos	70	advmod	_	_
+70	рассеивался	рассеиваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	ROOT	_	_
+71	;	;	PUNCT	_	_	80	punct	_	_
+72	в	в	ADP	_	_	73	case	_	_
+73	нем	нем	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=Third	80	obl	_	_
+74	,	,	PUNCT	_	_	80	punct	_	_
+75	словно	словно	SCONJ	_	_	80	mark	_	_
+76	острова	остров	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	80	nsubj	_	_
+77	в	в	ADP	_	_	78	case	_	_
+78	океане	океан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	76	nmod	_	_
+79	,	,	PUNCT	_	_	76	punct	_	_
+80	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	70	conj	_	_
+81	возникать	возникать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	80	xcomp	_	_
+82	обрывки	обрывки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	80	nsubj	_	_
+83	того	того	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	82	nmod	_	_
+84	,	,	PUNCT	_	_	89	punct	_	_
+85	что	что	SCONJ	_	_	89	mark	_	_
+86	некогда	некогда	ADV	_	Degree=Pos	89	advmod	_	_
+87	было	было	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	89	cop	_	_
+88	моей	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing	89	det	_	_
+89	памятью	память	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	83	acl	_	_
+90	.	.	PUNCT	_	_	70	punct	_	_
+91	
+	
+	SPACE	_	_	90	dep	_	_
+
+
+92	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	93	nsubj	_	_
+93	вспоминал	вспоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+94	бесконечно	бесконечно	ADV	_	Degree=Pos	95	advmod	_	_
+95	долгие	долгий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	96	amod	_	_
+96	ночи	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	93	obj	_	_
+97	,	,	PUNCT	_	_	99	punct	_	_
+98	бесчисленных	бесчисленный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	99	amod	_	_
+99	сиделок	сиделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	96	conj	_	_
+100	,	,	PUNCT	_	_	101	punct	_	_
+101	инъекции	инъекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	96	conj	_	_
+102	,	,	PUNCT	_	_	103	punct	_	_
+103	инъекции	инъекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	96	conj	_	_
+104	,	,	PUNCT	_	_	105	punct	_	_
+105	инъекции	инъекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	96	conj	_	_
+106	…	…	PUNCT	_	_	93	punct	_	_
+
+
+107	стоило	стоить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+108	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	107	iobj	_	_
+109	чуточку	чуточку	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	110	advmod	_	_
+110	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	107	csubj	_	_
+111	в	в	ADP	_	_	112	case	_	_
+112	себя	себя	PRON	_	Case=Acc	110	obl	_	_
+113	,	,	PUNCT	_	_	120	punct	_	_
+114	как	как	SCONJ	_	_	120	mark	_	_
+115	тут	тут	ADV	_	Degree=Pos	120	advmod	_	_
+116	же	же	PART	_	_	115	advmod	_	_
+117	кто	кто	PRON	_	Case=Nom	120	nsubj	_	_
+118	-	-	PRON	_	Case=Nom	120	nsubj	_	_
+119	нибудь	нибудь	PRON	_	Case=Nom	120	nsubj	_	_
+120	являлся	являться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	110	advcl	_	_
+121	и	и	CCONJ	_	_	122	cc	_	_
+122	всаживал	всаживать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	120	conj	_	_
+123	в	в	ADP	_	_	124	case	_	_
+124	меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	122	obl	_	_
+125	шприц	шприц	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	122	obj	_	_
+126	с	с	ADP	_	_	130	case	_	_
+127	какой	какой	DET	_	Case=Ins|Gender=Fem|Number=Sing	130	det	_	_
+128	-	-	DET	_	Case=Ins|Gender=Fem|Number=Sing	130	det	_	_
+129	нибудь	нибудь	DET	_	Case=Ins|Gender=Fem|Number=Sing	130	det	_	_
+130	дрянью	дрянь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	125	nmod	_	_
+131	.	.	PUNCT	_	_	107	punct	_	_
+132	
+	
+	SPACE	_	_	131	dep	_	_
+
+
+133	Да	да	PART	_	_	138	parataxis	_	_
+134	,	,	PUNCT	_	_	133	punct	_	_
+135	так	так	ADV	_	Degree=Pos	138	advmod	_	_
+136	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=Third	138	nsubj	_	_
+137	и	и	PART	_	_	138	advmod	_	_
+138	было	было	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+139	.	.	PUNCT	_	_	138	punct	_	_
+
+
+140	Это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	142	obj	_	_
+141	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	142	nsubj	_	_
+142	вспомнил	вспомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+143	.	.	PUNCT	_	_	142	punct	_	_
+
+
+144	И	и	CCONJ	_	_	149	cc	_	_
+145	пусть	пусть	PART	_	_	149	advmod	_	_
+146	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	149	nsubj	_	_
+147	только	только	PART	_	_	148	advmod	_	_
+148	наполовину	наполовину	ADV	_	Degree=Pos	149	advmod	_	_
+149	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+150	в	в	ADP	_	_	151	case	_	_
+151	себя	себя	PRON	_	Case=Acc	149	obl	_	_
+152	,	,	PUNCT	_	_	155	punct	_	_
+153	инъекции	инъекция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	155	iobj	_	_
+154	им	им	PRON	_	Case=Dat|Number=Plur|Person=Third	155	iobj	_	_
+155	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Mid	149	conj	_	_
+156	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	155	csubj	_	_
+157	.	.	PUNCT	_	_	149	punct	_	_
+158	
+
+	
+
+	SPACE	_	_	157	dep	_	_
+
+
+159	Но	но	CCONJ	_	_	160	cc	_	_
+160	захотят	захотеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+161	ли	ли	PART	_	_	160	advmod	_	_
+162	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	160	nsubj	_	_
+163	их	их	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|Person=Third	164	obj	_	_
+164	прекратить	прекратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	160	xcomp	_	_
+165	?	?	PUNCT	_	_	160	punct	_	_
+166	
+
+	
+
+	SPACE	_	_	165	dep	_	_
+
+
+167	Почему	почему	ADV	_	Degree=Pos	171	advmod	_	_
+168	-	-	ADV	_	Degree=Pos	171	advmod	_	_
+169	то	то	ADV	_	Degree=Pos	171	advmod	_	_
+170	упорно	упорно	ADV	_	Degree=Pos	171	advmod	_	_
+171	думалось	думалось	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+172	:	:	PUNCT	_	_	173	punct	_	_
+173	вряд	вряд	ADV	_	Degree=Pos	171	parataxis	_	_
+174	ли	ли	PART	_	_	173	fixed	_	_
+175	.	.	PUNCT	_	_	171	punct	_	_
+176	
+
+	
+
+	SPACE	_	_	175	dep	_	_
+
+
+177	Эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	178	det	_	_
+178	мысль	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	179	nsubj	_	_
+179	пробудила	пробудить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+180	в	в	ADP	_	_	182	case	_	_
+181	моей	мой	DET	_	Case=Loc|Gender=Fem|Number=Sing	182	det	_	_
+182	душе	душа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	179	obl	_	_
+183	естественные	естественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	184	amod	_	_
+184	сомнения	сомнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	179	obj	_	_
+185	относительно	относительно	ADP	_	_	186	case	_	_
+186	чистоты	чистота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	184	nmod	_	_
+187	любых	любой	DET	_	Case=Gen|Number=Plur	193	det	_	_
+188	,	,	PUNCT	_	_	190	punct	_	_
+189	даже	даже	PART	_	_	190	advmod	_	_
+190	самых	самых	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	191	amod	_	_
+191	лучших	хороший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	193	amod	_	_
+192	человеческих	человеческий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	193	amod	_	_
+193	побуждений	побуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	186	nmod	_	_
+194	.	.	PUNCT	_	_	179	punct	_	_
+195	
+	
+	SPACE	_	_	194	dep	_	_
+
+
+196	Меня	меня	PRON	_	Case=Acc|Number=Sing|Person=First	199	obj	_	_
+197	длительное	длительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	198	amod	_	_
+198	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	199	obl	_	_
+199	пичкали	пичкать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+200	наркотиками	наркотик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	199	iobj	_	_
+201	,	,	PUNCT	_	_	202	punct	_	_
+202	осознал	осознать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	199	conj	_	_
+203	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	202	nsubj	_	_
+204	вдруг	вдруг	ADV	_	Degree=Pos	202	advmod	_	_
+205	.	.	PUNCT	_	_	199	punct	_	_
+
+
+206	Причем	причём	CCONJ	_	_	211	cc	_	_
+207	без	без	ADP	_	_	208	case	_	_
+208	особых	особый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	211	amod	_	_
+209	на	на	ADP	_	_	210	case	_	_
+210	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	208	nmod	_	_
+211	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	ROOT	_	_
+212	,	,	PUNCT	_	_	213	punct	_	_
+213	судя	судить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	211	advcl	_	_
+214	по	по	ADP	_	_	215	case	_	_
+215	тому	тому	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	213	obl	_	_
+216	,	,	PUNCT	_	_	220	punct	_	_
+217	как	как	ADV	_	Degree=Pos	220	advmod	_	_
+218	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	220	nsubj	_	_
+219	себя	себя	PRON	_	Case=Acc	220	obj	_	_
+220	чувствую	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=First|Tense=Pres|VerbForm=Fin|Voice=Act	215	acl	_	_
+221	.	.	PUNCT	_	_	211	punct	_	_
+222	
+	
+	SPACE	_	_	221	dep	_	_
+
+
+223	Так	так	ADV	_	Degree=Pos	237	mark	_	_
+224	что	что	SCONJ	_	_	223	fixed	_	_
+225	,	,	PUNCT	_	_	223	punct	_	_
+226	если	если	SCONJ	_	_	230	mark	_	_
+227	им	им	PRON	_	Case=Dat|Number=Plur|Person=Third	230	iobj	_	_
+228	за	за	ADP	_	_	229	case	_	_
+229	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	230	obl	_	_
+230	платят	платить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	237	advcl	_	_
+231	,	,	PUNCT	_	_	237	punct	_	_
+232	с	с	ADP	_	_	234	case	_	_
+233	какой	какой	DET	_	Case=Gen|Gender=Fem|Number=Sing	234	det	_	_
+234	стати	стать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	237	obl	_	_
+235	они	они	PRON	_	Case=Nom|Number=Plur|Person=Third	237	nsubj	_	_
+236	вдруг	вдруг	ADV	_	Degree=Pos	237	advmod	_	_
+237	прекратят	прекратить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=Third|Tense=Fut|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+238	инъекции	инъекция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	237	obj	_	_
+239	?	?	PUNCT	_	_	237	punct	_	_
+
+
+240	Нет	нет	PART	_	Polarity=Neg	243	parataxis	_	_
+241	,	,	PUNCT	_	_	240	punct	_	_
+242	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	243	csubj	_	_
+243	надо	надо	ADV	_	Degree=Pos	0	ROOT	_	_
+244	очень	очень	ADV	_	Degree=Pos	245	advmod	_	_
+245	осторожно	осторожно	ADV	_	Degree=Pos	243	advmod	_	_
+246	,	,	PUNCT	_	_	247	punct	_	_
+247	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	243	parataxis	_	_
+248	мне	мне	PRON	_	Case=Dat|Number=Sing|Person=First	247	iobj	_	_
+249	мой	мой	DET	_	Case=Acc|Gender=Masc|Number=Sing	251	det	_	_
+250	внутренний	внутренний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	251	amod	_	_
+251	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	247	obj	_	_
+252	.	.	PUNCT	_	_	243	punct	_	_
+253	
+	
+	SPACE	_	_	252	dep	_	_
+
+
+254	Надо	Надо	ADV	_	Degree=Pos	0	ROOT	_	_
+255	продолжать	продолжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	254	csubj	_	_
+256	притворяться	притворяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	255	xcomp	_	_
+257	,	,	PUNCT	_	_	261	punct	_	_
+258	что	что	SCONJ	_	_	261	mark	_	_
+259	дурман	дурман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	261	nsubj	_	_
+260	еще	ещё	ADV	_	Degree=Pos	261	advmod	_	_
+261	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=Third|Tense=Pres|VerbForm=Fin|Voice=Act	256	ccomp	_	_
+262	.	.	PUNCT	_	_	254	punct	_	_
+
+
+263	Внутренний	внутренний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	264	amod	_	_
+264	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	265	nsubj	_	_
+265	принадлежал	принадлежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+266	худшей	плохой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	265	xcomp	_	_
+267	,	,	PUNCT	_	_	271	punct	_	_
+268	хотя	хотя	SCONJ	_	_	271	mark	_	_
+269	и	и	PART	_	_	270	advmod	_	_
+270	более	более	ADV	_	Degree=Cmp	271	advmod	_	_
+271	мудрой	мудрый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	265	advcl	_	_
+272	,	,	PUNCT	_	_	273	punct	_	_
+273	половине	половина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	271	conj	_	_
+274	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing	275	det	_	_
+275	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	273	nmod	_	_
+276	.	.	PUNCT	_	_	265	punct	_	_
+277	
+
+	
+
+	SPACE	_	_	276	dep	_	_
+
+
+278	Я	я	PRON	_	Case=Nom|Number=Sing|Person=First	279	nsubj	_	_
+279	последовал	последовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+280	его	он	DET	_	_	281	det	_	_
+281	совету	совет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	279	iobj	_	_
+282	.	.	PUNCT	_	_	279	punct	_	_
+283	
+
+	
+
+	SPACE	_	_	282	dep	_	_
+
+
+284	Минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	288	nsubj	_	_
+285	через	через	ADP	_	_	287	case	_	_
+286	десять	десять	NUM	_	Case=Acc	287	nummod:gov	_	_
+287	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	288	obl	_	_
+288	приоткрылась	приоткрыться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+289	,	,	PUNCT	_	_	292	punct	_	_
+290	на	на	ADP	_	_	291	case	_	_
+291	пороге	порог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	292	obl	_	_
+292	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	288	conj	_	_
+293	медсестра	медсестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	292	nsubj	_	_
+294	.	.	PUNCT	_	_	288	punct	_	_
+
+
+295	А	а	CCONJ	_	_	297	cc	_	_
+296	я	я	PRON	_	Case=Nom|Number=Sing|Person=First	297	nsubj	_	_
+297	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	ROOT	_	_
+298	себе	себя	PRON	_	Case=Dat	297	iobj	_	_
+299	и	и	CCONJ	_	_	300	cc	_	_
+300	похрапывал	похрапывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	297	conj	_	_
+301	.	.	PUNCT	_	_	297	punct	_	_
+
+
+302	Сестра	сестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	305	nsubj	_	_
+303	тут	тут	ADV	_	Degree=Pos	305	advmod	_	_
+304	же	же	PART	_	_	303	advmod	_	_
+305	удалилась	удалиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	ROOT	_	_
+306	.	.	PUNCT	_	_	305	punct	_	_
+
+
